@@ -1,27 +1,15 @@
-# Minimal Mistakes remote theme starter
+# ABI Team Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## Installation
 
-Contains basic configuration to get you a site with:
+- Using the [remote theme method](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method) of the Minimal Mistakes theme.
+- Copied all files from [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter).
+- The alternative approach, that is also compatible with GitHub Pages, is to fork the theme.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Local setup
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+This is for running things locally.
 
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+1. Install **Jekyll** and **Bundler**. See instructions [here](https://jekyllrb.com/docs/installation/).
+2. Run `$ bundle` to install Ruby gems specified in the Gemfile.
+3. Run `$ bundle exec jekyll serve --incremental` to host locally.
