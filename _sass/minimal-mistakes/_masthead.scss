@@ -16,7 +16,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 0em;
+    padding: 0.25em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -56,7 +56,6 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  background: $header-color;
 
   .site-nav {
     margin-left: 0;
