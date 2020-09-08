@@ -1,11 +1,9 @@
 ---
-layout: single
+layout: collection
 title: People
 permalink: /people/
+collection: people
 author_profile: false
 ---
 
-## test
-
-
-
+This is the people page.
