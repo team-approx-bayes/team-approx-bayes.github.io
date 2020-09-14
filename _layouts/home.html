@@ -2,5 +2,21 @@
 layout: single
 ---
 
-hello world
+<h1>News</h1>
+
+{% assign i = 0 %}
+{% for post in site.posts %}
+  {% if post.categories contains 'news' and i < 5 %}
+    <div class="news">
+      <b> {{ post.date | date: '%B %d, %Y' }} </b> <br>
+      {{ post.content }}
+      <hr>
+    </div>
+    {% assign i = i | plus:1 %}
+  {% endif %}
+{% endfor %}
+<a href="news"> Show all news... </a>
+
+	
+
 
