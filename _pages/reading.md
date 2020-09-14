@@ -1,10 +1,9 @@
 ---
 layout: single
 title: Seminar
-permalink: /reading/
+permalink: /seminar/
 author_profile: false
 ---
 
-## reading group
-[here is a time table of all previous presentations with links to the slides etc.]
+[put here a time table of all previous presentations with links to the slides etc.]
 
