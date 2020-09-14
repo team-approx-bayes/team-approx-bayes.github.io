@@ -2,7 +2,17 @@
 layout: single
 ---
 
-<h1>News</h1>
+<h3>Research Highlights</h3>
+
+
+<h3>About Us</h3>
+<div class="about">
+Our research goal is to discover the principles of learning from data and use them to develop
+algorithms that can learn like living beings. Our current focus is on develop new life-long
+learning algorithms to autonomously learn to percept, act and reason throughout their lives.
+</div>
+
+<h3>News</h3>
 
 {% assign i = 0 %}
 {% for post in site.posts %}
@@ -15,7 +25,7 @@ layout: single
     {% assign i = i | plus:1 %}
   {% endif %}
 {% endfor %}
-<a href="news"> Show all news... </a>
+<a href="news" class="news"> Show all news... </a>
 
 	
 
