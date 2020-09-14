@@ -2,23 +2,35 @@
 layout: single
 ---
 
-<h3>Research Highlights</h3>
+<h1>Research Highlights</h1>
 
 
-<h3>About Us</h3>
+<h1>About Us</h1>
 <div class="about">
 Our research goal is to discover the principles of learning from data and use them to develop
 algorithms that can learn like living beings. Our current focus is on develop new life-long
 learning algorithms to autonomously learn to percept, act and reason throughout their lives.
 </div>
 
-<h3>News</h3>
+<br>
+
+<h1>News</h1>
+
+{% for post in site.posts %}
+  {% if post.categories contains 'pinned-news' %}
+    <div class="news">
+      <i class="fa fa-thumbtack"></i>  <b> {{ post.title }} </b> <br>
+      {{ post.content }}
+      <hr>
+    </div>
+  {% endif %}
+{% endfor %}
 
 {% assign i = 0 %}
 {% for post in site.posts %}
   {% if post.categories contains 'news' and i < 5 %}
     <div class="news">
-      <b> {{ post.date | date: '%B %d, %Y' }} </b> <br>
+       <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> <br>
       {{ post.content }}
       <hr>
     </div>
@@ -26,7 +38,3 @@ learning algorithms to autonomously learn to percept, act and reason throughout 
   {% endif %}
 {% endfor %}
 <a href="news" class="news"> Show all news... </a>
-
-	
-
-
