@@ -1,9 +1,10 @@
 {% assign entries = site[include.collection] %}
 
-{% assign entries = entries | sort: include.sort_by | include.sort_order %}
+{% assign groups = entries | group_by: 'rank' | sort: 'name' %}
 
-{%- for post in entries -%}
-  {%- unless post.hidden -%}
+{% for group in groups %}
+  {% assign entriesInGroup = group.items | sort: 'date' %}
+  {% for post in entriesInGroup %}
     {% include people-single.html %}
-  {%- endunless -%}
-{%- endfor -%}
+  {%- endfor -%}
+{% endfor %}
