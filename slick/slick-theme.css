@@ -204,12 +204,14 @@
 }
 .slick-prev {
     z-index: 1000;
+    left: -5px;
 }
 .slick-next {
     z-index: 1000;
+    right: -5px;
 }
 .slick-slide {
-	padding: 0 5px;
+	padding: 0 20px;
 	box-sizing: border-box;
  }
 
