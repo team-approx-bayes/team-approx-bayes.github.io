@@ -5,7 +5,7 @@ permalink: /people/
 collection: people
 author_profile: false
 entries_layout: grid
-sort_by: title
+sort_by: rank
 sort_order: forward
 <!-- classes: wide -->
 <!-- show_excerpts: true -->
