@@ -5,9 +5,9 @@ permalink: /people/
 collection: people
 author_profile: false
 entries_layout: grid
-classes: wide
 sort_by: title
 sort_order: forward
+<!-- classes: wide -->
 <!-- show_excerpts: true -->
 ---
 
