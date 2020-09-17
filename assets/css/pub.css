@@ -46,28 +46,35 @@
 
 /* formatting for links*/
 /* unvisited link */
+/*
 a:link {
   color: #FF0000;
   text-decoration: none;
 }
-
+*/
 /* visited link */
+/*
 a:visited {
   color: #0009FF;
   text-decoration: none;
 }
+*/
 
 /* mouse over link */
+/*
 a:hover {
   color: green;
   text-decoration: none;
 }
+*/
 
 /* selected link */
+/*
 a:active {
   color: #0000FF;
   text-decoration: none;
 }
+*/
 
 
 /* taken from https://codepen.io/Idered/pen/AeBgF for "read more" toggle */
