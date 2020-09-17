@@ -18,9 +18,11 @@ https://coolors.co/cb997e-eddcd2-fff1e6-f0efeb-ddbea9-a5a58d-b7b7a4
 */
 $background-color: #f0efeb !default;
 $text-color: #000000 !default;
-$header-color: #fff1e6 !default;
+$header-color: #ddbea9 !default;
 $masthead-link-color: #cb997e !default;
-$info-color: #ddbea9 !default;
+$info-color: #ddbea9 !default;  /* links etc */ 
+$border-color: #ddbea9 !default;  /* horizontal dividers etc */ 
+
 
 /* ==========================================================================
    Variables
@@ -88,7 +90,6 @@ $lighter-gray: mix(#fff, $gray, 90%) !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $muted-text-color: mix(#fff, $text-color, 20%) !default;
-$border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
