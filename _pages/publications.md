@@ -7,7 +7,7 @@ custom_css: pub
 ---
 
 &nbsp;&nbsp;&nbsp; [ <a href="#pubs">Peer-Reviewed Publications</a> ]
-&nbsp;&nbsp;&nbsp; [ <a href="#writings">Writings and Presentations</a> ]
+
 
 <div class="w3-container">
 
