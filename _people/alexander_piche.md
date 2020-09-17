@@ -1,6 +1,6 @@
 ---
 title: Alexander Piche
-excerpt: Remote Collaborator
+excerpt: Remote Collaborator // MILA
 header:
   teaser: http://placehold.it/200x200
 ---

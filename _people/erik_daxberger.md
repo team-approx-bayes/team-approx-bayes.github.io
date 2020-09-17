@@ -1,6 +1,6 @@
 ---
 title: Erik Daxberger
-excerpt: Remote Collaborator
+excerpt: Remote Collaborator // University of Cambridge
 header:
   teaser: http://placehold.it/200x200
 ---

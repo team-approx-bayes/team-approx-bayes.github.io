@@ -1,6 +1,6 @@
 ---
 title: Dimitri Meunier
-excerpt: Remote Collaborator
+excerpt: Remote Collaborator // ENSAE Paris
 header:
   teaser: http://placehold.it/200x200
 ---

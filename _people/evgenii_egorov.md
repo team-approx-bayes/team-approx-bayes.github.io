@@ -1,6 +1,6 @@
 ---
 title: Evgenii Egorov
-excerpt: Remote Collaborator
+excerpt: Remote Collaborator // Skoltech
 header:
   teaser: http://placehold.it/200x200
 ---
