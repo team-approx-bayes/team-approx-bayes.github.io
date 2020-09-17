@@ -1,11 +1,14 @@
 ---
-layout: single
 title: People
+layout: collection
 permalink: /people/
+collection: people
 author_profile: false
+entries_layout: grid
+classes: wide
+<!-- show_excerpts: true -->
+<!-- sort_by: --> # date (default) title
+<!-- sort_order: --> # forward (default), reverse
 ---
 
-## test
-
-
-
+This is the people page.
