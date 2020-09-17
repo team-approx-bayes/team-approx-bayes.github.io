@@ -6,9 +6,6 @@ author_profile: false
 custom_css: pub
 ---
 
-&nbsp;&nbsp;&nbsp; [ <a href="#pubs">Peer-Reviewed Publications</a> ]
-
-
 <div class="w3-container">
 
   <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">Early Drafts/Preprints</h2>

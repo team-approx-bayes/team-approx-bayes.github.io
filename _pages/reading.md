@@ -7,7 +7,7 @@ author_profile: false
 
 
 
-* [25/09/2020] **Talk** - [François-Xavier Briol](https://fxbriol.github.io/) (UCL): Stein's Method for Computational Statistics and Machine Learning
+* [25/09/2020] **Seminar** - [François-Xavier Briol](https://fxbriol.github.io/) (UCL): Stein's Method for Computational Statistics and Machine Learning
 
 * [11/09/2020] **Reading group** - Survey on federated learning [ [Slides](/assets/rgroups/federated_learning.pdf) ]
 
