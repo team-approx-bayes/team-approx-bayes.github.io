@@ -5,4 +5,5 @@ permalink: /publications/
 author_profile: false
 ---
 
-## test
+{% bibliography --file toread.bib %}
+
