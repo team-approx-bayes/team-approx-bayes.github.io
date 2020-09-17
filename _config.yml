@@ -97,7 +97,7 @@ scholar:
 # Collections
 collections:
   people:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 defaults:

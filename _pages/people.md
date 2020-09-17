@@ -1,5 +1,5 @@
 ---
-title: People
+title: Current team members
 layout: single
 permalink: /people/
 collection: people
