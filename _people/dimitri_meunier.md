@@ -2,7 +2,7 @@
 title: Dimitri Meunier
 excerpt: Remote Collaborator // ENSAE Paris
 header:
-  teaser: http://placehold.it/200x200
+  teaser: /assets/images/placeholder_people_200.png
 ---
 
 Hi my name is Dimitri.

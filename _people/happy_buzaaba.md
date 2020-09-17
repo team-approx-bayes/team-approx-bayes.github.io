@@ -3,7 +3,7 @@ title: Happy Buzaaba
 excerpt: Part-time Student // University of Tsukuba
 link: http://www.kde.cs.tsukuba.ac.jp/~happy-b/
 header:
-  teaser: http://placehold.it/200x200
+  teaser: /assets/images/placeholder_people_200.png
 ---
 
 Hi my name is Happy.

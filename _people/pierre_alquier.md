@@ -3,7 +3,7 @@ title: Pierre Alquier
 excerpt: Research Scientist
 link: https://pierrealquier.github.io/
 header:
-  teaser: http://placehold.it/200x200
+  teaser: /assets/images/placeholder_people_200.png
 ---
 
 Hi my name is Pierre.

@@ -3,7 +3,7 @@ title: Emtiyaz Khan
 excerpt: Team Leader
 link: https://emtiyaz.github.io/
 header:
-  teaser: http://placehold.it/200x200
+  teaser: /assets/images/placeholder_people_200.png
 ---
 
 Hi my name is Emti.
