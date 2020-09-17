@@ -2,6 +2,34 @@
 layout: single
 ---
 
+<h1>News</h1>
+
+{% for post in site.posts %}
+  {% if post.categories contains 'pinned-news' %}
+    <div class="news">
+      <i class="fa fa-thumbtack"></i>  <b> {{ post.title }} </b> <br>
+      {{ post.content }}
+      <hr>
+    </div>
+  {% endif %}
+{% endfor %}
+
+{% assign i = 0 %}
+{% for post in site.posts %}
+  {% if post.categories contains 'news' and i < 5 %}
+    <div class="news">
+       <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> <br>
+      {{ post.content }}
+      <hr>
+    </div>
+    {% assign i = i | plus:1 %}
+  {% endif %}
+{% endfor %}
+<a href="news" class="news"> Show older news... </a>
+
+<br>
+<br>
+
 <h1>About Us</h1>
 
 <div style="margin: 0px;">
@@ -89,32 +117,6 @@ algorithms that can learn like living beings. Our current focus is on develop ne
 learning algorithms to autonomously learn to percept, act and reason throughout their lives.
 </div>
 
-<br>
-
-<h1>News</h1>
-
-{% for post in site.posts %}
-  {% if post.categories contains 'pinned-news' %}
-    <div class="news">
-      <i class="fa fa-thumbtack"></i>  <b> {{ post.title }} </b> <br>
-      {{ post.content }}
-      <hr>
-    </div>
-  {% endif %}
-{% endfor %}
-
-{% assign i = 0 %}
-{% for post in site.posts %}
-  {% if post.categories contains 'news' and i < 5 %}
-    <div class="news">
-       <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> <br>
-      {{ post.content }}
-      <hr>
-    </div>
-    {% assign i = i | plus:1 %}
-  {% endif %}
-{% endfor %}
-<a href="news" class="news"> Show older news... </a>
 
 
     
