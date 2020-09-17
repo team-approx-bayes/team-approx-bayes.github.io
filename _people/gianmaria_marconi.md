@@ -2,7 +2,7 @@
 title: Gian Maria Marconi
 excerpt: Postdoc
 header:
-  teaser: http://placehold.it/200x200
+  teaser: /assets/images/gianma_propic.jpg
 ---
 
 Hi my name is Gian Maria.
