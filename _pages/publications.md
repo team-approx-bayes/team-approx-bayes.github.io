@@ -13,18 +13,48 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">Early Drafts/Preprints</h2>
    <ul class="w3-ul">
-      <li>
-         <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past</span>, <br>
-         <span class="conf">(Under Review)</span>
-         <span class="author">P. Pan, S. Swaroop, A. Immer, R. Eschenhagen, R. E. Turner,</span> <span class="me">M.E. Khan</span>
-         [ <a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a> ]
-      </li>
-      <li>
-         <span class="title">Learning Algorithms from Bayesian Principles</span>, <br>
-         <span class="conf">(Early draft, Work in progress)</span>
-         <span class="me">M.E. Khan</span>, <span class="author"> H. Rue</span>   
-         [ <a href="papers/learning_from_bayes.pdf" target="_blank">Draft version</a> ]
-      </li>
+   
+     <li>
+       <span class="title">Non-exponentially weighted aggregation: regret bounds for unbounded loss functions</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">P. Alquierre</span>
+       [ <a href="https://arxiv.org/abs/2009.03017" target="_blank">Arxiv</a> ]
+  </li>
+
+  <li>
+       <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past</span>, <br>
+       <span class="conf">(Under Review)</span>
+       <span class="author">P. Pan, S. Swaroop, A. Immer, R. Eschenhagen, R. E. Turner,</span> <span class="me">M.E. Khan</span>
+       [ <a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a> ]
+  </li>
+  
+  <li>
+       <span class="title">Universal Robust Regression via Maximum Mean Discrepancy</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">P. Alquierre, M. Gerber</span>
+       [ <a href="https://arxiv.org/abs/2006.00840" target="_blank">Arxiv</a> ]
+  </li>
+  
+  <li>
+       <span class="title">Learning Algorithms from Bayesian Principles</span>, <br>
+       <span class="conf">(Early draft, Work in progress)</span>
+       <span class="me">M.E. Khan</span>, <span class="author"> H. Rue</span>
+       [ <a href="papers/learning_from_bayes.pdf" target="_blank">Draft version</a> ]
+   </li>
+
+   
+  <li>
+       <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
+       <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
+       <span class="author">C. Léna, P. Alquierre</span>
+       [ <a href="https://arxiv.org/abs/1709.03346" target="_blank">Arxiv</a> ]
+  </li>
+  <li>
+       <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">B.E. Chérief-Abdellatif, B. Ratni, P. Alquierre</span>
+       [ <a href="https://arxiv.org/abs/1912.05737" target="_blank">Arxiv</a> ]
+  </li>
    </ul>
 
   <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">2020</h2>
