@@ -14,7 +14,7 @@ custom_css: pub
      <li>
        <span class="title">Non-exponentially weighted aggregation: regret bounds for unbounded loss functions</span>, <br>
        <span class="conf">(Preprint)</span>
-       <span class="author">P. Alquierre</span>
+       <span class="author">P. Alquier</span>
        [ <a href="https://arxiv.org/abs/2009.03017" target="_blank">Arxiv</a> ]
   </li>
 
@@ -28,7 +28,7 @@ custom_css: pub
   <li>
        <span class="title">Universal Robust Regression via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(Preprint)</span>
-       <span class="author">P. Alquierre, M. Gerber</span>
+       <span class="author">P. Alquier, M. Gerber</span>
        [ <a href="https://arxiv.org/abs/2006.00840" target="_blank">Arxiv</a> ]
   </li>
   
@@ -43,13 +43,13 @@ custom_css: pub
   <li>
        <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
        <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
-       <span class="author">C. Léna, P. Alquierre</span>
+       <span class="author">C. Léna, P. Alquier</span>
        [ <a href="https://arxiv.org/abs/1709.03346" target="_blank">Arxiv</a> ]
   </li>
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
        <span class="conf">(Preprint)</span>
-       <span class="author">B.E. Chérief-Abdellatif, B. Ratni, P. Alquierre</span>
+       <span class="author">B.E. Chérief-Abdellatif, B. Ratni, P. Alquier</span>
        [ <a href="https://arxiv.org/abs/1912.05737" target="_blank">Arxiv</a> ]
   </li>
    </ul>
@@ -59,7 +59,7 @@ custom_css: pub
       <li>
          <span class="title">Concentration of tempered posteriors and of their variational approximations</span>, <br>
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-statistics/" target="_blank">Annals of Statistics</a>)</span>
-         <span class="author">P. Alquierre, J. Ridgway</span>   
+         <span class="author">P. Alquier, J. Ridgway</span>   
          [ <a href="https://arxiv.org/abs/1706.09293" target="_blank">ArXiv</a> ] 
       </li>
 
@@ -73,7 +73,7 @@ custom_css: pub
       <li>
          <span class="title">High-dimensional VAR with low-rank transition</span>, <br>
          <span class="conf">(<a href="https://link.springer.com/journal/11222/volumes-and-issues/30-4" target="_blank">Statistics and Computing</a>)</span>
-         <span class="author">P. Alquierre, K. Bertin, P. Doukhan, R. Garnier</span>   
+         <span class="author">P. Alquier, K. Bertin, P. Doukhan, R. Garnier</span>   
          [ <a href="https://arxiv.org/abs/1905.00959" target="_blank">ArXiv</a> ] 
       </li>
 
@@ -110,7 +110,7 @@ custom_css: pub
       <li>
          <span class="title">MMD-Bayes: Bayesian Estimation via Maximum Mean Discrepancy</span>, <br>
          <span class="conf">(<a href="http://proceedings.mlr.press/v118/" target="_blank">PMLR</a>)</span>
-         <span class="author">B.E. Chérief-Abdellatif, P. Alquierre</span> 
+         <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span> 
          [ <a href="http://proceedings.mlr.press/v118/cherief-abdellatif20a/cherief-abdellatif20a.pdf" target="_blank">Paper</a> ]
          [ <a href="https://arxiv.org/abs/1909.13339" target="_blank">ArXiv</a> ] 
       </li>

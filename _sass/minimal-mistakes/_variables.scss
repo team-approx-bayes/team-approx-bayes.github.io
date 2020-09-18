@@ -1,4 +1,11 @@
-/*https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51*/
+/* 
+info-color: links, etc.
+border-color: horizontal dividers
+*/
+
+/*
+Palette: https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51
+*/
 /*
 $pal1: #264653 !default;
 $pal2: #2A9D8F !default;
@@ -11,16 +18,18 @@ $text-color: #ffffff !default;
 $header-color: $pal3 !default;
 $masthead-link-color: $pal2 !default;
 $info-color: $pal4 !default;
+$border-color: $pal4 !default; 
 */
 
 /*
-https://coolors.co/cb997e-eddcd2-fff1e6-f0efeb-ddbea9-a5a58d-b7b7a4
+Palette: https://coolors.co/cb997e-eddcd2-fff1e6-f0efeb-ddbea9-a5a58d-b7b7a4
 */
 /*
 $background-color: #f0efeb !default;
 $text-color: #000000 !default;
 $header-color: #ddbea9 !default;
 $masthead-link-color: #cb997e !default;
+<<<<<<< HEAD
 $info-color: #ddbea9 !default;   
 $border-color: #ddbea9 !default;   
 */
@@ -35,6 +44,20 @@ $header-color: #EFEFEF  !default;
 $masthead-link-color: #3F3F3F  !default;
 $info-color: #F0DFAF !default;   
 $border-color: #ddbea9 !default;    
+
+
+/*
+Palette: https://coolors.co/fffcf2-ccc5b9-403d39-252422-eb5e28
+*/
+/*
+$background-color: #fffcf2 !default;
+$text-color: #252422 !default;
+$header-color: #ccc5b9 !default;
+$masthead-link-color: #252422 !default;
+$info-color: #eb5e28 !default;  
+$border-color: #252422 !default;  
+*/
+
 
 /* ==========================================================================
    Variables
