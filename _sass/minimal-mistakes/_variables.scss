@@ -16,13 +16,25 @@ $info-color: $pal4 !default;
 /*
 https://coolors.co/cb997e-eddcd2-fff1e6-f0efeb-ddbea9-a5a58d-b7b7a4
 */
+/*
 $background-color: #f0efeb !default;
 $text-color: #000000 !default;
 $header-color: #ddbea9 !default;
 $masthead-link-color: #cb997e !default;
-$info-color: #ddbea9 !default;  /* links etc */ 
-$border-color: #ddbea9 !default;  /* horizontal dividers etc */ 
+$info-color: #ddbea9 !default;   
+$border-color: #ddbea9 !default;   
+*/
 
+/* 
+ZENBURN
+https://www.colourlovers.com/palette/1510720/Zenburn
+*/
+$background-color: #3F3F3F !default;
+$text-color: #DCA3A3  !default;
+$header-color: #EFEFEF  !default;
+$masthead-link-color: #3F3F3F  !default;
+$info-color: #F0DFAF !default;   
+$border-color: #ddbea9 !default;    
 
 /* ==========================================================================
    Variables
