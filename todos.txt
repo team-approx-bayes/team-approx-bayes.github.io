@@ -1,0 +1,4 @@
+TODOs:
+- implement seminar as a collection (similar to news)
+- make sensitive links password-protected (i.e. some internal slides for reading group)
+- implement blog
