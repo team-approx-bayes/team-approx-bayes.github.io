@@ -13,7 +13,7 @@ author_profile: false
 
 * [04/09/2020] **Reading Group** - Survey on Transfer Learning [ [Slides](/assets/rgroups/transfer_learning.pdf) ]
 
-* [28/08/2020] **Discussion** - Lab members projects overview [ [Slides](/assets/rgroups/lab_overview.pdf) ]
+* [28/08/2020] **Discussion** - Lab members projects overview <!--[ [Slides](/assets/rgroups/lab_overview.pdf) ]-->
 
 * [21/08/2020] **Discussion** - Pierre's grant presentation rehearsal
 
