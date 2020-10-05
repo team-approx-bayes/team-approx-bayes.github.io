@@ -23,6 +23,7 @@ github_username:
 #minimal_mistakes_skin: "dark"
 search: false
 author_profile: false
+future: true #show future posts
 
 # Build settings
 markdown: kramdown

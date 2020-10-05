@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Publications
+title: List of Publications
 permalink: /publications/
 author_profile: false
 custom_css: pub

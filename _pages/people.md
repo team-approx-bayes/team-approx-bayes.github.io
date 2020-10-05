@@ -1,5 +1,5 @@
 ---
-title: Current team members
+title: Current Team Members
 layout: single
 permalink: /people/
 author_profile: false
