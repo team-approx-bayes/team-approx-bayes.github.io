@@ -1,9 +1,11 @@
 ---
 layout: single
-title: Upcoming Reading Group and Internal Talks
+title: Weekly Seminar / Reading Group
 permalink: /seminar/
 author_profile: false
 ---
+
+## Upcoming
 
 <section class="page__content cf">
 
@@ -13,7 +15,7 @@ author_profile: false
 {% if post.categories contains 'seminar' %}
     {% if postStartDate >= curDate %}
     <div class="news">
-       <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> @ {{post.time}} <br>
+       <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} @ {{post.time}} </b> <br>
       {{ post.content }}
     </div>
   {% endif %}
@@ -22,7 +24,7 @@ author_profile: false
 
 </section>
 
-# Past Meetings
+## Past Meetings
 
 <section class="page__content cf">
 

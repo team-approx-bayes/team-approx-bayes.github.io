@@ -34,16 +34,18 @@ h6 {
 }
 
 h1 {
-  margin-top: 0;
+  margin-top: 0.1em;
   font-size: $h-size-3;
 }
 
 h2 {
+    margin-top: 0.1em;
   font-size: $h-size-4;
 }
 
 h3 {
-  font-size: $h-size-5;
+    margin-top: 0.1em;
+  font-size: $h-size-4;
 }
 
 h4 {
@@ -413,6 +415,17 @@ a:active {
 }
 */
 
+
+.post-header {
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+.post-meta {
+  color: gray;
+  font-variant: small-caps;
+  font-size:100%;
+}
 
 
 

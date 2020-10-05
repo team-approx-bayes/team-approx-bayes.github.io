@@ -36,7 +36,7 @@ custom_css: pub
        <span class="title">Learning Algorithms from Bayesian Principles</span>, <br>
        <span class="conf">(Early draft, Work in progress)</span>
        <span class="author">M.E. Khan, H. Rue</span>
-       [ <a href="papers/learning_from_bayes.pdf" target="_blank">Draft version</a> ]
+       [ <a href="https://emtiyaz.github.io/papers/learning_from_bayes.pdf" target="_blank">Draft version</a> ]
    </li>
 
    
