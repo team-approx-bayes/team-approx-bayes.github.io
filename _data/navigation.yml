@@ -5,7 +5,7 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
-  - title: "Reading Group"
+  - title: "Reading-Group"
     url: /reading/
   # - title: "Blog"
   #   url: /blog/

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Reading Group
+title: Weekly Reading Group
 permalink: /reading/
 author_profile: false
 ---
