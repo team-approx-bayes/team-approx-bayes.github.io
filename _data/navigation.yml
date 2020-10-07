@@ -7,5 +7,5 @@ main:
     url: /publications/
   - title: "Seminar"
     url: /seminar/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/

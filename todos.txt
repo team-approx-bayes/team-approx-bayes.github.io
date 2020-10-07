@@ -1,9 +1,7 @@
 TODOs:
-- make sensitive links password-protected (i.e. some internal slides for reading group)
 - separate the news / seminar / blog posts in the _posts folder into subfolders or into three different "blogs"
 - adjust colors for news/seminar page (gray, font from publications page?) 
 
 DONE:
 - implement blog
 - implement seminar as a collection (similar to news)
-
