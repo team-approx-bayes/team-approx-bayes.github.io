@@ -149,7 +149,7 @@ custom_css: pub
       <li>
          <span class="title">Matrix factorization for multivariate time series analysis</span>, <br>
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">EJS</a>)</span>
-         <span class="author">P. Alquierre, N. Marie</span> 
+         <span class="author">P. Alquier, N. Marie</span> 
          [ <a href="https://arxiv.org/abs/1903.05589" target="_blank">arXiv</a> ] 
       </li>
 
@@ -303,6 +303,3 @@ custom_css: pub
   <br> 
 
 <div style="pointer-events: none !important; display: none !important; position: absolute; top: 0px !important; left: 0px !important; z-index: 2147483647 !important; box-sizing: content-box !important;"></div>
-
-
-
