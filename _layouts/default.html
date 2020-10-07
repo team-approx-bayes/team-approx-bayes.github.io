@@ -16,7 +16,9 @@
        {% for stylesheet in page.custom_css %}
        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
        {% endfor %}
-    {% endif %}
+   {% endif %}
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/slick/slick-theme.css"/>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
