@@ -1,5 +1,6 @@
 ---
 title: Pierre Alquier
+type: member
 excerpt: Research Scientist
 link: https://pierrealquier.github.io/
 rank: 2

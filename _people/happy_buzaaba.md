@@ -1,5 +1,6 @@
 ---
 title: Happy Buzaaba
+type: member
 excerpt: Part-time Student // University of Tsukuba
 link: http://www.kde.cs.tsukuba.ac.jp/~happy-b/
 rank: 6

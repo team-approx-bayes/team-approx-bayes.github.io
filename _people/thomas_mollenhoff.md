@@ -1,5 +1,6 @@
 ---
 title: Thomas Möllenhoff
+type: member
 excerpt: Postdoc
 link: https://www.thomasmoellenhoff.net/
 rank: 3

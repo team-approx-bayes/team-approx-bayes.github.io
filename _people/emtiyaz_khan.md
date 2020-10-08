@@ -1,5 +1,6 @@
 ---
 title: Emtiyaz Khan
+type: member
 excerpt: Team Leader
 link: https://emtiyaz.github.io/
 rank: 1

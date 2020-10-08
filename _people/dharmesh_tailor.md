@@ -1,5 +1,6 @@
 ---
 title: Dharmesh Tailor
+type: member
 excerpt: Research Assistant
 link: https://dvtailor.github.io/
 rank: 5

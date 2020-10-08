@@ -1,5 +1,6 @@
 ---
 title: Gian Maria Marconi
+type: member
 excerpt: Postdoc
 link: https://gmmarconi.github.io/
 rank: 3
