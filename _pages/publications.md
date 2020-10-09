@@ -10,6 +10,13 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">Early Drafts/Preprints</h2>
    <ul class="w3-ul">
+
+     <li>
+       <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
+       [ <a href="https://arxiv.org/abs/2010.00408" target="_blank">Arxiv</a> ]
+  </li>
    
      <li>
        <span class="title">Non-exponentially weighted aggregation: regret bounds for unbounded loss functions</span>, <br>
