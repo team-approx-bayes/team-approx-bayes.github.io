@@ -14,7 +14,8 @@ author_profile: false
   {% assign postStartDate = post.date | date: '%s' %}
   {% if post.categories contains "seminar" and postStartDate >= curDate %}
     <div class="news">
-    <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} @ {{post.time}} </b>
+    <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }}
+	{% if post.time %} @ {{post.time}} {% endif %} </b>
 	<br>
     {{ post.content }}
     </div>
