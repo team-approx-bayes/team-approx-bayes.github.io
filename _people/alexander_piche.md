@@ -1,5 +1,5 @@
 ---
-title: Alexander Piche
+title: Alexandre Piché
 type: member
 excerpt: Remote Collaborator // MILA
 link: https://mila.quebec/en/person/alexandre-piche/
