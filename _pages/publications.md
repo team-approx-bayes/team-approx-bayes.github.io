@@ -149,7 +149,7 @@ custom_css: pub
 
       <li>
          <span class="title">A Generalization Bound for Online Variational Inference</span> (<a href="http://www.acml-conf.org/2019/conference/awards/" target="_blank"><b>best paper award</b></a>),<br>
-         <span class="conf">(<a href="http://www.acml-conf.org/2019/" target="_blank">ACML 2019</a>)</span> <span class="author"> Badr-Eddine Chérief-Abdellatif, Pierre Alquier, M.E. Khan</span>.
+         <span class="conf">(<a href="http://www.acml-conf.org/2019/" target="_blank">ACML 2019</a>)</span> <span class="author"> B.-E. Chérief-Abdellatif, P. Alquier, M.E. Khan</span>.
       [ <a href="https://arxiv.org/abs/1904.03920" target="_blank">arXiv</a> ] 
       </li>
 
