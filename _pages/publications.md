@@ -43,13 +43,13 @@ custom_css: pub
   <li>
        <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
        <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
-       <span class="author">C. Léna, P. Alquier</span>
+       <span class="author">L. Carel, P. Alquier</span>
        [ <a href="https://arxiv.org/abs/1709.03346" target="_blank">Arxiv</a> ]
   </li>
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
        <span class="conf">(Preprint)</span>
-       <span class="author">B.E. Chérief-Abdellatif, B. Ratni, P. Alquier</span>
+       <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
        [ <a href="https://arxiv.org/abs/1912.05737" target="_blank">Arxiv</a> ]
   </li>
    </ul>
