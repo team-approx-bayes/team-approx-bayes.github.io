@@ -3,6 +3,7 @@ title: Current Team Members
 layout: single
 permalink: /people/
 affiliation_profile: false
+author_profile: false
 entries_layout: grid
 custom_css: people
 <!-- classes: wide -->
