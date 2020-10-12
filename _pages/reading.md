@@ -22,8 +22,9 @@ author_profile: false
   {% endif %}
   {% endfor %}
   
-</section>
-  
+  </section>
+
+  <br>
 
 ## Past Meetings
 
