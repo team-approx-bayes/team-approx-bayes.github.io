@@ -10,34 +10,17 @@ html {
   background-color: $background-color;
   font-size: 10px;
 
-  #groupimg {
-      height: 100px;
-  }
 
   @include breakpoint($medium) {
-      font-size: 12px;
-      
-    #groupimg {
-	     height: 150px;
-    }
-    
+    font-size: 12px;
   }
 
   @include breakpoint($large) {
     font-size: 14px;
-
-    #groupimg {
-	     height: 200px;
-    }
   }
 
   @include breakpoint($x-large) {
-      font-size: 16px;
-
-     #groupimg {
-	     height: 250px;
-    }
-
+    font-size: 16px;
   }
 
   -webkit-text-size-adjust: 100%;

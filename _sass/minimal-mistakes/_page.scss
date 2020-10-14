@@ -36,6 +36,12 @@ body {
 }
 
 .page {
+
+  @include breakpoint($medium) {
+    float: left;
+    width: 768px;
+  }
+
   @include breakpoint($large) {
     float: right;
     width: 100%;
@@ -44,7 +50,7 @@ body {
 
   @include breakpoint($x-large) {
       width: 100%;
-      padding-right: $right-sidebar-width;
+      padding-right: $right-sidebar-width-narrow;
   }
 
   .page__inner-wrap {

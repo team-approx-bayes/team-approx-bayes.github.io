@@ -62,7 +62,7 @@ custom_css: people
 <br>
 <!--  -->
 <h3>Interns / Trainees</h3>
-<table class="responsive-table table">
+<table class="responsive-table table" font-size="1em">
   <tr>
     <th>Name</th>
     <th>Dates</th>

@@ -1,7 +1,7 @@
 ---
 title: Siddharth Swaroop
 type: member
-excerpt: Remote Collaborator // University of Cambridge
+excerpt: Remote Collaborator // *University of Cambridge*
 rank: 7
 date: 2018-11-01 00:00:00
 header:

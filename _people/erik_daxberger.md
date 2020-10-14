@@ -1,7 +1,7 @@
 ---
 title: Erik Daxberger
 type: member
-excerpt: Remote Collaborator // University of Cambridge
+excerpt: Remote Collaborator // *University of Cambridge*
 link: https://edaxberger.github.io/
 rank: 7
 date: 2020-06-01 00:00:00
