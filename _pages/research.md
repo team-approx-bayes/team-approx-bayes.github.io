@@ -13,7 +13,7 @@ The current focus is on developing new algorithms which enable machines to auton
 Our research often brings together ideas from a variety of theoretical and applied fields, such as, mathematical optimization,
 Bayesian statistics, information geometry, signal processing, and control systems.
 
-For more information, see our current [publications](publications/).
+For more information, see our current [publications](../publications/).
 
 # Blog
 This blog provides a medium for our researchers to present their recent research findings, insights and updates. The posts in the blog
