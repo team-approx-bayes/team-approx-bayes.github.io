@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Programmes for Junior Scientists
-permalink: /vacancies
+permalink: /vacancies/
 author_profile: false
 feature_row:
     - image_path: /assets/images/riken_junior_scientists.jpg
