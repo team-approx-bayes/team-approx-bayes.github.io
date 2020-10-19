@@ -19,10 +19,10 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   ABI at RIKEN AIP
 twitter_username:
-github_username: 
+github_username:
 #minimal_mistakes_skin: "dark"
 search: false
-author_profile: false
+author_profile: true
 future: true #show future posts
 url: "https://team-approx-bayes.github.io"
 repository: "team-approx-bayes/team-approx-bayes.github.io"
@@ -61,22 +61,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Approximate Bayesian Inferen Team"
+  #avatar : "/assets/images/Riken_Logo.png"
+  bio    : "
+  This is the webpage of the Approximate Bayesian Inference Team @ [AIP RIKEN](https://www.riken.jp/en/research/labs/aip/).
+  <br><br>
+  The team goal is to develop algorithms that allow machines to autonomously learn, perceive and interact with the environment.
+  <br><br>
+  Our works focus on a diverse set of machine learning areas: approximate inference, online learning, deep learning, continual learning, active learning.
+  We develop novel bulding on top of a wide array of fields such as optimization, PAC-Bayesiaan statistics, information geometry and more.
+  <br><br>
+  If you are interested in joining us, please check the news and the people page.
+  <br>
+  "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/emtiyazkhan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/team-approx-bayes"
+
+
+
 
 footer:
   links:
