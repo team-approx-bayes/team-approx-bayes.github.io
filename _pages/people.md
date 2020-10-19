@@ -10,17 +10,15 @@ custom_css: people
 <!-- show_excerpts: true -->
 ---
 
-The Approximate Bayesian Inference Teams is a diverse group of people that
-encourages a multi-cultural <br>
-environment, we think this is a key ingredient for any successful workplace,
+The Approximate Bayesian Inference Team is a diverse group of people that
+encourages a multi-cultural environment. We think this is a key ingredient for any successful workplace,
 even more so for research.
-
 We are committed to establishing a welcoming environment for people of any
-ethnicity and gender, and as <br>
-such we encourage applications from any minority.
+ethnicity and gender, and as such we encourage applications from any minority.
 
 If you are interested in joining us, please check the news or see
 [here](../vacancies/) for available RIKEN programmes.
+
 
 <section class="page__content cf">
 <div class="entries-{{ entries_layout }}">
