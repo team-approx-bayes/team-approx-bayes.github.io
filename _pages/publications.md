@@ -8,7 +8,7 @@ custom_css: pub
 
 <div class="w3-container">
 
-  <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">Early Drafts/Preprints</h2>
+  <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
 
      <li>
@@ -68,7 +68,7 @@ custom_css: pub
   </li>
    </ul>
 
-  <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">2020</h2>
+  <h2 class="w3-container w3-padding">2020</h2>
    <ul class="w3-ul">
       <li>
          <span class="title">Concentration of tempered posteriors and of their variational approximations</span>, <br>
@@ -139,7 +139,7 @@ custom_css: pub
 
    </ul>
 
-  <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">2019</h2>
+  <h2 class="w3-container w3-padding">2019</h2>
    <ul class="w3-ul">
 
       <li>
@@ -195,7 +195,7 @@ custom_css: pub
       </li>
 
    </ul>
-  <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">2018</h2>
+  <h2 class="w3-container w3-padding">2018</h2>
    <ul class="w3-ul">
 
       <li>
@@ -261,7 +261,7 @@ custom_css: pub
 
   
 <div class="w3-container">
-  <h2 class="w3-container w3-padding" style="font-weight: bold; color: rgb(176, 176, 176); --darkreader-inline-color:#887d69;" data-darkreader-inline-color="">2017</h2>
+  <h2 class="w3-container w3-padding">2017</h2>
    <ul class="w3-ul">
    <li> 
 	 <span class="title">Vprop: Variational Inference using RMSprop</span>, <br>
