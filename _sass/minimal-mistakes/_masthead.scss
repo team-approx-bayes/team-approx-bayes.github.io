@@ -76,6 +76,8 @@
     clear: both;
     list-style-type: none;
   }
+
+  background: $header-color;
 }
 
 .masthead__menu-item {
@@ -83,6 +85,7 @@
   list-style-type: none;
   white-space: nowrap;
   font-size: $type-size-4;
+  background: $header-color;
 
   &--lg {
     padding-right: 2em;
