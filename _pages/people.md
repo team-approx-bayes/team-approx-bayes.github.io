@@ -10,6 +10,8 @@ custom_css: people
 <!-- show_excerpts: true -->
 ---
 
+If you are interested in joining us, please see [here](../vacancies/) for available programmes.
+
 <section class="page__content cf">
 <div class="entries-{{ entries_layout }}">
   {% assign members = site.people | where: 'type', 'member' %}
