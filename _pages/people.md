@@ -41,7 +41,7 @@ If you are interested in joining us, please check the news or see
     <th>Name</th>
     <th>Dates</th>
   </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' %}
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 3 %}
       <tr>
@@ -59,7 +59,7 @@ If you are interested in joining us, please check the news or see
     <th>Name</th>
     <th>Dates</th>
   </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' %}
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 5 %}
       <tr>
@@ -78,7 +78,7 @@ If you are interested in joining us, please check the news or see
     <th>Dates</th>
     <th>Affliation</th>
   </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' %}
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 7 %}
       <tr>

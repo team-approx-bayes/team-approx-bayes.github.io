@@ -50,12 +50,14 @@ $border-color: #ddbea9 !default;
 /*
 Palette: https://coolors.co/fffcf2-ccc5b9-403d39-252422-eb5e28
 */
+/*
 $background-color: #fffcf2 !default;
 $text-color: #252422 !default;
 $header-color: #ccc5b9 !default;
 $masthead-link-color: #252422 !default;
 $info-color: #eb5e28 !default;
 $border-color: #252422 !default;
+*/
 
 /*
 yet another color scheme
@@ -135,6 +137,14 @@ $info-color: #fc7a1e !default;
 $border-color: #fc7a1e !default;
 */
 
+$background-color: #ffffff !default;
+$text-color: #000000 !default;
+$header-color: #f5f5f5 !default;
+$masthead-link-color: #000000 !default;
+$info-color: #063c92 !default;
+$border-color: #063c92 !default;
+
+
 /* ==========================================================================
    Variables
    ========================================================================== */
@@ -150,8 +160,8 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Georgia, Times, serif !default;
-$sans-serif: "Avenir", BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: "Roboto", Georgia, Times, serif !default;
+$sans-serif: "Merriweather", "Avenir", BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -181,9 +191,9 @@ $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
 
 /* headline scale */
-$h-size-1: 1.563em !default; // ~25.008px
-$h-size-2: 1.563em !default; // ~20px
-$h-size-3: 1.563em !default; // ~18px
+$h-size-1: 1.25em !default; // ~25.008px
+$h-size-2: 1.25em !default; // ~20px
+$h-size-3: 1.25em !default; // ~18px
 $h-size-4: 1.0625em !default; // ~17px
 $h-size-5: 1.03125em !default; // ~16.5px
 $h-size-6: 1em !default; // ~16px
@@ -278,7 +288,7 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
-$max-width: $x-large !default;
+$max-width: $medium-wide !default;
 
 /*
    Grid

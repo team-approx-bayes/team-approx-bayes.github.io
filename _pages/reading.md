@@ -24,8 +24,6 @@ author_profile: false
   
   </section>
 
-  <br>
-
 ## Past Meetings
 
 <section class="page__content cf">

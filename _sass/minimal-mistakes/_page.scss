@@ -13,6 +13,7 @@
   max-width: 100%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
+  max-width: $max-width;
 
   @include breakpoint($x-large) {
     max-width: $max-width;
@@ -38,37 +39,35 @@ body {
 .page {
 
   @include breakpoint($medium) {
-    float: left;
-    width: 768px;
+    display: block;
+    width: 100%;
   }
 
   @include breakpoint($large) {
-    float: right;
-    width: 100%;
-    padding-right: $right-sidebar-width-narrow;
+    display: block;
+    max-width: 100%;
   }
 
   @include breakpoint($x-large) {
+      display: block;
       width: 100%;
-      padding-right: $right-sidebar-width-narrow;
   }
 
   .page__inner-wrap {
-    float: left;
+    display: block;
     margin-top: 1em;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
     clear: both;
 
     .page__content,
     .page__meta,
     .page__share {
-      position: relative;
-      float: left;
-      margin-left: 0;
-      margin-right: 0;
-      width: 100%;
+      position: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
       clear: both;
     }
   }

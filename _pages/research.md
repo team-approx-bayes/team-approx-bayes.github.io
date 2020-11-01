@@ -17,7 +17,7 @@ For more information, see our current [publications](../publications/).
 
 # Blog
 This blog provides a medium for our researchers to present their recent research findings, insights and updates. The posts in the blog
-are written with a general audience in mind and provide an accessible introduction to our research. 
+are written with a general audience in mind and aim to provide an accessible introduction to our research. 
 
 {% assign posts = site.posts %}
 {% assign entries_layout = page.entries_layout | default: 'list' %}
