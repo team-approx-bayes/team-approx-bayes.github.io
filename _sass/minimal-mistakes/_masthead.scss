@@ -16,7 +16,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 0.8em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -51,7 +51,7 @@
   -ms-flex-item-align: center;
   align-self: center;
   //z-index: 20;
-  font-size: $type-size-3;
+  font-size: $type-size-4;
 }
 
 .masthead__menu {
