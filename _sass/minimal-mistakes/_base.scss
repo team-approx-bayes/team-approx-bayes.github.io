@@ -40,12 +40,13 @@ h1 {
 
 h2 {
     margin-top: 0.1em;
-  font-size: $h-size-4;
+    font-size: $h-size-4;
+    color: $h2-color;
 }
 
 h3 {
     margin-top: 0.1em;
-  font-size: $h-size-4;
+    font-size: $h-size-4;
 }
 
 h4 {
@@ -387,4 +388,8 @@ td {
 }
 
 .highlights {
+}
+
+.news-title {
+    color: $news-item-color;
 }

@@ -14,7 +14,7 @@ author_profile: false
   {% assign postStartDate = post.date | date: '%s' %}
   {% if post.categories contains "seminar" and postStartDate >= curDate %}
     <div class="news">
-    <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }}
+    <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b>
 	{% if post.time %} @ {{post.time}} {% endif %} </b>
 	<br>
     {{ post.content }}
@@ -34,7 +34,7 @@ author_profile: false
   {% assign postStartDate = post.date | date: '%s' %}
   {% if post.categories contains "seminar" and postStartDate < curDate and i < 9 %}
     <div class="news">
-    <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> <br>
+    <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
     {{ post.content }}
     </div>
     {% assign i = i | plus:1 %}
