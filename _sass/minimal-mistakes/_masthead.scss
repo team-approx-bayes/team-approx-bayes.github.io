@@ -17,7 +17,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 0.8em;
-    max-width: 100%;
+    max-width: $max-width-header;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -27,7 +27,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+	max-width: $max-width-header;
     }
 
     nav {

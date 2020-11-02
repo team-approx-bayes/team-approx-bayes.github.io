@@ -16,7 +16,7 @@ even more so for research.
 We are committed to establishing a welcoming environment for people of any
 background, and as such we encourage applications from any minority.
 
-If you are interested in joining us, please check the news for open position or see
+If you are interested in joining us, please [check the news](../news/) for open positions or see
 [here](../vacancies/) for available RIKEN programmes.
 
 
