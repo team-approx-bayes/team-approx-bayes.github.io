@@ -1,15 +1,16 @@
 ---
 layout: single
-title: Research Areas
+title: Research
 permalink: /research/
 author_profile: false
 ---
 
-Our research group is working on a range of topics in machine learning, such as approximate inference, deep learning, reinforcement learning, active learning and online learning.
-The goal is to understand the fundamental principles which enable machines to learn from data, and use them to develop algorithms which bridge the gap between the learning of machines
-and living-beings.
+Humans, animals, and other living beings have a natural ability to autonomously learn throughout their lives and quickly adapt to their surroundings, but computers lack such abilities.
+Our goal is to bridge such gaps between the learning of living-beings and computers.
+We are machine learning researchers with an expertise in areas such as approximate inference, Bayesian statistics, continuous optimization, information geometry etc.
+We work on a variety of learning problems, especially those involving supervised, continual, active, federated, online, and reinforcement learning.
 
-The current focus is on developing new algorithms which enable machines to autonomously learn to percept, act, and reason throughout their lives.
+Currently, we are developing algorithms which enable computers to autonomously learn to perceive, act, and reason throughout their lives.
 Our research often brings together ideas from a variety of theoretical and applied fields, such as, mathematical optimization,
 Bayesian statistics, information geometry, signal processing, and control systems.
 
@@ -17,7 +18,7 @@ For more information, see our current [publications](../publications/).
 
 # Blog
 This blog provides a medium for our researchers to present their recent research findings, insights and updates. The posts in the blog
-are written with a general audience in mind and aim to provide an accessible introduction to our research. 
+are written with a general audience in mind and aim to provide an accessible introduction to our research.
 
 {% assign posts = site.posts %}
 {% assign entries_layout = page.entries_layout | default: 'list' %}
@@ -37,8 +38,3 @@ are written with a general audience in mind and aim to provide an accessible int
 
   {% endif %}
 {% endfor %}
-
-
-
-
-
