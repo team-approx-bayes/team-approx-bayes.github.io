@@ -16,7 +16,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 0.25em;
+    padding: 1em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -50,7 +50,7 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
-  z-index: 20;
+  //z-index: 20;
   font-size: $type-size-3;
 }
 
@@ -62,7 +62,7 @@
   clear: both;
 
   .site-nav {
-    margin-left: 0;
+      margin-left: 0;
 
     @include breakpoint($small) {
       float: right;
@@ -84,7 +84,6 @@
   list-style-type: none;
   white-space: nowrap;
   font-size: $type-size-4;
-  background: $header-color;
 
   &--lg {
     padding-right: 2em;
