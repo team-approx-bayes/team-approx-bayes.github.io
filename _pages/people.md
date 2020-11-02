@@ -35,7 +35,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
 
 <section class="page__content cf">
 <h1>Alumni</h1>
-<h3>Postdocs</h3>
+<h2>Postdocs</h2>
 <table class="responsive-table table">
   <tr>
     <th>Name</th>
@@ -53,7 +53,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
 </table>
 <br>
 <!--  -->
-<h3>Research Assistants</h3>
+<h2>Research Assistants</h2>
 <table class="responsive-table table">
   <tr>
     <th>Name</th>
@@ -71,7 +71,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
 </table>
 <br>
 <!--  -->
-<h3>Interns / Trainees</h3>
+<h2>Interns / Trainees</h2>
 <table class="responsive-table table" font-size="1em">
   <tr>
     <th>Name</th>

@@ -5,7 +5,7 @@ permalink: /reading/
 author_profile: false
 ---
 
-## Upcoming
+<h2>Upcoming</h2>
 
 <section class="page__content cf">
 
@@ -24,7 +24,7 @@ author_profile: false
   
   </section>
 
-## Past Meetings
+<h2>Past Meetings</h2>
 
 <section class="page__content cf">
 

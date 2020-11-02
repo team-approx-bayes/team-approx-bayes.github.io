@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Approximate Bayesian Inferen Team"
+  name   : "Approximate Bayesian Inference Team"
   #avatar : "/assets/images/Riken_Logo.png"
   bio    : "
   This is the webpage of the Approximate Bayesian Inference Team @ [AIP RIKEN](https://www.riken.jp/en/research/labs/aip/).
