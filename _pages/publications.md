@@ -53,19 +53,21 @@ custom_css: pub
        [<a href="https://emtiyaz.github.io/papers/learning_from_bayes.pdf" target="_blank">Draft version</a>]
    </li>
 
-   
-  <li>
-       <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
-       <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
-       <span class="author">L. Carel, P. Alquier</span>
-       [<a href="https://arxiv.org/abs/1709.03346" target="_blank">arXiv</a>]
-  </li>
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
        [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
   </li>
+   
+  <li>
+       <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
+       <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
+       <span class="author">L. Carel, P. Alquier</span>
+       [<a href="https://doi.org/10.1007/s11634-020-00398-4" target="_blank">Paper</a>]
+       [<a href="https://arxiv.org/abs/1709.03346" target="_blank">arXiv</a>]
+  </li>
+
    </ul>
 
   <h2 class="w3-container w3-padding">2020</h2>
@@ -73,7 +75,8 @@ custom_css: pub
       <li>
          <span class="title">Concentration of tempered posteriors and of their variational approximations</span>, <br>
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-statistics/" target="_blank">Annals of Statistics</a>)</span>
-         <span class="author">P. Alquier, J. Ridgway</span>   
+         <span class="author">P. Alquier, J. Ridgway</span>
+         [<a href="https://dx.doi.org/doi:10.1214/19-AOS1855" target="_blank">Paper</a>]
          [<a href="https://arxiv.org/abs/1706.09293" target="_blank">arXiv</a>] 
       </li>
 
@@ -88,6 +91,7 @@ custom_css: pub
          <span class="title">High-dimensional VAR with low-rank transition</span>, <br>
          <span class="conf">(<a href="https://link.springer.com/journal/11222/volumes-and-issues/30-4" target="_blank">Statistics and Computing</a>)</span>
          <span class="author">P. Alquier, K. Bertin, P. Doukhan, R. Garnier</span>   
+         [<a href="https://doi.org/10.1007/s11222-020-09929-7" target="_blank">Paper</a>]
          [<a href="https://arxiv.org/abs/1905.00959" target="_blank">arXiv</a>] 
       </li>
 
@@ -123,7 +127,7 @@ custom_css: pub
 
       <li>
          <span class="title">MMD-Bayes: Bayesian Estimation via Maximum Mean Discrepancy</span>, <br>
-         <span class="conf">(<a href="http://proceedings.mlr.press/v118/" target="_blank">PMLR</a>)</span>
+         <span class="conf">(<a href="http://proceedings.mlr.press/v118/" target="_blank">AABI 2019</a>)</span>
          <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span> 
          [<a href="http://proceedings.mlr.press/v118/cherief-abdellatif20a/cherief-abdellatif20a.pdf" target="_blank">Paper</a>]
          [<a href="https://arxiv.org/abs/1909.13339" target="_blank">arXiv</a>] 
@@ -157,13 +161,15 @@ custom_css: pub
       <li>
          <span class="title">A Generalization Bound for Online Variational Inference</span> (<a href="http://www.acml-conf.org/2019/conference/awards/" target="_blank"><b>best paper award</b></a>),<br>
          <span class="conf">(<a href="http://www.acml-conf.org/2019/" target="_blank">ACML 2019</a>)</span> <span class="author"> B.-E. Chérief-Abdellatif, P. Alquier, M.E. Khan</span>.
+      [<a href="http://proceedings.mlr.press/v101/cherief-abdellatif19a/cherief-abdellatif19a.pdf" target="_blank">Paper</a>]
       [<a href="https://arxiv.org/abs/1904.03920" target="_blank">arXiv</a>] 
       </li>
 
       <li>
          <span class="title">Matrix factorization for multivariate time series analysis</span>, <br>
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">EJS</a>)</span>
-         <span class="author">P. Alquier, N. Marie</span> 
+         <span class="author">P. Alquier, N. Marie</span>
+	 [<a href="http://doi.org/doi:10.1214/19-EJS1630" target="_blank">Paper</a>]
          [<a href="https://arxiv.org/abs/1903.05589" target="_blank">arXiv</a>] 
       </li>
 
