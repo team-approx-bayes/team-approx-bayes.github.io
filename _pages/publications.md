@@ -73,6 +73,13 @@ custom_css: pub
   <h2 class="w3-container w3-padding">2020</h2>
    <ul class="w3-ul">
       <li>
+         <span class="title">Approximate Bayesian Inference</span>, <br>
+         <span class="conf">(<a href="https://www.mdpi.com/journal/entropy" target="_blank">Entropy</a>)</span>
+         <span class="author">P. Alquier</span>
+         [<a href="https://www.mdpi.com/1099-4300/22/11/1272" target="_blank">Paper</a>]
+      </li>
+
+      <li>
          <span class="title">Concentration of tempered posteriors and of their variational approximations</span>, <br>
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-statistics/" target="_blank">Annals of Statistics</a>)</span>
          <span class="author">P. Alquier, J. Ridgway</span>
