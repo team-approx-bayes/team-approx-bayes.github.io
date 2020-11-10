@@ -139,12 +139,12 @@
 }
 
 .grid__item {
-  margin-bottom: 0.25em;
-  margin-left: 0.25em;
-  margin-right: 0.25em;
+  margin-bottom: 0.75em;
+  margin-left: 0.75em;
+  margin-right: 0.75em;
   float: left;
   
-  width: span(1 of 4);
+  width: span(2 of 11);
 
 
   &:nth-child(4n + 1) {

@@ -54,7 +54,7 @@ author_profile: false
   {% if post.categories contains "seminar" and postStartDate < curDate %}
     {% if i >= 9 %}
      <div class="news">
-     <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> <br>
+      <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
       {{ post.content }}
     </div>
 	{% endif %}
