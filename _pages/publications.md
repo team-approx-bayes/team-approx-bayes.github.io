@@ -83,14 +83,15 @@ custom_css: pub
          <span class="title">Concentration of tempered posteriors and of their variational approximations</span>, <br>
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-statistics/" target="_blank">Annals of Statistics</a>)</span>
          <span class="author">P. Alquier, J. Ridgway</span>
-         [<a href="https://dx.doi.org/doi:10.1214/19-AOS1855" target="_blank">Paper</a>]
+         [<a href="https://dx.doi.org/doi:10.1214/19-AOS1855" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/1706.09293" target="_blank">arXiv</a>] 
       </li>
 
       <li>
          <span class="title">Fast Variational Learning in State-Space Gaussian Process Models</span>, <br>
          <span class="conf">(<a href="https://ieeemlsp.cc/" target="_blank">MLSP 2020</a>)</span>
-         <span class="author">P. E. Chang, W. J. Wilkinson, </span><span class="author">M.E. Khan, A. Solin</span>   
+         <span class="author">P. E. Chang, W. J. Wilkinson, </span><span class="author">M.E. Khan, A. Solin</span>
+         [<a href="https://doi.org/10.1109/MLSP49062.2020.9231560" target="_blank">Published version</a>] 
          [<a href="https://arxiv.org/abs/2007.04731" target="_blank">arXiv</a>] 
       </li>
 
@@ -98,7 +99,7 @@ custom_css: pub
          <span class="title">High-dimensional VAR with low-rank transition</span>, <br>
          <span class="conf">(<a href="https://link.springer.com/journal/11222/volumes-and-issues/30-4" target="_blank">Statistics and Computing</a>)</span>
          <span class="author">P. Alquier, K. Bertin, P. Doukhan, R. Garnier</span>   
-         [<a href="https://doi.org/10.1007/s11222-020-09929-7" target="_blank">Paper</a>]
+         [<a href="https://doi.org/10.1007/s11222-020-09929-7" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/1905.00959" target="_blank">arXiv</a>] 
       </li>
 
@@ -107,7 +108,7 @@ custom_css: pub
          <span class="conf">(<a href="https://www.nature.com/ncomms/" target="_blank">Nature Communications</a> 2020)</span>
          <span class="author"> with Nenad Tomašev and many others </span> <br>
          <!--<span class="author"> Nenad Tomašev, Julien Cornebise, Frank Hutter, Shakir Mohamed, Angela Picciariello, Bec Connelly, Danielle Belgrave, Daphne Ezer, Fanny Cachat van der Haert, Frank Mugisha, Gerald Abila, Hiromi Arai, Hisham Almiraat, Julia Proskurnia, Kyle Snyder, Mihoko Otake-Matsuura, Mustafa Othman, Tobias Glasmachers, Wilfried de Wever, Yee Whye Teh, Mohammad Emtiyaz Khan, Ruben De Winne, Tom Schaul, and Claudia Clopath </span> -->    
-         [<a href="https://t.co/Ks9mHlxF2W?amp=1" target="_blank">Paper</a>]
+         [<a href="https://doi.org/10.1038/s41467-020-15871-z" target="_blank">Paper</a>]
          [<a href="https://t.co/Lg6qXxNIBg?amp=1" target="_blank">Declaration on AI2SG</a>]
          [<a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19082" target="_blank">Dagstuhl AI4SG 2019</a>]
          [<a href="https://www.dagstuhl.de/no_cache/en/about-dagstuhl/news/detail/meldung/720/" target="_blank">Press Release</a>]
@@ -136,7 +137,7 @@ custom_css: pub
          <span class="title">MMD-Bayes: Bayesian Estimation via Maximum Mean Discrepancy</span>, <br>
          <span class="conf">(<a href="http://proceedings.mlr.press/v118/" target="_blank">AABI 2019</a>)</span>
          <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span> 
-         [<a href="http://proceedings.mlr.press/v118/cherief-abdellatif20a/cherief-abdellatif20a.pdf" target="_blank">Paper</a>]
+         [<a href="http://proceedings.mlr.press/v118/cherief-abdellatif20a.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/1909.13339" target="_blank">arXiv</a>] 
       </li>
 
@@ -156,19 +157,21 @@ custom_css: pub
       <li>
       <span class="title">Practical Deep Learning with Bayesian Principles</span>, <br>
       <span class="conf">(<a href="https://nips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a>)</span> <span class="author">K. Osawa, S. Swaroop, A. Jain, R. Eschenhagen, R.E. Turner, R. Yokota, M.E. Khan</span>.
+      [<a href="https://proceedings.neurips.cc/paper/2019/hash/b53477c2821c1bf0da5d40e57b870d35-Abstract.html" target="_blank">Published version</a>]
       [<a href="https://arxiv.org/abs/1906.02506" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/dl-with-bayes" target="_blank&quot;">Code</a>]
       </li>
 
       <li>
       <span class="title">Approximate Inference Turns Deep Networks into Gaussian Processes</span>, <br>
       <span class="conf">(<a href="https://nips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a>)</span> <span class="author">M.E. Khan, A. Immer, E. Abedi, M. korzepa</span>.
+      [<a href="https://proceedings.neurips.cc/paper/2019/hash/b3bbccd6c008e727785cb81b1aa08ac5-Abstract.html" target="_blank">Published version</a>]
       [<a href="https://arxiv.org/abs/1906.01930" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/dnn2gp" target="_blank&quot;">Code</a>]
       </li>
 
       <li>
          <span class="title">A Generalization Bound for Online Variational Inference</span> (<a href="http://www.acml-conf.org/2019/conference/awards/" target="_blank"><b>best paper award</b></a>),<br>
          <span class="conf">(<a href="http://www.acml-conf.org/2019/" target="_blank">ACML 2019</a>)</span> <span class="author"> B.-E. Chérief-Abdellatif, P. Alquier, M.E. Khan</span>.
-      [<a href="http://proceedings.mlr.press/v101/cherief-abdellatif19a/cherief-abdellatif19a.pdf" target="_blank">Paper</a>]
+      [<a href="http://proceedings.mlr.press/v101/cherief-abdellatif19a.html" target="_blank">Published version</a>]
       [<a href="https://arxiv.org/abs/1904.03920" target="_blank">arXiv</a>] 
       </li>
 
@@ -176,7 +179,7 @@ custom_css: pub
          <span class="title">Matrix factorization for multivariate time series analysis</span>, <br>
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">EJS</a>)</span>
          <span class="author">P. Alquier, N. Marie</span>
-	 [<a href="http://doi.org/doi:10.1214/19-EJS1630" target="_blank">Paper</a>]
+	 [<a href="http://doi.org/doi:10.1214/19-EJS1630" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/1903.05589" target="_blank">arXiv</a>] 
       </li>
 
