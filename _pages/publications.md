@@ -76,7 +76,7 @@ custom_css: pub
          <span class="title">Approximate Bayesian Inference</span>, <br>
          <span class="conf">(<a href="https://www.mdpi.com/journal/entropy" target="_blank">Entropy</a>)</span>
          <span class="author">P. Alquier</span>
-         [<a href="https://www.mdpi.com/1099-4300/22/11/1272" target="_blank">Paper</a>]
+         [<a href="https://doi.org/10.3390/e22111272" target="_blank">Paper</a>]
       </li>
 
       <li>
