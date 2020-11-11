@@ -186,7 +186,7 @@ custom_css: pub
       <li>
       <span class="title">Fast and Simple Natural-Gradient Variational Inference with Mixture of Exponential-family Approximations</span>, <br>
       <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML, 2019</a>)</span> <span class="author">W. Lin, </span> <span class="author">M.E. Khan, M. Schmidt</span>.
-      [<a href="https://arxiv.org/abs/1906.02914" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/lin19b/lin19b.pdf" target="_blank">paper</a>] [<a href="http://proceedings.mlr.press/v97/lin19b/lin19b-supp.pdf" target="_blank">Appendix</a>] [<a href="https://github.com/yorkerlin/VB-MixEF" target="_blank&quot;">Code</a>]<br>
+      [<a href="https://arxiv.org/abs/1906.02914" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/lin19b.html" target="_blank">Published version</a>][<a href="https://github.com/yorkerlin/VB-MixEF" target="_blank&quot;">Code</a>]<br>
       Also appeared at the <span class="conf"><a href="http://approximateinference.org/" target="_blank">Symposium on Advances in Approximate Bayesian Inference at NeurIPS 2018</a></span>
       [<a href="papers/mixExp.pdf" target="_blank">Short Paper</a>] <br>
       </li>
@@ -200,14 +200,14 @@ custom_css: pub
       <li>
       <span class="title">Scalable Training of Inference Networks for Gaussian-Process Models</span>, <br>
       <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML, 2019</a>)</span> <span class="author">J. Shi,</span> <span class="author">M.E. Khan, J. Zhu</span>.
-      [<a href="https://arxiv.org/abs/1905.10969" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/shi19a/shi19a.pdf" target="_blank">paper</a>] [<a href="http://proceedings.mlr.press/v97/shi19a/shi19a-supp.pdf" target="_blank">Appendix</a>] [<a href="https://github.com/thjashin/gp-infer-net" target="_blank&quot;">Code</a>]
+      [<a href="https://arxiv.org/abs/1905.10969" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/shi19a.html" target="_blank"> Published version</a>][<a href="https://github.com/thjashin/gp-infer-net" target="_blank&quot;">Code</a>]
       </li>
 
       <li>
       <span class="title">TD-Regularized Actor-Critic Methods</span>, <br>
       <span class="conf">(<a href="https://www.springer.com/journal/10994" target="_blank">Machine Learning</a><a>, 2019. A short version appeared at </a><a href="https://ewrl.wordpress.com/ewrl14-2018/" target="_blank">EWRL 2018</a>)</span> <br>
       <span class="author">S. Parisi, V. Tangkaratt, J. Peters, M.E. Khan</span>.
-      [<a href="https://link.springer.com/article/10.1007%2Fs10994-019-05788-0" target="_blank">Springer Online Version</a>] [<a href="https://arxiv.org/abs/1812.08288" target="_blank">arXiv</a>] [<a href="https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_52.pdf" target="_blank&quot;">Short version at EWRL 2018</a>]
+      [<a href="https://doi.org/10.1007/s10994-019-05788-0" target="_blank"> Published version</a>] [<a href="https://arxiv.org/abs/1812.08288" target="_blank">arXiv</a>] [<a href="https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_52.pdf" target="_blank&quot;">Short version at EWRL 2018</a>]
       </li>
 
    </ul>
@@ -218,6 +218,7 @@ custom_css: pub
       <span class="title">SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient</span>, <br>
       <span class="conf">(<a href="https://nips.cc/Conferences/2018/Schedule?showEvent=11605" target="_blank">NeurIPS 2018</a>)</span>
       <span class="author">A. Miskin, F. Kunstner, D. Nielsen, M. Schmidt, M.E. Khan</span>.
+ 	 [<a href="https://proceedings.neurips.cc/paper/2018/hash/d3157f2f0212a80a5d042c127522a2d5-Abstract.html" target="_blank"> Published version</a>]
          [<a href="http://arxiv.org/abs/1811.04504" target="_blank">arXiv</a>]
          [<a href="https://github.com/aaronpmishkin/SLANG/blob/master/poster/SLANG_NIPS_2018_Poster.pdf" target="_blank">Poster</a>] 
          [<a href="https://www.youtube.com/watch?v=ekaB_weR5Bw&amp;feature=youtu.be" target="_blank">3-min Video</a>] 
@@ -228,7 +229,7 @@ custom_css: pub
       <span class="title">Fast and Simple Natural-Gradient Variational Inference with Mixture of Exponential-family Approximations</span>, <br>
       <span class="conf">(<a href="http://approximateinference.org/" target="_blank">Symposium on Advances in Approximate Bayesian Inference at NeurIPS 2018</a>)</span><br>
       <span class="author">W. Lin, M. Schmidt, M.E. Khan</span>.
-      [<a href="papers/mixExp.pdf" target="_blank">Paper</a>].
+      [<a href="papers/mixExp.pdf" target="_blank"> Paper </a>].
       </li>-->
 
       <li>
@@ -242,15 +243,15 @@ custom_css: pub
       <span class="title">Fast yet Simple Natural-Gradient Descent for Variational Inference in Complex Models</span>, <br>
     <span class="conf">(<a href="http://www.isita.ieice.org/2018/home.html" target="_blank">ISITA 2018</a>)</span>
          <span class="author">M.E. Khan and D. Nielsen</span>,   
-         [<a href="https://arxiv.org/abs/1807.04489" target="_blank">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/8664326" target="_blank">IEEE explore</a>]  [<a href="papers/isita2018_slides.pdf" target="_blank">Slides</a>]
+         [<a href="https://arxiv.org/abs/1807.04489" target="_blank">arXiv</a>] [<a href="https://doi.org/10.23919/ISITA.2018.8664326" target="_blank">IEEE explore</a>]  [<a href="papers/isita2018_slides.pdf" target="_blank">Slides</a>]
       </li>
 
       <li>  
       <span class="title">Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam</span>, <br>
     <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML 2018</a>)</span>
          <span class="author">M.E. Khan, D. Nielsen, V. Tangkaratt, W. Lin, Y. Gal, and A. Srivastava</span>,   
-         <!--<a href="https://arxiv.org/abs/1806.04854" target="_blank"><button class="w3-btn w3-round-large w3-border w3-khaki w3-tiny">Paper</button></a> -->
-         [<a href="https://arxiv.org/abs/1806.04854" target="_blank">arXiv Version</a>]
+         [<a href="http://proceedings.mlr.press/v80/khan18a.html" target="_blank"> Published version</a>]
+         [<a href="https://arxiv.org/abs/1806.04854" target="_blank">arXiv</a>]
          [<a href="https://github.com/emtiyaz/vadam/" target="_blank">Code</a>]
          [<a href="papers/icml2018_slides.pdf" target="_blank">Slides</a>]
       </li>
@@ -267,8 +268,7 @@ custom_css: pub
       <span class="title">Bayesian Nonparametric Poisson-Process Allocation for Time-Sequence Modeling</span>, <br>
     <span class="conf">(<a href="http://www.aistats.org/" target="_blank">AI-Stats 2018</a>)</span>
     <span class="author"> H. Ding, M.E. Khan</span>, <span class="author">I. sato, M. Sugiyama</span>, 
-[<a href="papers/AISTATS18_ding.pdf" target="_blank">Paper</a>] 
-[<a href="papers/AISTATS18_ding_appendix.pdf" target="_blank">Appendix</a>]
+[<a href="http://proceedings.mlr.press/v84/ding18a.html" target="_blank">Published version</a>] 
 [<a href="https://github.com/Dinghy/BaNPPA" target="_blank">Code</a>]
       </li>
 
