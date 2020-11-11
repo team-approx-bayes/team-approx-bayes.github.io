@@ -306,7 +306,8 @@ custom_css: pub
 			<span class="title">Conjugate-Computation Variational Inference : Converting Variational Inference in Non-Conjugate Models to Inferences in Conjugate Models</span>, <br>
          <span class="conf">(<a href="http://www.aistats.org/" target="_blank">AIstats 2017</a>)</span>
          <span class="author">M.E. Khan and W. Lin</span> 
-[<a href="https://arxiv.org/abs/1703.04265" target="_blank">Paper</a>]
+[<a href="http://proceedings.mlr.press/v54/khan17a.html" target="_blank"> Published version </a>]
+[<a href="https://arxiv.org/abs/1703.04265" target="_blank">arXiv </a>]
 [<a href="https://github.com/emtiyaz/cvi/" target="_blank">Code for Logistic Reg + GPs</a>]
 [<a href="https://github.com/emtiyaz/cvi/" target="_blank">Code for Correlated Topic Model</a>]
     </li>
@@ -315,7 +316,7 @@ custom_css: pub
 			<span class="title">SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices</span>, <br>
          <span class="conf">(<a href="https://www.ieee-security.org/TC/SP2017/" target="_blank">38th IEEE Symposium on Security and Privacy (S&amp;P;)</a>, San Jose, CA, USA, May 22-24, 2017)</span><br>
 			<span class="author">K. Olejnik, I. I. Dacosta Petrocelli, J. C. Soares Machado, K. Huguenin, M.E. Khan</span> <span class="author">, and J.-P. Hubaux</span> 
-[<a href="https://spism.epfl.ch/smarper/Olejnik2017S&amp;P.pdf" target="_blank">Paper</a>]
+[<a href="https://doi.org/10.1109/SP.2017.25" target="_blank">Published paper</a>]
 [<a href="https://github.com/lca1/smarper" target="_blank">Code</a>]
 [<a href="https://spism.epfl.ch/smarper/" target="_blank">SmarPer Homepage</a>]
 		</li>
