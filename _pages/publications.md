@@ -72,7 +72,7 @@ custom_css: pub
          [<a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a>]
          [<a href="https://github.com/team-approx-bayes/fromp" target="_blank">Code</a>]
          [<a href="FROMP_NeurIPS2020_poster.pdf" target="_blank">Poster</a>]<br>
-         <b>Accepted for an oral presentation</b>, 1% of all submisssions (105 out of 9454 submissions),<br>
+         <b>Accepted for an oral presentation</b>, 1% of all submisssions (105 out of 9454 submissions).<br>
       </li>
 
       <li>
