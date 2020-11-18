@@ -24,7 +24,7 @@ custom_css: pub
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
-   
+
      <li>
        <span class="title">Non-exponentially weighted aggregation: regret bounds for unbounded loss functions</span>, <br>
        <span class="conf">(Preprint)</span>
@@ -38,7 +38,7 @@ custom_css: pub
        <span class="author">P. Alquier, M. Gerber</span>
        [<a href="https://arxiv.org/abs/2006.00840" target="_blank">arXiv</a>]
   </li>
-  
+
   <li>
        <span class="title">Learning Algorithms from Bayesian Principles</span>, <br>
        <span class="conf">(Early draft, Work in progress)</span>
@@ -52,7 +52,7 @@ custom_css: pub
        <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
        [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
   </li>
-   
+
   <li>
        <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
        <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
@@ -69,8 +69,10 @@ custom_css: pub
          <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past</span><br>
          <span class="conf">(NeurIPS 2020)</span>
          <span class="author">P. Pan<sup>*</sup>, S. Swaroop<sup>*</sup>, A. Immer, R. Eschenhagen, R. E. Turner, M.E. Khan</span>
-         [ <a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a> ] [ <a href="https://github.com/team-approx-bayes/fromp" target=_blank">Code</a> ] [ <a href="FROMP_NeurIPS2020_poster.pdf" target=_blank">Poster</a> ]<br>
-         <b>Accepted for an oral presentation</b>, 1% of all submisssions (105 out of 9454 submissions)</b>,<br>
+         [<a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a>]
+         [<a href="https://github.com/team-approx-bayes/fromp" target="_blank">Code</a>]
+         [<a href="FROMP_NeurIPS2020_poster.pdf" target="_blank">Poster</a>]<br>
+         <b>Accepted for an oral presentation</b>, 1% of all submisssions (105 out of 9454 submissions),<br>
       </li>
 
       <li>
@@ -85,15 +87,15 @@ custom_css: pub
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-statistics/" target="_blank">Annals of Statistics</a>)</span>
          <span class="author">P. Alquier, J. Ridgway</span>
          [<a href="https://dx.doi.org/doi:10.1214/19-AOS1855" target="_blank">Published version</a>]
-         [<a href="https://arxiv.org/abs/1706.09293" target="_blank">arXiv</a>] 
+         [<a href="https://arxiv.org/abs/1706.09293" target="_blank">arXiv</a>]
       </li>
 
       <li>
          <span class="title">Fast Variational Learning in State-Space Gaussian Process Models</span>, <br>
          <span class="conf">(<a href="https://ieeemlsp.cc/" target="_blank">MLSP 2020</a>)</span>
          <span class="author">P. E. Chang, W. J. Wilkinson, </span><span class="author">M.E. Khan, A. Solin</span>
-         [<a href="https://doi.org/10.1109/MLSP49062.2020.9231560" target="_blank">Published version</a>] 
-         [<a href="https://arxiv.org/abs/2007.04731" target="_blank">arXiv</a>] 
+         [<a href="https://doi.org/10.1109/MLSP49062.2020.9231560" target="_blank">Published version</a>]
+         [<a href="https://arxiv.org/abs/2007.04731" target="_blank">arXiv</a>]
       </li>
 
       <li>
@@ -101,7 +103,7 @@ custom_css: pub
          <span class="conf">(<a href="https://link.springer.com/journal/11222/volumes-and-issues/30-4" target="_blank">Statistics and Computing</a>)</span>
          <span class="author">P. Alquier, K. Bertin, P. Doukhan, R. Garnier</span>   
          [<a href="https://doi.org/10.1007/s11222-020-09929-7" target="_blank">Published version</a>]
-         [<a href="https://arxiv.org/abs/1905.00959" target="_blank">arXiv</a>] 
+         [<a href="https://arxiv.org/abs/1905.00959" target="_blank">arXiv</a>]
       </li>
 
       <li>
@@ -137,9 +139,9 @@ custom_css: pub
       <li>
          <span class="title">MMD-Bayes: Bayesian Estimation via Maximum Mean Discrepancy</span>, <br>
          <span class="conf">(<a href="http://proceedings.mlr.press/v118/" target="_blank">AABI 2019</a>)</span>
-         <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span> 
+         <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
          [<a href="http://proceedings.mlr.press/v118/cherief-abdellatif20a.html" target="_blank">Published version</a>]
-         [<a href="https://arxiv.org/abs/1909.13339" target="_blank">arXiv</a>] 
+         [<a href="https://arxiv.org/abs/1909.13339" target="_blank">arXiv</a>]
       </li>
 
       <li>
@@ -173,7 +175,7 @@ custom_css: pub
          <span class="title">A Generalization Bound for Online Variational Inference</span> (<a href="http://www.acml-conf.org/2019/conference/awards/" target="_blank"><b>best paper award</b></a>),<br>
          <span class="conf">(<a href="http://www.acml-conf.org/2019/" target="_blank">ACML 2019</a>)</span> <span class="author"> B.-E. Chérief-Abdellatif, P. Alquier, M.E. Khan</span>.
       [<a href="http://proceedings.mlr.press/v101/cherief-abdellatif19a.html" target="_blank">Published version</a>]
-      [<a href="https://arxiv.org/abs/1904.03920" target="_blank">arXiv</a>] 
+      [<a href="https://arxiv.org/abs/1904.03920" target="_blank">arXiv</a>]
       </li>
 
       <li>
@@ -181,7 +183,7 @@ custom_css: pub
          <span class="conf">(<a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">EJS</a>)</span>
          <span class="author">P. Alquier, N. Marie</span>
 	 [<a href="http://doi.org/doi:10.1214/19-EJS1630" target="_blank">Published version</a>]
-         [<a href="https://arxiv.org/abs/1903.05589" target="_blank">arXiv</a>] 
+         [<a href="https://arxiv.org/abs/1903.05589" target="_blank">arXiv</a>]
       </li>
 
       <li>
@@ -195,7 +197,7 @@ custom_css: pub
       <li>
       <span class="title">Stein's Lemma for the Reparameterization Trick with Exponential Family Mixtures</span>, <br>
       <span class="conf">(<a href="https://steinworkshop.github.io/" target="_blank">ICML workshop on Stein's Method in ML and Stats</a>, 2019)</span> <span class="author">W. Lin, </span> <span class="author">M.E. Khan, M. Schmidt</span>.
-      [<a href="https://arxiv.org/abs/1910.13398" target="_blank">arXiv</a>] 
+      [<a href="https://arxiv.org/abs/1910.13398" target="_blank">arXiv</a>]
       </li>
 
       <li>
@@ -221,8 +223,8 @@ custom_css: pub
       <span class="author">A. Miskin, F. Kunstner, D. Nielsen, M. Schmidt, M.E. Khan</span>.
  	 [<a href="https://proceedings.neurips.cc/paper/2018/hash/d3157f2f0212a80a5d042c127522a2d5-Abstract.html" target="_blank"> Published version</a>]
          [<a href="http://arxiv.org/abs/1811.04504" target="_blank">arXiv</a>]
-         [<a href="https://github.com/aaronpmishkin/SLANG/blob/master/poster/SLANG_NIPS_2018_Poster.pdf" target="_blank">Poster</a>] 
-         [<a href="https://www.youtube.com/watch?v=ekaB_weR5Bw&amp;feature=youtu.be" target="_blank">3-min Video</a>] 
+         [<a href="https://github.com/aaronpmishkin/SLANG/blob/master/poster/SLANG_NIPS_2018_Poster.pdf" target="_blank">Poster</a>]
+         [<a href="https://www.youtube.com/watch?v=ekaB_weR5Bw&amp;feature=youtu.be" target="_blank">3-min Video</a>]
          [<a href="https://github.com/aaronpmishkin/SLANG" target="_blank">Code</a>]
       </li>
 
@@ -260,78 +262,78 @@ custom_css: pub
       <li>  
       <span class="title">Variational Message Passing with Structured Inference Networks</span>, <br>
     <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2018</a>)</span>
-         <span class="author"> W. Lin, N. Hubacher, and M.E. Khan</span>, 
-         [<a href="https://openreview.net/forum?id=HyH9lbZAW" target="_blank">Paper</a>] 
+         <span class="author"> W. Lin, N. Hubacher, and M.E. Khan</span>,
+         [<a href="https://openreview.net/forum?id=HyH9lbZAW" target="_blank">Paper</a>]
          [<a href="http://arxiv.org/abs/1803.05589" target="_blank">arXiv Version</a>]
          [<a href="https://github.com/emtiyaz/vmp-for-svae/" target="_blank">Code</a>]
       </li>
      <li>  
       <span class="title">Bayesian Nonparametric Poisson-Process Allocation for Time-Sequence Modeling</span>, <br>
     <span class="conf">(<a href="http://www.aistats.org/" target="_blank">AI-Stats 2018</a>)</span>
-    <span class="author"> H. Ding, M.E. Khan</span>, <span class="author">I. sato, M. Sugiyama</span>, 
-[<a href="http://proceedings.mlr.press/v84/ding18a.html" target="_blank">Published version</a>] 
+    <span class="author"> H. Ding, M.E. Khan</span>, <span class="author">I. sato, M. Sugiyama</span>,
+[<a href="http://proceedings.mlr.press/v84/ding18a.html" target="_blank">Published version</a>]
 [<a href="https://github.com/Dinghy/BaNPPA" target="_blank">Code</a>]
       </li>
 
    </ul>
 </div>
 
-  
+
 <div class="w3-container">
   <h2 class="w3-container w3-padding">2017</h2>
    <ul class="w3-ul">
-   <li> 
+   <li>
 	 <span class="title">Vprop: Variational Inference using RMSprop</span>, <br>
     <span class="conf">(<a href="http://approximateinference.org/" target="_blank">NIPS 2017, Workshop on Bayesian Deep Learning</a>)</span><br>
-         <span class="author">M.E. Khan, Z. Liu, V. Tangkaratt, and Y. Gal</span> 
+         <span class="author">M.E. Khan, Z. Liu, V. Tangkaratt, and Y. Gal</span>
 [<a href="https://arxiv.org/abs/1712.01038" target="_blank">Workshop version</a>]
 [<a href="papers/vprop_poster.pdf" target="_blank">Poster</a>]
     </li>
-	
-   <li> 
+
+   <li>
 	 <span class="title">Variational Adaptive-Newton Method for Explorative-Learning</span>, <br>
     <span class="conf">(<a href="http://approximateinference.org/" target="_blank">NIPS 2017, Workshop on Advances in Approximate Bayesian Inference</a>)</span><br>
-         <span class="author">M.E. Khan, W. Lin, V. Tangkaratt, Z. Liu, and D. Nielsen</span> 
+         <span class="author">M.E. Khan, W. Lin, V. Tangkaratt, Z. Liu, and D. Nielsen</span>
 [<a href="http://arxiv.org/abs/1711.05560" target="_blank">arXiv Version</a>]
    [<a href="papers/van_poster.pdf" target="_blank">Poster</a>]
     </li>
-	
-   <li> 
+
+   <li>
 	 <span class="title">Natural-Gradient Stochastic Variational Inference for Non-Conjugate Structured Variational Autoencoder</span>, <br>
          <span class="conf">(<a href="https://deepstruct.github.io/ICML17" target="_blank">ICML 2017, Workshop on Deep Structure Prediction</a>)</span>
-         <span class="author">W. Lin, M.E. Khan</span>, <span class="author">N. Hubacher, and D. Nielsen</span> 
+         <span class="author">W. Lin, M.E. Khan</span>, <span class="author">N. Hubacher, and D. Nielsen</span>
 [<a href="papers/1stDeepStructWS_paper_10.pdf" target="_blank">Paper</a>]
     </li>
-	   
-    <li id="#aistats2017"> 
+
+    <li id="#aistats2017">
 			<span class="title">Conjugate-Computation Variational Inference : Converting Variational Inference in Non-Conjugate Models to Inferences in Conjugate Models</span>, <br>
          <span class="conf">(<a href="http://www.aistats.org/" target="_blank">AIstats 2017</a>)</span>
-         <span class="author">M.E. Khan and W. Lin</span> 
+         <span class="author">M.E. Khan and W. Lin</span>
 [<a href="http://proceedings.mlr.press/v54/khan17a.html" target="_blank"> Published version </a>]
 [<a href="https://arxiv.org/abs/1703.04265" target="_blank">arXiv </a>]
 [<a href="https://github.com/emtiyaz/cvi/" target="_blank">Code for Logistic Reg + GPs</a>]
 [<a href="https://github.com/emtiyaz/cvi/" target="_blank">Code for Correlated Topic Model</a>]
     </li>
 
-    <li> 
+    <li>
 			<span class="title">SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices</span>, <br>
          <span class="conf">(<a href="https://www.ieee-security.org/TC/SP2017/" target="_blank">38th IEEE Symposium on Security and Privacy (S&amp;P;)</a>, San Jose, CA, USA, May 22-24, 2017)</span><br>
-			<span class="author">K. Olejnik, I. I. Dacosta Petrocelli, J. C. Soares Machado, K. Huguenin, M.E. Khan</span> <span class="author">, and J.-P. Hubaux</span> 
+			<span class="author">K. Olejnik, I. I. Dacosta Petrocelli, J. C. Soares Machado, K. Huguenin, M.E. Khan</span> <span class="author">, and J.-P. Hubaux</span>
 [<a href="https://doi.org/10.1109/SP.2017.25" target="_blank">Published paper</a>]
 [<a href="https://github.com/lca1/smarper" target="_blank">Code</a>]
 [<a href="https://spism.epfl.ch/smarper/" target="_blank">SmarPer Homepage</a>]
 		</li>
 
-    <li id="#bs2017"> 
+    <li id="#bs2017">
 			<span class="title">Gaussian-Process-Based Emulators for Building Performance Simulation</span>, <br>
          <span class="conf">(<a href="http://www.buildingsimulation2017.org/" target="_blank">Building Simulation 2017</a>)</span>
-			<span class="author">P. Rastogi, M.E. Khan</span> <span class="author">and M. Anderson</span> 
+			<span class="author">P. Rastogi, M.E. Khan</span> <span class="author">and M. Anderson</span>
 [<a href="papers/Building_Simulation.pdf" target="_blank">Paper</a>]
 [<a href="https://zenodo.org/record/291858#.WME-XBKGNo4" target="_blank">Building Simulation Data</a>]
 [<a href="https://github.com/paragrastogi/GPregressionInBS" target="_blank">Code</a>]
 		</li>
 
 </ul></div>
-  <br> 
+  <br>
 
 <div style="pointer-events: none !important; display: none !important; position: absolute; top: 0px !important; left: 0px !important; z-index: 2147483647 !important; box-sizing: content-box !important;"></div>
