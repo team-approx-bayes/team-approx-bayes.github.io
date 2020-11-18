@@ -33,13 +33,6 @@ custom_css: pub
   </li>
 
   <li>
-       <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past</span>, <br>
-       <span class="conf">(Under Review)</span>
-       <span class="author">P. Pan, S. Swaroop, A. Immer, R. Eschenhagen, R. E. Turner, M.E. Khan</span>
-       [<a href="https://arxiv.org/abs/2004.14070" target="_blank">arXiv</a>]
-  </li>
-  
-  <li>
        <span class="title">Universal Robust Regression via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">P. Alquier, M. Gerber</span>
@@ -72,6 +65,14 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2020</h2>
    <ul class="w3-ul">
+      <li>
+         <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past</span><br>
+         <span class="conf">(NeurIPS 2020)</span>
+         <span class="author">P. Pan<sup>*</sup>, S. Swaroop<sup>*</sup>, A. Immer, R. Eschenhagen, R. E. Turner, M.E. Khan</span>
+         [ <a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a> ] [ <a href="https://github.com/team-approx-bayes/fromp" target=_blank">Code</a> ] [ <a href="FROMP_NeurIPS2020_poster.pdf" target=_blank">Poster</a> ]<br>
+         <b>Accepted for an oral presentation</b>, 1% of all submisssions (105 out of 9454 submissions)</b>,<br>
+      </li>
+
       <li>
          <span class="title">Approximate Bayesian Inference</span>, <br>
          <span class="conf">(<a href="https://www.mdpi.com/journal/entropy" target="_blank">Entropy</a>)</span>
