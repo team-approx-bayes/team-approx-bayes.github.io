@@ -120,19 +120,22 @@ custom_css: pub
          <span class="title">Training Binary Neural Networks using the Bayesian Learning Rule</span>, <br>
          <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
          <span class="author"> X. Meng, R. Bachmann, M.E. Khan</span>
+	 [<a href="http://proceedings.mlr.press/v119/meng20a.html" target="_blank">Published version</a>] 
          [<a href="https://arxiv.org/abs/2002.10778" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/BayesBiNN" target="_blank&quot;">Code</a>]
       </li>
 
       <li>
          <span class="title">Handling the Positive-Definite Constraint in the Bayesian Learning Rule</span>, <br>
          <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
-         <span class="author"> W. Lin, M. Schmidt, M.E. Khan</span>   
+         <span class="author"> W. Lin, M. Schmidt, M.E. Khan</span>
+	 [<a href="http://proceedings.mlr.press/v119/lin20d.html" target="_blank">Published version</a>] 
          [<a href="https://arxiv.org/abs/2002.10060" target="_blank">arXiv</a>]
       </li>
       <li>
          <span class="title">VILD: Variational Imitation Learning with Diverse-quality Demonstrations</span>, <br>
          <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
          <span class="author"> V. Tangkaratt, B. Han, M.E. Khan,</span><span class="author"> M. Sugiyama</span>
+	 [<a href="http://proceedings.mlr.press/v119/tangkaratt20a.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/1909.06769" target="_blank">arXiv</a>]
       </li>
 
