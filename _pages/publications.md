@@ -12,13 +12,6 @@ custom_css: pub
    <ul class="w3-ul">
 
      <li>
-       <span class="title"> A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix</span>, <br>
-       <span class="conf">(Preprint)</span>
-       <span class="author">T. Doan, M. Abbana Bennani, B. Mazoure, G. Rabusseau, P. Alquier</span>
-       [<a href="https://arxiv.org/abs/2010.04003" target="_blank">arXiv</a>]
-  </li>
-
-     <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
@@ -51,6 +44,13 @@ custom_css: pub
        <span class="conf">(Preprint)</span>
        <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
        [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
+  </li>
+
+     <li>
+       <span class="title"> A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix</span>, <br>
+       <span class="conf">(To appear in AISTATS'2021)</span>
+       <span class="author">T. Doan, M. Abbana Bennani, B. Mazoure, G. Rabusseau, P. Alquier</span>
+       [<a href="https://arxiv.org/abs/2010.04003" target="_blank">arXiv</a>]
   </li>
 
   <li>
