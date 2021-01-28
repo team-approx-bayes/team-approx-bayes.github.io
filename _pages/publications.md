@@ -46,6 +46,13 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
   </li>
 
+    <li>
+       <span class="title"> Improving predictions of Bayesian neural networks via local linearization </span>, <br>
+       <span class="conf">(To appear in AISTATS'2021)</span>
+       <span class="author"> A. Immer, M. Korzepa, M. Bauer </span>
+       [<a href="https://arxiv.org/pdf/2008.08400" target="_blank">arXiv</a>]
+  </li>
+
      <li>
        <span class="title"> A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix</span>, <br>
        <span class="conf">(To appear in AISTATS'2021)</span>
