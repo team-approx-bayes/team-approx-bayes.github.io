@@ -47,7 +47,7 @@ custom_css: pub
   </li>
 
     <li>
-       <span class="title"> Improving predictions of Bayesian neural networks via local linearization </span>, <br>
+       <span class="title"> Improving predictions of Bayesian neural networks via local linearization</span>, <br>
        <span class="conf">(To appear in AISTATS'2021)</span>
        <span class="author"> A. Immer, M. Korzepa, M. Bauer </span>
        [<a href="https://arxiv.org/pdf/2008.08400" target="_blank">arXiv</a>]
