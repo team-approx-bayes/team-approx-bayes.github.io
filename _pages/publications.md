@@ -76,11 +76,11 @@ custom_css: pub
          <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past</span><br>
          <span class="conf">(NeurIPS 2020)</span>
          <span class="author">P. Pan<sup>*</sup>, S. Swaroop<sup>*</sup>, A. Immer, R. Eschenhagen, R. E. Turner, M.E. Khan</span>
-         [<a href="https://proceedings.neurips.cc//paper_files/paper/2020/hash/2f3bbb9730639e9ea48f309d9a79ff01-Abstract.html" target="_blank">Published version</a>]
+         [<a href="https://papers.nips.cc/paper/2020/hash/2f3bbb9730639e9ea48f309d9a79ff01-Abstract.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a>]
          [<a href="https://github.com/team-approx-bayes/fromp" target="_blank">Code</a>]
          [<a href="FROMP_NeurIPS2020_poster.pdf" target="_blank">Poster</a>]<br>
-         <b>Oral presentation</b>, 1% of all submisssions (105 out of 9454 submissions).<br>
+         <b>Oral presentation</b>, 1% of all submissions (105 out of 9454 submissions).<br>
       </li>
 
       <li>
