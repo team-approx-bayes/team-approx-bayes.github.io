@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
      <li>
+       <span class="title">  Meta-strategy for Learning Tuning Parameters with Guarantees</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">D. Meunier, P. Alquier</span>
+       [<a href="https://arxiv.org/abs/2102.02504" target="_blank">arXiv</a>]
+  </li>
+
+     <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
