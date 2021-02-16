@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
      <li>
+       <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">P. Alquier, N. Marie, A. Rosier</span>
+       [<a href="https://hal.archives-ouvertes.fr/hal-03142254" target="_blank">preprint HAL</a>]
+  </li>
+
+     <li>
        <span class="title">  Meta-strategy for Learning Tuning Parameters with Guarantees</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">D. Meunier, P. Alquier</span>
