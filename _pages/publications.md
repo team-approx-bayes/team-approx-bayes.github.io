@@ -15,7 +15,7 @@ custom_css: pub
        <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">P. Alquier, N. Marie, A. Rosier</span>
-       [<a href="https://hal.archives-ouvertes.fr/hal-03142254" target="_blank">preprint HAL</a>]
+       [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
   </li>
 
      <li>
