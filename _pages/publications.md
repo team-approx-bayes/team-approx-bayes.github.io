@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
      <li>
+       <span class="title"> Deviation inequalities for stochastic approximation by averaging</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
+       [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
+  </li>
+
+     <li>
        <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">P. Alquier, N. Marie, A. Rosier</span>
