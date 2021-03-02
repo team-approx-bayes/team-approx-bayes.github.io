@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
      <li>
+       <span class="title"> Tractable structured natural gradient descent using local parameterizations</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">W. Lin, F. Nielsen, M. E. Khan, M. Schmidt</span>
+       [<a href="https://arxiv.org/abs/2102.07405" target="_blank">arXiv</a>]
+  </li>
+
+     <li>
        <span class="title"> Deviation inequalities for stochastic approximation by averaging</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
