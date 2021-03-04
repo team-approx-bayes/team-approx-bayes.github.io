@@ -69,7 +69,7 @@ custom_css: pub
 
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
-       <span class="conf">(Preprint)</span>
+       <span class="conf">(To appear in Bernoulli)</span>
        <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
        [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
   </li>
