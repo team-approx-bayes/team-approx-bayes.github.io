@@ -102,7 +102,7 @@ custom_css: pub
    <ul class="w3-ul">
       <li>
          <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past</span><br>
-         <span class="conf">(NeurIPS 2020)</span>
+         <span class="conf">(<a href="https://papers.nips.cc/paper/2020/" target="_blank">NeurIPS 2020</a>)</span>
          <span class="author">P. Pan<sup>*</sup>, S. Swaroop<sup>*</sup>, A. Immer, R. Eschenhagen, R. E. Turner, M.E. Khan</span>
          [<a href="https://papers.nips.cc/paper/2020/hash/2f3bbb9730639e9ea48f309d9a79ff01-Abstract.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a>]
