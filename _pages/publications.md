@@ -74,26 +74,33 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
   </li>
 
-    <li>
-       <span class="title"> Improving predictions of Bayesian neural networks via local linearization</span>, <br>
-       <span class="conf">(To appear in AISTATS'2021)</span>
-       <span class="author"> A. Immer, M. Korzepa, M. Bauer </span>
-       [<a href="https://arxiv.org/pdf/2008.08400" target="_blank">arXiv</a>]
-  </li>
-
-     <li>
-       <span class="title"> A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix</span>, <br>
-       <span class="conf">(To appear in AISTATS'2021)</span>
-       <span class="author">T. Doan, M. Abbana Bennani, B. Mazoure, G. Rabusseau, P. Alquier</span>
-       [<a href="https://arxiv.org/abs/2010.04003" target="_blank">arXiv</a>]
-  </li>
-
   <li>
        <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
        <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
        <span class="author">L. Carel, P. Alquier</span>
        [<a href="https://doi.org/10.1007/s11634-020-00398-4" target="_blank">Paper</a>]
        [<a href="https://arxiv.org/abs/1709.03346" target="_blank">arXiv</a>]
+  </li>
+
+   </ul>
+
+  <h2 class="w3-container w3-padding">2021</h2>
+   <ul class="w3-ul">
+
+    <li>
+       <span class="title"> Improving predictions of Bayesian neural networks via local linearization</span>, <br>
+       <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AISTATS 2021</a>)</span>
+       <span class="author"> A. Immer, M. Korzepa, M. Bauer </span>
+       [<a href="https://proceedings.mlr.press/v130/immer21a.html" target="_blank">Published version</a>]
+       [<a href="https://arxiv.org/pdf/2008.08400" target="_blank">arXiv</a>]
+  </li>
+
+     <li>
+       <span class="title"> A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix</span>, <br>
+       <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AISTATS 2021</a>)</span>
+       <span class="author">T. Doan, M. Abbana Bennani, B. Mazoure, G. Rabusseau, P. Alquier</span>
+       [<a href="https://proceedings.mlr.press/v130/doan21a.html" target="_blank">Published version</a>]
+       [<a href="https://arxiv.org/abs/2010.04003" target="_blank">arXiv</a>]
   </li>
 
    </ul>
