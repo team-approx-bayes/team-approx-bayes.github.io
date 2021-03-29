@@ -202,6 +202,12 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2019</h2>
    <ul class="w3-ul">
+   
+       <li>
+       <span class="title">Natural Gradient Variational Inference for Continual Learning in Deep Neural Networks</span>, <br>
+       <span class="conf">(Bachelor Thesis, 2019)</span> <span class="author">R. Eschenhagen</span>.
+       [<a href="/assets/rgroups/thesis_runa_eschenhagen.pdf" target="_blank">Thesis</a>]
+       </li>
 
       <li>
       <span class="title">Practical Deep Learning with Bayesian Principles</span>, <br>
