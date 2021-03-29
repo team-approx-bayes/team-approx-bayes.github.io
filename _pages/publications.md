@@ -74,14 +74,6 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
   </li>
 
-  <li>
-       <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
-       <span class="conf">(To appear in Advances in Data Analysis and Classification)</span>
-       <span class="author">L. Carel, P. Alquier</span>
-       [<a href="https://doi.org/10.1007/s11634-020-00398-4" target="_blank">Paper</a>]
-       [<a href="https://arxiv.org/abs/1709.03346" target="_blank">arXiv</a>]
-  </li>
-
    </ul>
 
   <h2 class="w3-container w3-padding">2021</h2>
@@ -101,6 +93,14 @@ custom_css: pub
        <span class="author">T. Doan, M. Abbana Bennani, B. Mazoure, G. Rabusseau, P. Alquier</span>
        [<a href="https://proceedings.mlr.press/v130/doan21a.html" target="_blank">Published version</a>]
        [<a href="https://arxiv.org/abs/2010.04003" target="_blank">arXiv</a>]
+  </li>
+
+  <li>
+       <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
+       <span class="conf">(<a href="https://www.springer.com/journal/11634" target="_blank">Advances in Data Analysis and Classification</a>)</span>
+       <span class="author">L. Carel, P. Alquier</span>
+       [<a href="https://doi.org/10.1007/s11634-020-00398-4" target="_blank">Published version</a>]
+       [<a href="https://arxiv.org/abs/1709.03346" target="_blank">arXiv</a>]
   </li>
 
    </ul>
@@ -202,12 +202,6 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2019</h2>
    <ul class="w3-ul">
-   
-       <li>
-       <span class="title">Natural Gradient Variational Inference for Continual Learning in Deep Neural Networks</span>, <br>
-       <span class="conf">(Bachelor Thesis, 2019)</span> <span class="author">R. Eschenhagen</span>.
-       [<a href="/assets/rgroups/thesis_runa_eschenhagen.pdf" target="_blank">Thesis</a>]
-       </li>
 
       <li>
       <span class="title">Practical Deep Learning with Bayesian Principles</span>, <br>
