@@ -33,7 +33,7 @@ are written with a general audience in mind and aim to provide an accessible int
 		</h3>
 		<p class="post-summary">
         <span class="post-meta">{{ post.date | date: '%B %d, %Y'  }}.&nbsp;&nbsp;</span>
-{{ post.content | strip_html | truncatewords:35}} <a href="{{ post.url }}">Continue</a>
+{{ post.content | strip_html | truncatewords:35}} <a href="{{ post.external_url }}">Continue</a>
 </p>
 </div>
   {% else %}
