@@ -11,6 +11,13 @@ custom_css: pub
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
 
+   <li>
+     <span class="title">Scalable Marginal Likelihood Estimation for Model Selection in Deep Learning</span>, <br>
+     <span class="conf">(Preprint)</span>
+     <span class="author">A. Immer, M. Bauer, V. Fortuin, G. Rätsch, M. E. Khan</span>
+     [<a href="https://arxiv.org/abs/2104.04975" target="_blank">arXiv</a>]
+   </li>
+   
      <li>
        <span class="title"> Tractable structured natural gradient descent using local parameterizations</span>, <br>
        <span class="conf">(Preprint)</span>
