@@ -9,9 +9,9 @@ author_profile: false
 
 <section class="page__content cf">
 
-{% assign curDate = site.time | date: '%s' %}
+{% capture curDate %}{{ site.time | date: '%F' }}{% endcapture %}
 {% for post in site.posts %}
-  {% assign postStartDate = post.date | date: '%s' %}
+  {% capture postStartDate %}{{ post.date | date: '%F' }}{% endcapture %}
   {% if post.categories contains "seminar" and postStartDate >= curDate %}
     <div class="news">
     <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b>
@@ -29,9 +29,9 @@ author_profile: false
 <section class="page__content cf">
 
 {% assign i = 0 %}
-{% assign curDate = site.time | date: '%s' %}
+{% capture curDate %}{{ site.time | date: '%F' }}{% endcapture %}
 {% for post in site.posts %}
-  {% assign postStartDate = post.date | date: '%s' %}
+  {% capture postStartDate %}{{ post.date | date: '%F' }}{% endcapture %}
   {% if post.categories contains "seminar" and postStartDate < curDate and i < 9 %}
     <div class="news">
     <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
@@ -48,9 +48,9 @@ author_profile: false
 <section class="page__content cf">
 <br>
 {% assign i = 0 %}
-{% assign curDate = site.time | date: '%s' %}
+{% capture curDate %}{{ site.time | date: '%F' }}{% endcapture %}
 {% for post in site.posts %}
-  {% assign postStartDate = post.date | date: '%s' %}
+  {% capture postStartDate %}{{ post.date | date: '%F' }}{% endcapture %}
   {% if post.categories contains "seminar" and postStartDate < curDate %}
     {% if i >= 9 %}
      <div class="news">
