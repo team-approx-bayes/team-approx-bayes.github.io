@@ -10,6 +10,12 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
+      <li>
+         <span class="title">Beyond Target Networks: Improving Deep Q-learning with Functional Regularization</span>, <br>
+         <span class="conf">(Preprint)</span>
+         <span class="author">A. Piché, J. Marino, G. M. Marconi, C. Pal, M. E. Khan</span>
+         [<a href="https://arxiv.org/abs/2106.02613" target="_blank">arXiv</a>]
+      </li>
 
      <li>
        <span class="title"> Deviation inequalities for stochastic approximation by averaging</span>, <br>
