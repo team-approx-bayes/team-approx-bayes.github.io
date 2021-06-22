@@ -1,6 +1,7 @@
 ---
 title: Fariz Ikhwantri
 type: alumni
+affliation: Tokyo Institute of Technology
 excerpt: Part-time Student // *Tokyo Institute of Technology*
 rank: 6
 date: 2020-07-01 00:00:00

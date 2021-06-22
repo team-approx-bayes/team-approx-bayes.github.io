@@ -76,6 +76,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
   <tr>
     <th>Name</th>
     <th>Dates</th>
+    <th>Affliation</th>
   </tr>
   {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
   {% for post in alumni %}
@@ -83,6 +84,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
       <tr>
         <td>{{ post.title }}</td>
         <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
+        <td>{{post.affliation}}</td>
       </tr>
     {% endif %}
   {% endfor %}
