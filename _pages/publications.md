@@ -73,22 +73,25 @@ custom_css: pub
 
    <li>
      <span class="title">Scalable Marginal Likelihood Estimation for Model Selection in Deep Learning</span>, <br>
-       <span class="conf">(<a href="https://icml.cc/" target="_blank">Accepted for ICML 2021</a>)</span>
+       <span class="conf">(<a href="proceedings.mlr.press/v139/" target="_blank">ICML 2021</a>)</span>
      <span class="author">A. Immer, M. Bauer, V. Fortuin, G. Rätsch, M. E. Khan</span>
+       [<a href="http://proceedings.mlr.press/v139/immer21a.html" target="_blank">Published version</a>]
      [<a href="https://arxiv.org/abs/2104.04975" target="_blank">arXiv</a>]
    </li>
    
      <li>
        <span class="title"> Tractable structured natural gradient descent using local parameterizations</span>, <br>
-       <span class="conf">(<a href="https://icml.cc/" target="_blank">Accepted for ICML 2021</a>)</span>
+       <span class="conf">(<a href="proceedings.mlr.press/v139/" target="_blank">ICML 2021</a>)</span>
        <span class="author">W. Lin, F. Nielsen, M. E. Khan, M. Schmidt</span>
+       [<a href="http://proceedings.mlr.press/v139/lin21e.html" target="_blank">Published version</a>]
        [<a href="https://arxiv.org/abs/2102.07405" target="_blank">arXiv</a>]
   </li>
 
      <li>
        <span class="title">Non-exponentially weighted aggregation: regret bounds for unbounded loss functions</span>, <br>
-       <span class="conf">(<a href="https://icml.cc/" target="_blank">Accepted for ICML 2021</a>)</span>
+       <span class="conf">(<a href="proceedings.mlr.press/v139/" target="_blank">ICML 2021</a>)</span>
        <span class="author">P. Alquier</span>
+       [<a href="http://proceedings.mlr.press/v139/alquier21a.html" target="_blank">Published version</a>]
        [<a href="https://arxiv.org/abs/2009.03017" target="_blank">arXiv</a>]
   </li>
 
