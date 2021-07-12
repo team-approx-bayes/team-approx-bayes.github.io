@@ -10,14 +10,22 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
-      <li>
-         <span class="title">Beyond Target Networks: Improving Deep Q-learning with Functional Regularization</span>, <br>
-         <span class="conf">(Preprint)</span>
-         <span class="author">A. Piché, J. Marino, G. M. Marconi, C. Pal, M. E. Khan</span>
-         [<a href="https://arxiv.org/abs/2106.02613" target="_blank">arXiv</a>]
-      </li>
 
-     <li>
+   <li>
+   <span class="title">The Bayesian Learning Rule</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="me">M.E. Khan</span>, <span class="author"> H. Rue</span>   
+   [ <a href="https://arxiv.org/abs/2107.04562" target="_blank">arXiv</a> ]
+   </li>
+
+   <li>
+      <span class="title">Beyond Target Networks: Improving Deep Q-learning with Functional Regularization</span>, <br>
+      <span class="conf">(Preprint)</span>
+      <span class="author">A. Piché, J. Marino, G. M. Marconi, C. Pal, M. E. Khan</span>
+      [<a href="https://arxiv.org/abs/2106.02613" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
        <span class="title"> Deviation inequalities for stochastic approximation by averaging</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
@@ -52,13 +60,7 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/2006.00840" target="_blank">arXiv</a>]
   </li>
 
-  <li>
-       <span class="title">Learning Algorithms from Bayesian Principles</span>, <br>
-       <span class="conf">(Early draft, Work in progress)</span>
-       <span class="author">M.E. Khan, H. Rue</span>
-       [<a href="https://emtiyaz.github.io/papers/learning_from_bayes.pdf" target="_blank">Draft version</a>]
-   </li>
-
+  
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
        <span class="conf">(To appear in Bernoulli)</span>
