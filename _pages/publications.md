@@ -12,11 +12,11 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
-       <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
-       <span class="conf">(Preprint)</span>
-       <span class="author">T. T. Mai, P. Alquier</span>
-       [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
-  </li>
+   <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">T. T. Mai, P. Alquier</span>
+   [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
+   </li>
 
    <li>
    <span class="title">The Bayesian Learning Rule</span>, <br>
@@ -26,32 +26,39 @@ custom_css: pub
    </li>
 
    <li>
-      <span class="title">Beyond Target Networks: Improving Deep Q-learning with Functional Regularization</span>, <br>
-      <span class="conf">(Preprint)</span>
-      <span class="author">A. Piché, J. Marino, G. M. Marconi, C. Pal, M. E. Khan</span>
-      [<a href="https://arxiv.org/abs/2106.02613" target="_blank">arXiv</a>]
+   <span class="title">Knowledge-Adaptation Priors</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="me">M.E. Khan</span>, <span class="author">Siddharth Swaroop</span>    
+   [ <a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a> ] [ <a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a> ]
    </li>
 
    <li>
-       <span class="title"> Deviation inequalities for stochastic approximation by averaging</span>, <br>
-       <span class="conf">(Preprint)</span>
-       <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
-       [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
-  </li>
+   <span class="title">Beyond Target Networks: Improving Deep Q-learning with Functional Regularization</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">A. Piché, J. Marino, G. M. Marconi, C. Pal, M. E. Khan</span>
+   [<a href="https://arxiv.org/abs/2106.02613" target="_blank">arXiv</a>]
+   </li>
 
-     <li>
-       <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
-       <span class="conf">(Preprint)</span>
-       <span class="author">P. Alquier, N. Marie, A. Rosier</span>
-       [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
-  </li>
+   <li>
+   <span class="title"> Deviation inequalities for stochastic approximation by averaging</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
+   [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
+   </li>
 
-     <li>
-       <span class="title">  Meta-strategy for Learning Tuning Parameters with Guarantees</span>, <br>
-       <span class="conf">(Preprint)</span>
-       <span class="author">D. Meunier, P. Alquier</span>
-       [<a href="https://arxiv.org/abs/2102.02504" target="_blank">arXiv</a>]
-  </li>
+   <li>
+   <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">P. Alquier, N. Marie, A. Rosier</span>
+   [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
+   <span class="title">  Meta-strategy for Learning Tuning Parameters with Guarantees</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">D. Meunier, P. Alquier</span>
+   [<a href="https://arxiv.org/abs/2102.02504" target="_blank">arXiv</a>]
+   </li>
 
      <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
@@ -79,6 +86,13 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2021</h2>
    <ul class="w3-ul">
+
+   <li>
+         <span class="title">Subset-of-Data Variational Inference for Deep Gaussian-Process Regression</span>, <br>
+         <span class="conf">(<a href="https://auai.org/uai2021/accepted_papers" target="_blank">UAI 2021</a>)</span>
+         <span class="author"> A. Jain, P.K. Srijith, </span><span class="me">M.E. Khan</span>,   
+          [ <a href="https://arxiv.org/abs/2107.08265" target="_blank">arXiv</a> ]
+   </li>
 
    <li>
      <span class="title">Scalable Marginal Likelihood Estimation for Model Selection in Deep Learning</span>, <br>
