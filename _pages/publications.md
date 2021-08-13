@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+       <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
+       <span class="conf">(Preprint)</span>
+       <span class="author">T. T. Mai, P. Alquier</span>
+       [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
+  </li>
+
+   <li>
    <span class="title">The Bayesian Learning Rule</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="me">M.E. Khan</span>, <span class="author"> H. Rue</span>   
