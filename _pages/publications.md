@@ -21,14 +21,14 @@ custom_css: pub
    <li>
    <span class="title">The Bayesian Learning Rule</span>, <br>
    <span class="conf">(Preprint)</span>
-   <span class="me">M.E. Khan</span>, <span class="author"> H. Rue</span>   
+   <span class="author">M.E. Khan</span>, <span class="author"> H. Rue</span>   
    [ <a href="https://arxiv.org/abs/2107.04562" target="_blank">arXiv</a> ]
    </li>
 
    <li>
    <span class="title">Knowledge-Adaptation Priors</span>, <br>
    <span class="conf">(Preprint)</span>
-   <span class="me">M.E. Khan</span>, <span class="author">Siddharth Swaroop</span>    
+   <span class="author">M.E. Khan</span>, <span class="author">Siddharth Swaroop</span>    
    [ <a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a> ] [ <a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a> ]
    </li>
 
@@ -90,7 +90,7 @@ custom_css: pub
    <li>
          <span class="title">Subset-of-Data Variational Inference for Deep Gaussian-Process Regression</span>, <br>
          <span class="conf">(<a href="https://auai.org/uai2021/accepted_papers" target="_blank">UAI 2021</a>)</span>
-         <span class="author"> A. Jain, P.K. Srijith, </span><span class="me">M.E. Khan</span>,   
+         <span class="author"> A. Jain, P.K. Srijith, </span><span class="author">M.E. Khan</span>,   
           [ <a href="https://arxiv.org/abs/2107.08265" target="_blank">arXiv</a> ]
    </li>
 
