@@ -18,7 +18,7 @@ background, and as such we encourage applications from any minority.
 
 If you are interested in joining us, please [check the news](../news/) for open positions or see
 [here](../vacancies/) for available RIKEN programmes.
-
+ 
 
 <section class="page__content cf">
 <div class="entries-{{ entries_layout }}">
