@@ -1,7 +1,7 @@
 ---
 title: Dimitri Meunier
 type: alumni
-excerpt: ENSAE Paris
+affliation: ENSAE Paris
 link: https://dimitri-meunier.github.io
 rank: 7
 date: 2020-05-01 00:00:00
