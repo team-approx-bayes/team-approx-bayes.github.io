@@ -2,6 +2,7 @@
 title: Wu Lin
 type: member
 excerpt: PhD Student // *University of British Columbia*
+link: https://yorkerlin.github.io
 rank: 4
 date: 2018-01-01 00:00:00
 header:
