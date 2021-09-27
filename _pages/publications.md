@@ -53,13 +53,6 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
    </li>
 
-   <li>
-   <span class="title">  Meta-strategy for Learning Tuning Parameters with Guarantees</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">D. Meunier, P. Alquier</span>
-   [<a href="https://arxiv.org/abs/2102.02504" target="_blank">arXiv</a>]
-   </li>
-
      <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(Preprint)</span>
@@ -86,6 +79,14 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2021</h2>
    <ul class="w3-ul">
+
+   <li>
+   <span class="title">  Meta-strategy for Learning Tuning Parameters with Guarantees</span>, <br>
+   <span class="conf">(<a href="https://www.mdpi.com/journal/entropy" target="_blank">Entropy</a>)</span>
+   <span class="author">D. Meunier, P. Alquier</span>
+   [<a href="https://doi.org/10.3390/e23101257" target="_blank">Published version</a>]
+   [<a href="https://arxiv.org/abs/2102.02504" target="_blank">arXiv</a>]
+   </li>
 
    <li>
          <span class="title">Subset-of-Data Variational Inference for Deep Gaussian-Process Regression</span>, <br>
