@@ -85,7 +85,7 @@ custom_css: pub
       <li>
          <span class="title">Dual Parameterization of Sparse Variational Gaussian Processes</span>, <br>
          <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
-         <span class="author">P. Chang, V. ADAM, M.E. Khan, A. Solin</span>    
+         <span class="author">P. Chang, V. Adam, M.E. Khan, A. Solin</span>    
       </li>
 
 
