@@ -25,12 +25,6 @@ custom_css: pub
    [ <a href="https://arxiv.org/abs/2107.04562" target="_blank">arXiv</a> ]
    </li>
 
-   <li>
-   <span class="title">Knowledge-Adaptation Priors</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">M.E. Khan</span>, <span class="author">Siddharth Swaroop</span>    
-   [ <a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a> ] [ <a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a> ]
-   </li>
 
    <li>
    <span class="title">Beyond Target Networks: Improving Deep Q-learning with Functional Regularization</span>, <br>
@@ -79,6 +73,21 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2021</h2>
    <ul class="w3-ul">
+
+      <li>
+         <span class="title">Knowledge-Adaptation Priors</span>, <br>
+         <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
+         <span
+         class="author">M.E. Khan, S. Swaroop</span>    
+         [ <a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a> ] [ <a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a> ] [ <a href="https://t.co/v68OrIE0Xz?amp=1" target="_blank">Tweet</a> ] [ <a href="https://t.co/XBRwRh3Lde?amp=1" target="_blank">SlidesLive Video</a> ]
+		 </li>
+
+      <li>
+         <span class="title">Dual Parameterization of Sparse Variational Gaussian Processes</span>, <br>
+         <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
+         <span class="author">P. Chang, V. Adam, M.E. Khan, A. Solin</span>    
+      </li>
+
 
    <li>
    <span class="title">  Meta-strategy for Learning Tuning Parameters with Guarantees</span>, <br>
