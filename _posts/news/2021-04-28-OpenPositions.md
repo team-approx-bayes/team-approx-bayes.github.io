@@ -1,5 +1,5 @@
 ---
-category: pinned-news
+category: removed-news
 title: Open Position (Research Scientist/Postdoctoral Researcher/Technical Staff) - position has been filled! 
 ---
 
