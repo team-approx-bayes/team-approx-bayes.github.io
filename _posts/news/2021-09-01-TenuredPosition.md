@@ -1,5 +1,5 @@
 ---
-category: pinned-news
+category: removed-news
 title: Open Indefinite-Term Research Scientist Position (Female Only)
 ---
 
