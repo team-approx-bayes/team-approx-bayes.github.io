@@ -21,7 +21,7 @@ custom_css: pub
    <li>
    <span class="title">The Bayesian Learning Rule</span>, <br>
    <span class="conf">(Preprint)</span>
-   <span class="author">M.E. Khan</span>, <span class="author"> H. Rue</span>   
+   <span class="author">M.E. Khan</span>, <span class="author"> H. Rue</span>
    [ <a href="https://arxiv.org/abs/2107.04562" target="_blank">arXiv</a> ]
    </li>
 
@@ -63,7 +63,7 @@ custom_css: pub
 
    </ul>
 
-  <h2 class="w3-container w3-padding">2021</h2>
+  <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
 
   <li>
