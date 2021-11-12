@@ -61,12 +61,17 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/2006.00840" target="_blank">arXiv</a>]
   </li>
 
-  
+   </ul>
+
+  <h2 class="w3-container w3-padding">2021</h2>
+   <ul class="w3-ul">
+
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
-       <span class="conf">(To appear in Bernoulli)</span>
+       <span class="conf">(<a href="http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal" target="_blank">Bernoulli</a>)</span>
        <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
-       [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
+       [<a href="https://doi.org/10.3150/21-BEJ1338" target="_blank">Published version</a>]
+       [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>] 
   </li>
 
    </ul>
