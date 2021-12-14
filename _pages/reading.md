@@ -5,6 +5,9 @@ permalink: /reading/
 author_profile: false
 ---
 
+<b>Notice.</b> After December 20 the reading group will be on
+winter/Xmas break and resumes on January 17.
+
 <h2>Upcoming</h2>
 
 <section class="page__content cf">
