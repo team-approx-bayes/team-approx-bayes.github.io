@@ -56,8 +56,9 @@ custom_css: pub
 
      <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
-       <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>, to appear)</span>
+       <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
+       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version (to appear)</a>]
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
 
