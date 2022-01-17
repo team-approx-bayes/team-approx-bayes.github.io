@@ -5,9 +5,6 @@ permalink: /reading/
 author_profile: false
 ---
 
-<b>Notice.</b> After the meeting on December 20, 2021 the reading group will be on
-winter/Xmas break and resumes in the new year on January 17, 2022.
-
 <h2>Upcoming</h2>
 
 <section class="page__content cf">
