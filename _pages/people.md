@@ -91,7 +91,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
 </table>
 <br>
 <!--  -->
-<h2>Interns / Trainees / Remote Collaborators</h2>
+<h2>Interns / Trainees / Remote Collaborators / Rotation Students </h2>
 <table class="responsive-table table" font-size="1em">
   <tr>
     <th>Name</th>
