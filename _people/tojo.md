@@ -1,5 +1,5 @@
 ---
-title: Tojoarisoa Rakotoaritina
+title: Tojo Rakotoaritina
 type: member
 excerpt: Rotation Student, *Okinawa Institute of Science and Technology*
 rank: 4
