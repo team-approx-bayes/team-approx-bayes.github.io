@@ -1,7 +1,7 @@
 ---
 title: Ted Tinker
 type: alumni
-excerpt: PhD Student // Rotation Student *Okinawa Institute of Science and Technology*
+affiliation: Rotation PhD Student, Okinawa Institute of Science and Technology
 rank: 7
 date: 2021-08-31 00:00:00
 header:
