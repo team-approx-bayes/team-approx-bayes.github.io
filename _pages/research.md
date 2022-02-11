@@ -51,3 +51,6 @@ are written with a general audience in mind and aim to provide an accessible int
     {% endif %}
   {% endif %}
 {% endfor %}
+
+# Code
+Here we list research code that has been open-sourced to accompany recent publications.
