@@ -36,8 +36,8 @@ are written with a general audience in mind and aim to provide an accessible int
 {{ post.content | strip_html | truncatewords:35}} <a href="{{ post.external_url }}">Continue</a>
 </p>
 </div>
-  {% else %}
-<div class="post">
+  {% else %} style="pointer-events: none !important; display: none !important; position: absolute; top: 0px !important; left: 0px !important; z-index: 2147483647 !important; box-sizing: content-box 
+ !important;"></div><div class="post">
 <h3>
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
         {{ post.title }}
@@ -54,3 +54,28 @@ are written with a general audience in mind and aim to provide an accessible int
 
 # Code
 Here we list research code that has been open-sourced to accompany recent publications.
+
+<div class="w3-container">
+
+<h2 class="w3-container w3-padding">2021</h2>
+   <ul class="w3-ul">
+</ul>
+
+<h2 class="w3-container w3-padding">2020</h2>
+   <ul class="w3-ul">
+</ul>
+
+<h2 class="w3-container w3-padding">2019</h2>
+   <ul class="w3-ul">
+</ul>
+
+<h2 class="w3-container w3-padding">2018</h2>
+   <ul class="w3-ul">
+</ul>
+
+<h2 class="w3-container w3-padding">2017</h2>
+   <ul class="w3-ul">
+</ul></div>
+<br>
+
+<div style="pointer-events: none !important; display: none !important; position: absolute; top: 0px !important; left: 0px !important; z-index: 2147483647 !important; box-sizing: content-box !important;"></div>
