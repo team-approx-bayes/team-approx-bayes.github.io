@@ -80,18 +80,21 @@ custom_css: pub
   <h2 class="w3-container w3-padding">2021</h2>
    <ul class="w3-ul">
 
-      <li>
+    <li>
          <span class="title">Knowledge-Adaptation Priors</span>, <br>
          <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
          <span
          class="author">M.E. Khan, S. Swaroop</span>    
-         [ <a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a> ] [ <a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a> ] [ <a href="https://t.co/v68OrIE0Xz?amp=1" target="_blank">Tweet</a> ] [ <a href="https://t.co/XBRwRh3Lde?amp=1" target="_blank">SlidesLive Video</a> ]
-		 </li>
+         [<a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a>] [<a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a>] [<a href="https://t.co/v68OrIE0Xz?amp=1" target="_blank">Tweet</a>] [<a href="https://t.co/XBRwRh3Lde?amp=1" target="_blank">SlidesLive Video</a>]
+         [<a href="https://github.com/team-approx-bayes/kpriors" target="_blank">Code</a>]
+		</li>
 
       <li>
          <span class="title">Dual Parameterization of Sparse Variational Gaussian Processes</span>, <br>
          <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
-         <span class="author">P. Chang, V. Adam, M.E. Khan, A. Solin</span>    
+         <span class="author">P. Chang, V. Adam, M.E. Khan, A. Solin</span>
+         [<a href="https://arxiv.org/abs/2111.03412" target="_blank">arXiv</a>]
+         [<a href="https://github.com/AaltoML/t-SVGP" target="_blank&quot;">Code</a>]    
       </li>
 
 
@@ -107,7 +110,8 @@ custom_css: pub
          <span class="title">Subset-of-Data Variational Inference for Deep Gaussian-Process Regression</span>, <br>
          <span class="conf">(<a href="https://auai.org/uai2021/accepted_papers" target="_blank">UAI 2021</a>)</span>
          <span class="author"> A. Jain, P.K. Srijith, </span><span class="author">M.E. Khan</span>,   
-          [ <a href="https://arxiv.org/abs/2107.08265" target="_blank">arXiv</a> ]
+          [<a href="https://arxiv.org/abs/2107.08265" target="_blank">arXiv</a>]
+          [<a href="https://github.com/brain-iith/SOD_DGP" target="_blank&quot;">Code</a>]  
    </li>
 
    <li>
@@ -116,6 +120,7 @@ custom_css: pub
      <span class="author">A. Immer, M. Bauer, V. Fortuin, G. Rätsch, M. E. Khan</span>
        [<a href="http://proceedings.mlr.press/v139/immer21a.html" target="_blank">Published version</a>]
      [<a href="https://arxiv.org/abs/2104.04975" target="_blank">arXiv</a>]
+     [<a href="https://github.com/AlexImmer/marglik" target="_blank&quot;">Code</a>]
    </li>
    
      <li>
@@ -136,10 +141,11 @@ custom_css: pub
 
     <li>
        <span class="title"> Improving predictions of Bayesian neural networks via local linearization</span>, <br>
-       <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AISTATS 2021</a>)</span>
+       <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AIstats 2021</a>)</span>
        <span class="author"> A. Immer, M. Korzepa, M. Bauer </span>
        [<a href="https://proceedings.mlr.press/v130/immer21a.html" target="_blank">Published version</a>]
        [<a href="https://arxiv.org/pdf/2008.08400" target="_blank">arXiv</a>]
+       [<a href="https://github.com/AlexImmer/BNN-predictions" target="_blank&quot;">Code</a>]
   </li>
 
      <li>
@@ -169,7 +175,7 @@ custom_css: pub
          [<a href="https://papers.nips.cc/paper/2020/hash/2f3bbb9730639e9ea48f309d9a79ff01-Abstract.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a>]
          [<a href="https://github.com/team-approx-bayes/fromp" target="_blank">Code</a>]
-         [<a href="FROMP_NeurIPS2020_poster.pdf" target="_blank">Poster</a>]<br>
+         [<a href="FROMP_NeurIPS2020_poster.pdf" target="_blank">Poster</a>]
          <b>Oral presentation</b>, 1% of all submissions (105 out of 9454 submissions).<br>
       </li>
 
@@ -228,6 +234,7 @@ custom_css: pub
          <span class="author"> W. Lin, M. Schmidt, M.E. Khan</span>
 	 [<a href="http://proceedings.mlr.press/v119/lin20d.html" target="_blank">Published version</a>] 
          [<a href="https://arxiv.org/abs/2002.10060" target="_blank">arXiv</a>]
+         [<a href="https://github.com/yorkerlin/iBayesLRule" target="_blank&quot;">Code</a>]
       </li>
       <li>
          <span class="title">VILD: Variational Imitation Learning with Diverse-quality Demonstrations</span>, <br>
@@ -235,6 +242,7 @@ custom_css: pub
          <span class="author"> V. Tangkaratt, B. Han, M.E. Khan,</span><span class="author"> M. Sugiyama</span>
 	 [<a href="http://proceedings.mlr.press/v119/tangkaratt20a.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/1909.06769" target="_blank">arXiv</a>]
+         [<a href="https://github.com/voot-t/vild_code" target="_blank&quot;">Code</a>]
       </li>
 
       <li>
@@ -290,7 +298,7 @@ custom_css: pub
       <li>
       <span class="title">Fast and Simple Natural-Gradient Variational Inference with Mixture of Exponential-family Approximations</span>, <br>
       <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML, 2019</a>)</span> <span class="author">W. Lin, </span> <span class="author">M.E. Khan, M. Schmidt</span>.
-      [<a href="https://arxiv.org/abs/1906.02914" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/lin19b.html" target="_blank">Published version</a>][<a href="https://github.com/yorkerlin/VB-MixEF" target="_blank&quot;">Code</a>]<br>
+      [<a href="https://arxiv.org/abs/1906.02914" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/lin19b.html" target="_blank">Published version</a>] [<a href="https://github.com/yorkerlin/VB-MixEF" target="_blank&quot;">Code</a>]<br>
       Also appeared at the <span class="conf"><a href="http://approximateinference.org/" target="_blank">Symposium on Advances in Approximate Bayesian Inference at NeurIPS 2018</a></span>
       [<a href="papers/mixExp.pdf" target="_blank">Short Paper</a>] <br>
       </li>
@@ -304,7 +312,7 @@ custom_css: pub
       <li>
       <span class="title">Scalable Training of Inference Networks for Gaussian-Process Models</span>, <br>
       <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML, 2019</a>)</span> <span class="author">J. Shi,</span> <span class="author">M.E. Khan, J. Zhu</span>.
-      [<a href="https://arxiv.org/abs/1905.10969" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/shi19a.html" target="_blank"> Published version</a>][<a href="https://github.com/thjashin/gp-infer-net" target="_blank&quot;">Code</a>]
+      [<a href="https://arxiv.org/abs/1905.10969" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/shi19a.html" target="_blank"> Published version</a>] [<a href="https://github.com/thjashin/gp-infer-net" target="_blank&quot;">Code</a>]
       </li>
 
       <li>
