@@ -3,6 +3,7 @@ layout: single
 title: Research
 permalink: /research/
 author_profile: false
+custom_css: research
 ---
 
 Humans, animals, and other living beings have a natural ability to autonomously learn throughout their lives and quickly adapt to their surroundings, but computers lack such abilities.
@@ -54,3 +55,163 @@ are written with a general audience in mind and aim to provide an accessible int
 
 # Code
 Here we list research code that has been open-sourced to accompany recent publications.
+
+<div class="w3-container">
+<ul class="w3-ul">
+   <li>
+   		  <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
+         <span class="title">Knowledge-Adaptation Priors.</span>
+         [<a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a>] [<a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a>] [<a href="https://t.co/v68OrIE0Xz?amp=1" target="_blank">Tweet</a>] [<a href="https://t.co/XBRwRh3Lde?amp=1" target="_blank">SlidesLive Video</a>]  [<a href="https://github.com/team-approx-bayes/kpriors" target="_blank">Code</a>]
+	</li>
+
+  <li>
+         <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
+         <span class="title">Dual Parameterization of Sparse Variational Gaussian Processes.</span>
+         [<a href="https://arxiv.org/abs/2111.03412" target="_blank">arXiv</a>]
+         [<a href="https://github.com/AaltoML/t-SVGP" target="_blank&quot;">Code</a>]    
+      </li>
+
+
+  <li>
+       <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AIstats 2021</a>)</span>
+       <span class="title"> Improving predictions of Bayesian neural networks via local linearization.</span>
+       [<a href="https://proceedings.mlr.press/v130/immer21a.html" target="_blank">Published version</a>]
+       [<a href="https://arxiv.org/pdf/2008.08400" target="_blank">arXiv</a>]
+       [<a href="https://github.com/AlexImmer/BNN-predictions" target="_blank&quot;">Code</a>]
+  </li>
+
+  <li>
+     <span class="conf">(<a href="http://proceedings.mlr.press/v139/" target="_blank">ICML 2021</a>)</span>
+     <span class="title">Scalable Marginal Likelihood Estimation for Model Selection in Deep Learning.</span>
+       [<a href="http://proceedings.mlr.press/v139/immer21a.html" target="_blank">Published version</a>]
+     [<a href="https://arxiv.org/abs/2104.04975" target="_blank">arXiv</a>]
+     [<a href="https://github.com/AlexImmer/marglik" target="_blank&quot;">Code</a>]
+   </li>
+
+  <li>  
+         <span class="conf">(<a href="https://auai.org/uai2021/accepted_papers" target="_blank">UAI 2021</a>)</span>  
+         <span class="title">Subset-of-Data Variational Inference for Deep Gaussian-Process Regression.</span>
+          [<a href="https://arxiv.org/abs/2107.08265" target="_blank">arXiv</a>]
+          [<a href="https://github.com/brain-iith/SOD_DGP" target="_blank&quot;">Code</a>]  
+   </li>
+
+    <li>
+          <span class="conf">(<a href="https://papers.nips.cc/paper/2020/" target="_blank">NeurIPS 2020</a>)</span>
+         <span class="title">Continual Deep Learning by Functional Regularisation of Memorable Past.</span>
+         [<a href="https://papers.nips.cc/paper/2020/hash/2f3bbb9730639e9ea48f309d9a79ff01-Abstract.html" target="_blank">Published version</a>]
+         [<a href="https://arxiv.org/abs/2004.14070" target="_blank">ArXiv</a>]
+         [<a href="https://github.com/team-approx-bayes/fromp" target="_blank">Code</a>]
+         [<a href="FROMP_NeurIPS2020_poster.pdf" target="_blank">Poster</a>]
+    </li>
+
+      <li>
+          <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
+         <span class="title">Handling the Positive-Definite Constraint in the Bayesian Learning Rule.</span>
+   [<a href="http://proceedings.mlr.press/v119/lin20d.html" target="_blank">Published version</a>] 
+         [<a href="https://arxiv.org/abs/2002.10060" target="_blank">arXiv</a>]
+         [<a href="https://github.com/yorkerlin/iBayesLRule" target="_blank&quot;">Code</a>]
+      </li>
+
+      <li>
+         <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
+         <span class="title">Training Binary Neural Networks using the Bayesian Learning Rule.</span>
+	 [<a href="http://proceedings.mlr.press/v119/meng20a.html" target="_blank">Published version</a>] 
+         [<a href="https://arxiv.org/abs/2002.10778" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/BayesBiNN" target="_blank&quot;">Code</a>]
+      </li>
+
+      <li>
+          <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
+         <span class="title">VILD: Variational Imitation Learning with Diverse-quality Demonstrations.</span>
+   [<a href="http://proceedings.mlr.press/v119/tangkaratt20a.html" target="_blank">Published version</a>]
+         [<a href="https://arxiv.org/abs/1909.06769" target="_blank">arXiv</a>]
+         [<a href="https://github.com/voot-t/vild_code" target="_blank&quot;">Code</a>]
+      </li>
+
+            <li>
+      <span class="conf">(<a href="https://nips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a>)</span> 
+      <span class="title">Practical Deep Learning with Bayesian Principles.</span>
+      [<a href="https://proceedings.neurips.cc/paper/2019/hash/b53477c2821c1bf0da5d40e57b870d35-Abstract.html" target="_blank">Published version</a>]
+      [<a href="https://arxiv.org/abs/1906.02506" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/dl-with-bayes" target="_blank&quot;">Code</a>]
+      </li>
+
+            <li>
+       <span class="conf">(<a href="https://nips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a>)</span>
+      <span class="title">Approximate Inference Turns Deep Networks into Gaussian Processes.</span>
+      [<a href="https://proceedings.neurips.cc/paper/2019/hash/b3bbccd6c008e727785cb81b1aa08ac5-Abstract.html" target="_blank">Published version</a>]
+      [<a href="https://arxiv.org/abs/1906.01930" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/dnn2gp" target="_blank&quot;">Code</a>]
+      </li>
+
+
+            <li>
+       <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML, 2019</a>)</span> 
+      <span class="title">Fast and Simple Natural-Gradient Variational Inference with Mixture of Exponential-family Approximations.</span><br>
+      [<a href="https://arxiv.org/abs/1906.02914" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/lin19b.html" target="_blank">Published version</a>][<a href="https://github.com/yorkerlin/VB-MixEF" target="_blank&quot;">Code</a>]<br>
+      </li>
+
+            <li>
+      <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML, 2019</a>)</span>
+      <span class="title">Scalable Training of Inference Networks for Gaussian-Process Models.</span>
+      [<a href="https://arxiv.org/abs/1905.10969" target="_blank">arXiv</a>] [<a href="http://proceedings.mlr.press/v97/shi19a.html" target="_blank"> Published version</a>][<a href="https://github.com/thjashin/gp-infer-net" target="_blank&quot;">Code</a>]
+      </li>
+
+            <li>
+       <span class="conf">(<a href="https://nips.cc/Conferences/2018/Schedule?showEvent=11605" target="_blank">NeurIPS 2018</a>)</span>
+      <span class="title">SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient.</span><br>
+ 	 [<a href="https://proceedings.neurips.cc/paper/2018/hash/d3157f2f0212a80a5d042c127522a2d5-Abstract.html" target="_blank"> Published version</a>]
+         [<a href="http://arxiv.org/abs/1811.04504" target="_blank">arXiv</a>]
+         [<a href="https://github.com/aaronpmishkin/SLANG/blob/master/poster/SLANG_NIPS_2018_Poster.pdf" target="_blank">Poster</a>]
+         [<a href="https://www.youtube.com/watch?v=ekaB_weR5Bw&amp;feature=youtu.be" target="_blank">3-min Video</a>]
+         [<a href="https://github.com/aaronpmishkin/SLANG" target="_blank">Code</a>]
+      </li>
+
+            <li>
+       <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML 2018</a>)</span> 
+      <span class="title">Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam.</span>
+         [<a href="http://proceedings.mlr.press/v80/khan18a.html" target="_blank"> Published version</a>]
+         [<a href="https://arxiv.org/abs/1806.04854" target="_blank">arXiv</a>]
+         [<a href="https://github.com/emtiyaz/vadam/" target="_blank">Code</a>]
+         [<a href="papers/icml2018_slides.pdf" target="_blank">Slides</a>]
+      </li>
+
+            <li>  
+      <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2018</a>)</span>
+      <span class="title">Variational Message Passing with Structured Inference Networks.</span>
+         [<a href="https://openreview.net/forum?id=HyH9lbZAW" target="_blank">Paper</a>]
+         [<a href="http://arxiv.org/abs/1803.05589" target="_blank">arXiv Version</a>]
+         [<a href="https://github.com/emtiyaz/vmp-for-svae/" target="_blank">Code</a>]
+      </li>
+
+           <li> 
+       <span class="conf">(<a href="http://www.aistats.org/" target="_blank">AIstats 2018</a>)</span>
+      <span class="title">Bayesian Nonparametric Poisson-Process Allocation for Time-Sequence Modeling.</span>
+	[<a href="http://proceedings.mlr.press/v84/ding18a.html" target="_blank">Published version</a>]
+	[<a href="https://github.com/Dinghy/BaNPPA" target="_blank">Code</a>]
+      </li>
+
+   <li id="#aistats2017">
+    <span class="conf">(<a href="http://www.aistats.org/" target="_blank">AIstats 2017</a>)</span>
+	<span class="title">Conjugate-Computation Variational Inference : Converting Variational Inference in Non-Conjugate Models to Inferences in Conjugate Models.</span>
+	[<a href="http://proceedings.mlr.press/v54/khan17a.html" target="_blank"> Published version </a>]
+	[<a href="https://arxiv.org/abs/1703.04265" target="_blank">arXiv </a>]
+	[<a href="https://github.com/emtiyaz/cvi/" target="_blank">Code for Logistic Reg + GPs</a>]
+	[<a href="https://github.com/emtiyaz/cvi/" target="_blank">Code for Correlated Topic Model</a>]
+    </li>
+
+    <li>
+    <span class="conf">(<a href="https://www.ieee-security.org/TC/SP2017/" target="_blank">38th IEEE Symposium on Security and Privacy 2017(S&amp;P))</a></span>
+	<span class="title">SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices.</span>
+[<a href="https://doi.org/10.1109/SP.2017.25" target="_blank">Published paper</a>]
+[<a href="https://github.com/lca1/smarper" target="_blank">Code</a>]
+[<a href="https://spism.epfl.ch/smarper/" target="_blank">SmarPer Homepage</a>]
+		</li>
+
+    <li id="#bs2017">
+    <span class="conf">(<a href="http://www.buildingsimulation2017.org/" target="_blank">Building Simulation 2017</a>)</span>
+	<span class="title">Gaussian-Process-Based Emulators for Building Performance Simulation.</span><br>
+	[<a href="papers/Building_Simulation.pdf" target="_blank">Paper</a>]
+	[<a href="https://zenodo.org/record/291858#.WME-XBKGNo4" target="_blank">Building Simulation Data</a>]
+	[<a href="https://github.com/paragrastogi/GPregressionInBS" target="_blank">Code</a>]
+		</li>
+</ul>
+</div>
+<div style="pointer-events: none !important; display: none !important; position: absolute; top: 0px !important; left: 0px !important; z-index: 2147483647 !important; box-sizing: content-box !important;">
