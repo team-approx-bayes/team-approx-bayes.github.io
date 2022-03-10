@@ -51,7 +51,8 @@ custom_css: pub
    <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
        <span class="conf">(<a href="https://icsta.net/" target="_blank">ICSTA 2022</a>)</span>
    <span class="author">T. T. Mai, P. Alquier</span>
-   [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv (to appear)</a>]
+   [to appear]
+   [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
    </li>
 
      <li>
