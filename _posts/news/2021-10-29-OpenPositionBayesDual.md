@@ -1,5 +1,5 @@
 ---
-category: pinned-news
+category: news
 title: Up to 4 Open Position (Research Scientist/Postdoctoral Researcher/Technical Staff)   
 ---
 
