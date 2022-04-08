@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title">User-friendly introduction to PAC-Bayes bounds</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">P. Alquier</span>,
+   [ <a href="https://arxiv.org/abs/2110.11216" target="_blank">arXiv</a> ]
+   </li>
+
+   <li>
    <span class="title">The Bayesian Learning Rule</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">M.E. Khan</span>, <span class="author"> H. Rue</span>
