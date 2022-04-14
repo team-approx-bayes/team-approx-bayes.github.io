@@ -49,7 +49,7 @@ custom_css: pub
 
    <li>
    <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
-   <span class="conf"><a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">Electronic Journal of Statistics</a></span>
+   <span class="conf">(<a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">EJS</a>)</span>
    <span class="author">P. Alquier, N. Marie, A. Rosier</span>
    [to appear]
    [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
