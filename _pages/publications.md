@@ -47,6 +47,11 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/2006.00840" target="_blank">arXiv</a>]
   </li>
 
+   </ul>
+
+  <h2 class="w3-container w3-padding">2022</h2>
+   <ul class="w3-ul">
+
    <li>
    <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
    <span class="conf">(<a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">EJS</a>)</span>
@@ -70,11 +75,6 @@ custom_css: pub
        [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version (to appear)</a>]
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
-
-   </ul>
-
-  <h2 class="w3-container w3-padding">2022</h2>
-   <ul class="w3-ul">
 
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
