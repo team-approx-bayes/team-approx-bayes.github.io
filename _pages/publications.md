@@ -40,19 +40,20 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
    </li>
 
-   <li>
-   <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">P. Alquier, N. Marie, A. Rosier</span>
-   [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
-   </li>
-
   <li>
        <span class="title">Universal Robust Regression via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(Preprint)</span>
        <span class="author">P. Alquier, M. Gerber</span>
        [<a href="https://arxiv.org/abs/2006.00840" target="_blank">arXiv</a>]
   </li>
+
+   <li>
+   <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
+   <span class="conf"><a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">Electronic Journal of Statistics</a></span>
+   <span class="author">P. Alquier, N. Marie, A. Rosier</span>
+   [to appear]
+   [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
+   </li>
 
    <li>
    <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
