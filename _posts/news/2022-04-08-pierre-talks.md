@@ -16,6 +16,6 @@ Forthcoming talks:
    <li> [21 Apr, 2022] [ <a href="https://www.math.vu.nl/thebayesclub/" target="_blank">International Bayes Club </a> ] Seminar: "PAC-Bayes bounds and contraction of the posterior" </li>
    <li> [28 Apr, 2022] [ <a href="https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar" target="_blank">One World ABC </a> ] Seminar: "Concentration and robustness of discrepancy-based ABC" </li>
    <li> [1* Jun, 2022] [ Workshop "New Trends in Statistical Learning II", Porquerolles, France ] Talk: "Universal Robust Regression via MMD" </li>
-   <li> [2* Jun, 2022] [ <a href="https://doukhan.u-cergy.fr/conference2022.html" target="_blank">EcoDep 2022 Conference on Networks Reconstruction </a> ] Talk: TBA </li>
+   <li> [2* Jun, 2022] [ <a href="https://doukhan.u-cergy.fr/conference2022.html" target="_blank">EcoDep 2022 Conference on Networks Reconstruction </a> ] Talk: "Matrix factorization for time series analysis" </li>
 </ul>
 
