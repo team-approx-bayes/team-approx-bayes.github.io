@@ -47,14 +47,6 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/2006.00840" target="_blank">arXiv</a>]
   </li>
 
-     <li>
-       <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
-       <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
-       <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
-       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version (to appear)</a>]
-       [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
-  </li>
-
    </ul>
 
   <h2 class="w3-container w3-padding">2022</h2>
@@ -75,6 +67,14 @@ custom_css: pub
    [to appear]
    [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
    </li>
+
+     <li>
+       <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
+       <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
+       <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
+       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
+       [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
+  </li>
 
   <li>
        <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
