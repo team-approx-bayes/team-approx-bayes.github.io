@@ -64,7 +64,7 @@ custom_css: pub
    <span class="title"> Tight Risk Bound for High Dimensional Time Series Completion</span>, <br>
    <span class="conf">(<a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/" target="_blank">EJS</a>)</span>
    <span class="author">P. Alquier, N. Marie, A. Rosier</span>
-   [to appear]
+   [<a href="https://doi.org/10.1214/22-EJS2015" target="_blank">Published version</a>]
    [<a href="https://arxiv.org/abs/2102.08178" target="_blank">arXiv</a>]
    </li>
 
@@ -72,7 +72,7 @@ custom_css: pub
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
-       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
+       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Published version</a>]
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
 
