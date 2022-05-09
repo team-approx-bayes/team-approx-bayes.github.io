@@ -15,7 +15,7 @@ Recent talks by Pierre:
 
 Forthcoming talks:
 <ul>
-   <li> [1* Jun, 2022] [ Workshop "New Trends in Statistical Learning II", Porquerolles, France ] Talk: "Universal Robust Regression via MMD" </li>
+   <li> [1* Jun, 2022] [ <a href="https://sites.google.com/view/workshop-statsml/workshop_statsml_ii" target="_blank">New Trends in Statistical Learning II</a> ]  Talk: "Universal Robust Regression via MMD" </li>
    <li> [2* Jun, 2022] [ <a href="https://doukhan.u-cergy.fr/conference2022.html" target="_blank">EcoDep 2022 Conference on Networks Reconstruction </a> ] Talk: "Matrix factorization for time series analysis" </li>
 </ul>
 
