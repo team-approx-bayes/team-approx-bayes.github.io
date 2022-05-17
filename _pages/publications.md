@@ -93,7 +93,8 @@ custom_css: pub
          <span class="title">Knowledge-Adaptation Priors</span>, <br>
          <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
          <span
-         class="author">M.E. Khan, S. Swaroop</span>    
+         class="author">M.E. Khan, S. Swaroop</span>
+         [<a href="https://proceedings.neurips.cc/paper/2021/hash/a4380923dd651c195b1631af7c829187-Abstract.html" target="_blank">Published version</a>]
          [<a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a>] [<a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a>] [<a href="https://t.co/v68OrIE0Xz?amp=1" target="_blank">Tweet</a>] [<a href="https://t.co/XBRwRh3Lde?amp=1" target="_blank">SlidesLive Video</a>]
          [<a href="https://github.com/team-approx-bayes/kpriors" target="_blank">Code</a>]
 		</li>
@@ -102,6 +103,7 @@ custom_css: pub
          <span class="title">Dual Parameterization of Sparse Variational Gaussian Processes</span>, <br>
          <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
          <span class="author">P. Chang, V. Adam, M.E. Khan, A. Solin</span>
+         [<a href="https://proceedings.neurips.cc/paper/2021/hash/5fcc629edc0cfa360016263112fe8058-Abstract.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/2111.03412" target="_blank">arXiv</a>]
          [<a href="https://github.com/AaltoML/t-SVGP" target="_blank&quot;">Code</a>]    
       </li>
