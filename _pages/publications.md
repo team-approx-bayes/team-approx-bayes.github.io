@@ -118,7 +118,8 @@ custom_css: pub
    <li>
          <span class="title">Subset-of-Data Variational Inference for Deep Gaussian-Process Regression</span>, <br>
          <span class="conf">(<a href="https://auai.org/uai2021/accepted_papers" target="_blank">UAI 2021</a>)</span>
-         <span class="author"> A. Jain, P.K. Srijith, </span><span class="author">M.E. Khan</span>,   
+         <span class="author"> A. Jain, P.K. Srijith, </span><span class="author">M.E. Khan</span>, 
+	  [<a href="https://proceedings.mlr.press/v161/jain21a.html" target="_blank">Published version</a>]
           [<a href="https://arxiv.org/abs/2107.08265" target="_blank">arXiv</a>]
           [<a href="https://github.com/brain-iith/SOD_DGP" target="_blank&quot;">Code</a>]  
    </li>
