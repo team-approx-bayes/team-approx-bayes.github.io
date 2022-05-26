@@ -52,14 +52,6 @@ custom_css: pub
   <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
 
-   <li>
-   <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
-       <span class="conf">(<a href="https://icsta.net/" target="_blank">ICSTA 2022</a>)</span>
-   <span class="author">T. T. Mai, P. Alquier</span>
-   [to appear]
-   [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
-   </li>
-
      <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
@@ -67,6 +59,14 @@ custom_css: pub
        [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
+
+   <li>
+   <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
+       <span class="conf">(<a href="https://icsta.net/" target="_blank">ICSTA 2022</a>)</span>
+   <span class="author">T. T. Mai, P. Alquier</span>
+   [to appear]
+   [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
+   </li>
 
    <li>
    <span class="title">Approximate Bayesian Inference: Reprint of the Special Issue Published in Entropy</span>, <br>
