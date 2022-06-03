@@ -72,7 +72,7 @@ custom_css: pub
    <span class="title">Approximate Bayesian Inference: Reprint of the Special Issue Published in Entropy</span>, <br>
        <span class="conf">(<a href="https://www.mdpi.com/books" target="_blank">MDPI Books</a>)</span>
    <span class="author">P. Alquier (Editor)</span>
-   [<a href="https://www.mdpi.com/books/pdfview/book/5544" target="_blank">Book page</a>]
+   [<a href="https://doi.org/10.3390/books978-3-0365-3790-0" target="_blank">Book page</a>]
    </li>
 
    <li>
