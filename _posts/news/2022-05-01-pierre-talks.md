@@ -15,8 +15,8 @@ Recent talks by Pierre:
 
 Forthcoming talks:
 <ul>
-   <li> [2* May, 2022] [ <a href="https://www.esi.ac.at/events/e22/" target="_blank">Statistical estimation and deep learning in UQ for PDEs</a> ]  Talk: "Robust estimation via minimum distance estimation" </li>
-   <li> [1* Jun, 2022] [ <a href="https://sites.google.com/view/workshop-statsml/workshop_statsml_ii" target="_blank">New Trends in Statistical Learning II</a> ]  Talk: "Universal Robust Regression via MMD" </li>
-   <li> [23 Jun, 2022] [ <a href="https://doukhan.u-cergy.fr/conference2022.html" target="_blank">EcoDep 2022 Conference on Networks Reconstruction </a> ] Talk: "Robust estimation via minimum distance estimation" </li>
+   <li> [31 May, 2022] [ <a href="https://www.esi.ac.at/events/e22/" target="_blank">Statistical estimation and deep learning in UQ for PDEs</a> ]  Talk: "Robust estimation via minimum distance estimation" </li>
+   <li> [14 Jun, 2022] [ <a href="https://sites.google.com/view/workshop-statsml/workshop_statsml_ii" target="_blank">New Trends in Statistical Learning II</a> ]  Talk: "A theoretical analysis of catastrophic forgetting" </li>
+   <li> [23 Jun, 2022] [ <a href="https://doukhan.u-cergy.fr/conference2022.html" target="_blank">EcoDep 2022 Conference on Networks Reconstruction </a> ] Talk: "A theoretical analysis of catastrophic forgetting" </li>
 </ul>
 
