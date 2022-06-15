@@ -2,7 +2,7 @@
 title: Jooyeon Kim
 type: member
 excerpt: Postdoc
-link: 
+link: http://jyscardioid.github.io 
 rank: 3
 date: 2021-12-01 00:00:00
 header:
