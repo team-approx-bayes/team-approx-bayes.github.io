@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Concentration and robustness of discrepancy-based ABC via Rademacher complexity</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">S. Legramanti, D. Durante, P. Alquier</span>
+   [<a href="https://arxiv.org/abs/2206.06991" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title">User-friendly introduction to PAC-Bayes bounds</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">P. Alquier</span>,
