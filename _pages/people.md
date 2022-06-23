@@ -98,7 +98,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
     <th>Dates</th>
     <th>Affliation</th>
   </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 7 %}
       <tr>

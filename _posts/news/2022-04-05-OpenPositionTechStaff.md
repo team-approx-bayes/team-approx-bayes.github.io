@@ -1,5 +1,5 @@
 ---
-category: pinned-news
+category: removed-news
 title: A new Technical Staff Position is open (suitable for Masters/Bachelor students)   
 ---
 
