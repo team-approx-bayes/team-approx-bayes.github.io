@@ -47,13 +47,6 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2106.02613" target="_blank">arXiv</a>]
    </li>
 
-   <li>
-   <span class="title"> Deviation inequalities for stochastic approximation by averaging</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
-   [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
-   </li>
-
   <li>
        <span class="title">Universal Robust Regression via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(Preprint)</span>
@@ -66,11 +59,19 @@ custom_css: pub
   <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
 
+   <li>
+   <span class="title">Deviation inequalities for stochastic approximation by averaging</span>, <br>
+       <span class="conf">(<a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications" target="_blank">SPA</a>)</span>
+   <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
+   [to appear]
+   [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
+   </li>
+
      <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
-       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
+       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version (to appear)</a>]
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
 
