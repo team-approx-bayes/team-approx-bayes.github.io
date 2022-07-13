@@ -12,6 +12,20 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">G. Wolfer</span>
+   [<a href="https://arxiv.org/abs/1912.06845" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
+   <span class="title"> Geometric Aspects of Data-Processing of Markov Chains</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">G. Wolfer, S. Watanabe</span>
+   [<a href="https://arxiv.org/abs/2203.04575" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> Optimal quasi-Bayesian reduced rank regression with incomplete response</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">T. T. Mai, P. Alquier</span>
