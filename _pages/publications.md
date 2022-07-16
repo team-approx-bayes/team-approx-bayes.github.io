@@ -70,22 +70,14 @@ custom_css: pub
 
    </ul>
 
-  <h2 class="w3-container w3-padding">2022</h2>
+  <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
-
-   <li>
-   <span class="title">Deviation inequalities for stochastic approximation by averaging</span>, <br>
-       <span class="conf">(<a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications" target="_blank">SPA</a>)</span>
-   <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
-   [<a href="https://doi.org/10.1016/j.spa.2022.07.002" target="_blank">Published version</a>]
-   [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
-   </li>
 
      <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
        <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
-       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version (to appear)</a>]
+       [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
 
@@ -95,6 +87,17 @@ custom_css: pub
    <span class="author">T. T. Mai, P. Alquier</span>
    [to appear]
    [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
+   </li>
+
+  <h2 class="w3-container w3-padding">2022</h2>
+   <ul class="w3-ul">
+
+   <li>
+   <span class="title">Deviation inequalities for stochastic approximation by averaging</span>, <br>
+       <span class="conf">(<a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications" target="_blank">SPA</a>)</span>
+   <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
+   [<a href="https://doi.org/10.1016/j.spa.2022.07.002" target="_blank">Published version</a>]
+   [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
    </li>
 
    <li>
