@@ -77,7 +77,7 @@ custom_css: pub
    <span class="title">Deviation inequalities for stochastic approximation by averaging</span>, <br>
        <span class="conf">(<a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications" target="_blank">SPA</a>)</span>
    <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
-   [to appear]
+   [<a href="https://doi.org/10.1016/j.spa.2022.07.002" target="_blank">Published version</a>]
    [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
    </li>
 
