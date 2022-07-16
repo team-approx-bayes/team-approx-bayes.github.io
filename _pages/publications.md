@@ -26,21 +26,21 @@ custom_css: pub
    </li>
 
    <li>
-   <span class="title"> Optimal quasi-Bayesian reduced rank regression with incomplete response</span>, <br>
+   <span class="title"> Optimal Quasi-Bayesian Reduced Rank Regression with Incomplete Response</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">T. T. Mai, P. Alquier</span>
    [<a href="https://arxiv.org/abs/2206.08619" target="_blank">arXiv</a>]
    </li>
 
    <li>
-   <span class="title"> Concentration and robustness of discrepancy-based ABC via Rademacher complexity</span>, <br>
+   <span class="title"> Concentration and Robustness of Discrepancy-based ABC via Rademacher Complexity</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">S. Legramanti, D. Durante, P. Alquier</span>
    [<a href="https://arxiv.org/abs/2206.06991" target="_blank">arXiv</a>]
    </li>
 
    <li>
-   <span class="title">User-friendly introduction to PAC-Bayes bounds</span>, <br>
+   <span class="title">User-Friendly Introduction to PAC-Bayes Bounds</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">P. Alquier</span>,
    [ <a href="https://arxiv.org/abs/2110.11216" target="_blank">arXiv</a> ]
@@ -95,7 +95,7 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
-   <span class="title">Deviation inequalities for stochastic approximation by averaging</span>, <br>
+   <span class="title">Deviation Inequalities for Stochastic Approximation by Averaging</span>, <br>
        <span class="conf">(<a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications" target="_blank">SPA</a>)</span>
    <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
    [<a href="https://doi.org/10.1016/j.spa.2022.07.002" target="_blank">Published version</a>]
@@ -118,7 +118,7 @@ custom_css: pub
    </li>
 
   <li>
-       <span class="title">Finite sample properties of parametric MMD estimation: robustness to misspecification and dependence</span>, <br>
+       <span class="title">Finite Sample Properties of Parametric MMD Estimation: Robustness to Misspecification and Dependence</span>, <br>
        <span class="conf">(<a href="http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal" target="_blank">Bernoulli</a>)</span>
        <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
        [<a href="https://doi.org/10.3150/21-BEJ1338" target="_blank">Published version</a>]
@@ -177,7 +177,7 @@ custom_css: pub
    </li>
    
      <li>
-       <span class="title"> Tractable structured natural gradient descent using local parameterizations</span>, <br>
+       <span class="title"> Tractable Structured Natural Gradient Descent Using Local Parameterizations</span>, <br>
        <span class="conf">(<a href="http://proceedings.mlr.press/v139/" target="_blank">ICML 2021</a>)</span>
        <span class="author">W. Lin, F. Nielsen, M. E. Khan, M. Schmidt</span>
        [<a href="http://proceedings.mlr.press/v139/lin21e.html" target="_blank">Published version</a>]
@@ -185,7 +185,7 @@ custom_css: pub
   </li>
 
      <li>
-       <span class="title">Non-exponentially weighted aggregation: regret bounds for unbounded loss functions</span>, <br>
+       <span class="title">Non-Exponentially Weighted Aggregation: Regret Bounds for Unbounded Loss Functions</span>, <br>
        <span class="conf">(<a href="http://proceedings.mlr.press/v139/" target="_blank">ICML 2021</a>)</span>
        <span class="author">P. Alquier</span>
        [<a href="http://proceedings.mlr.press/v139/alquier21a.html" target="_blank">Published version</a>]
@@ -193,7 +193,7 @@ custom_css: pub
   </li>
 
     <li>
-       <span class="title"> Improving predictions of Bayesian neural networks via local linearization</span>, <br>
+       <span class="title"> Improving Predictions of Bayesian Neural Networks via Local Linearization</span>, <br>
        <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AIstats 2021</a>)</span>
        <span class="author"> A. Immer, M. Korzepa, M. Bauer </span>
        [<a href="https://proceedings.mlr.press/v130/immer21a.html" target="_blank">Published version</a>]
@@ -210,7 +210,7 @@ custom_css: pub
   </li>
 
   <li>
-       <span class="title">Simultaneous dimension reduction and clustering via the NMF-EM algorithm</span>, <br>
+       <span class="title">Simultaneous Dimension Reduction and Clustering via the NMF-EM Algorithm</span>, <br>
        <span class="conf">(<a href="https://www.springer.com/journal/11634" target="_blank">Advances in Data Analysis and Classification</a>)</span>
        <span class="author">L. Carel, P. Alquier</span>
        [<a href="https://doi.org/10.1007/s11634-020-00398-4" target="_blank">Published version</a>]
