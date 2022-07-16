@@ -89,6 +89,8 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
    </li>
 
+   </ul>
+
   <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
 
