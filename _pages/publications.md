@@ -81,14 +81,6 @@ custom_css: pub
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
   </li>
 
-   <li>
-   <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
-       <span class="conf">(<a href="https://icsta.net/" target="_blank">ICSTA 2022</a>)</span>
-   <span class="author">T. T. Mai, P. Alquier</span>
-   [to appear]
-   [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
-   </li>
-
    </ul>
 
   <h2 class="w3-container w3-padding">2022</h2>
@@ -100,6 +92,14 @@ custom_css: pub
    <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
    [<a href="https://doi.org/10.1016/j.spa.2022.07.002" target="_blank">Published version</a>]
    [<a href="https://arxiv.org/abs/2102.08685" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
+   <span class="title">Understanding the Population Structure Correction Regression</span>, <br>
+       <span class="conf">(<a href="https://icsta.net/" target="_blank">ICSTA 2022</a>)</span>
+   <span class="author">T. T. Mai, P. Alquier</span>
+   [<a href="https://avestia.com/ICSTA2022_Proceedings/files/paper/ICSTA_114.pdf" target="_blank">Published version</a>]
+   [<a href="https://arxiv.org/abs/2102.05655" target="_blank">arXiv</a>]
    </li>
 
    <li>
