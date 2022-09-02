@@ -14,7 +14,7 @@ custom_css: pub
    <li>
    <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
    <span class="conf">(Preprint)</span>
-   <span class="author">G. Wolfer</span>
+   <span class="author">G. Wolfer, A. Kontorovich</span>
    [<a href="https://arxiv.org/abs/2209.00175" target="_blank">arXiv</a>]
    </li>
 
