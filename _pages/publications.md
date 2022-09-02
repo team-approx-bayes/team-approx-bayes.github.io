@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">G. Wolfer</span>
+   [<a href="https://arxiv.org/abs/2209.00175" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">G. Wolfer</span>
