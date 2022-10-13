@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> SAM as an Optimal Relaxation of Bayes</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">T. Möllenhoff, M. E. Khan</span>
+   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">G. Wolfer, A. Kontorovich</span>
