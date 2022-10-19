@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Dimension-free Bounds for Sum of Dependent Matrices and Operators with Heavy-Tailed Distribution</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">S. Nigikata, P. Alquier, M. Imaizuimi</span>
+   [<a href="https://arxiv.org/abs/2210.09756" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> Variance-Aware Estimation of Kernel Mean Embedding</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">G. Wolfer, P. Alquier</span>
