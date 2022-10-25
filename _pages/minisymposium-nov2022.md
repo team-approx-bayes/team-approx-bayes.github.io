@@ -8,7 +8,7 @@ November 1st, 2022 at [RIKEN Center for AI Project, Tokyo](https://aip.riken.jp)
 
 ## Information
 - This seminar includes a total of 7 talks from external visitors and
-people from the approximate Bayesian inference team at AIP
+people from AIP
 - Each talk is 40 minutes, with 10 minutes questions and discussion
   afterwards. All talks will be held in the open area at
   [RIKEN AIP](https://aip.riken.jp/access/)
@@ -20,7 +20,7 @@ people from the approximate Bayesian inference team at AIP
   - 10:00 -- 10:50 [JinYeong Bak](https://nosyu.kr), *Title tba*,
     [abstract](#1)
   - 10:50 -- 11:40 [Thomas Möllenhoff](https://thomasmoellenhoff.net),
-    *Title tba*, [abstract](#2)
+    *SAM as an Optimal Relaxation of Bayes*, [abstract](#2)
   - 11:40 -- 12:30 [Alexander Immer](https://aleximmer.github.io),
   *Title tba*, [abstract](#3)
 - 12:30 -- 14:00 Lunch break
@@ -48,9 +48,9 @@ Abstract: *tba*
 
 <a name="2"></a>
 ### [Thomas Möllenhoff](https://thomasmoellenhoff.net), RIKEN AIP
-Title: *tba*
+Title: SAM as an Optimal Relaxation of Bayes
 
-Abstract: *tba*
+Abstract: Sharpness-aware minimization (SAM) and related adversarial deep-learning methods can drastically improve generalization, but their underlying mechanisms are not yet fully understood. Here, we establish SAM as a relaxation of the Bayes objective where the expected negative-loss is replaced by the optimal convex lower bound, obtained by using the so-called Fenchel biconjugate. The connection enables a new Adam-like extension of SAM to automatically obtain reasonable uncertainty estimates, while sometimes also improving its accuracy. By connecting adversarial and Bayesian methods, our work opens a new path to robustness.
 
 <a name="3"></a>
 ###  [Alexander Immer](https://aleximmer.github.io), ETH Center for Learning Systems 
