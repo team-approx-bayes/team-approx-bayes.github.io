@@ -12,6 +12,13 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> PAC-Bayesian Offline Contextual Bandits With Guarantees</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">O. Sakhi, N. Chopin, P. Alquier</span>
+   [<a href="https://arxiv.org/abs/2210.13132" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> Dimension-free Bounds for Sum of Dependent Matrices and Operators with Heavy-Tailed Distribution</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">S. Nigikata, P. Alquier, M. Imaizuimi</span>
