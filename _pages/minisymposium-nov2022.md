@@ -17,8 +17,8 @@ people from AIP
 ## Program
 - 09:30 -- 09:55 Registration and setting up.
 - **Session I** (Chair: [Gian Maria Marconi](https://gmmarconi.github.io))
-  - 10:00 -- 10:50 [JinYeong Bak](https://nosyu.kr), *Title tba*,
-    [abstract](#1)
+  - 10:00 -- 10:50 [JinYeong Bak](https://nosyu.kr), 
+    *Natural Language Inference with Knowledge and Emotion-Cause Pair Extraction*, [abstract](#1)
   - 10:50 -- 11:40 [Thomas Möllenhoff](https://thomasmoellenhoff.net),
     *SAM as an Optimal Relaxation of Bayes*, [abstract](#2)
   - 11:40 -- 12:30 [Alexander Immer](https://aleximmer.github.io),
@@ -42,9 +42,9 @@ people from AIP
 ## Title and Abstracts
 <a name="1"></a>
 ### [JinYeong Bak](https://nosyu.kr), Sung Kyun Kwan University
-Title: *tba*
+Title: Natural Language Inference with Knowledge and Emotion-Cause Pair Extraction
 
-Abstract: *tba*
+Abstract: In this talk, I will introduce two recent research projects on natural language inference (NLI) - incorporating knowledge for NLI and emotion recognition - incorporating meta information for identifying the cause of emotion in conversations. Finding counterevidence to statements is key to many tasks, including counter argument generation. We present a knowledge-enhanced NLI model that aims to handle causality- and example-based inference by incorporating knowledge graphs. Our NLI model outperforms baselines for NLI tasks, especially for instances that require the targeted inference. Second, the Emotion-Cause Pair Extraction (ECPE) task aims to pair all emotions and corresponding causes in documents. However, previous ECPE research is conducted based on news articles, which has different characteristics compared to dialogues. To address this issue, we propose a Pair-Relationship Guided Mixture-of-Experts (PRG-MoE) model, which considers dialogue features (e.g., speaker information). PRG-MoE automatically learns the relationship between utterances and advises a gating network to incorporate dialogue features in the evaluation, yielding substantial performance improvement.
 
 <a name="2"></a>
 ### [Thomas Möllenhoff](https://thomasmoellenhoff.net), RIKEN AIP
