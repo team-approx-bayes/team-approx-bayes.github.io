@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Machine-Learning Seminar
+title: The ABI Team Seminar
 permalink: /minisymposium/
 author_profile: false
 ---
@@ -12,7 +12,9 @@ people from AIP
 - Each talk is 40 minutes, with 10 minutes questions and discussion
   afterwards. All talks will be held in the open area at
   [RIKEN AIP](https://aip.riken.jp/access/)
-- The event is open to the public, but in case too many people join, AIP people are given priority. Register [here]().
+- Participants can also join through Zoom. Register [here](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/145905) to see the link.
+- For in-person attendance is only possible for AIP members
+- [How to get to RIKEN-AIP](https://aip.riken.jp/access/) to see the link.
 
 ## Program
 - 09:30 -- 09:55 Registration and setting up.
