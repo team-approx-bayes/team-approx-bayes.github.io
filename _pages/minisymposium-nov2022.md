@@ -69,10 +69,9 @@ Abstract: I will talk about our recent work with Thomas Möllenhoff and Emtiyaz 
 
 <a name="5"></a>
 ###  [Konstantinos Pitas](https://www.konstantinos-pitas.com), INRIA Grenoble
-Title: *tba*
+Title: Cold Posteriors through PAC-Bayes
 
-Abstract: *tba*
-
+Abstract: We investigate the cold posterior effect through the lens of PAC-Bayes generalization bounds. We argue that in the non-asymptotic setting, when the number of training samples is (relatively) small, discussions of the cold posterior effect should take into account that approximate Bayesian inference does not readily provide guarantees of performance on out-of-sample data. Instead, out-of-sample error is better described through a generalization bound. In this context, we explore the connections of the ELBO objective from variational inference and the PAC-Bayes objectives. We note that, while the ELBO and PAC-Bayes objectives are similar, the latter objectives naturally contain a temperature parameter λ which is not restricted to be λ = 1. For both regression and classification tasks, in the case of isotropic Laplace approximations to the posterior, we show how this PAC-Bayesian interpretation of the temperature parameter captures important aspects of the cold posterior effect.
 
 <a name="6"></a>
 ### [Carlo D'Eramo](https://www.ias.informatik.tu-darmstadt.de/Team/CarloDEramo), TU Darmstadt
@@ -84,6 +83,7 @@ In this talk, I will describe my research revolving around the problem of how ag
 
 <a name="7"></a>
 ### [Georgia Chalvatzaki](https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki), TU Darmstadt
-Title: *tba*
+Title: Shaping Robotic Assistance through Structured Robot Learning
 
-Abstract: *tba*
+Abstract: Future intelligent robotic assistants are expected to perform various tasks in unstructured and human-inhabited environments. These robots should support humans in everyday activities as personal assistants or collaborate with them in work environments like hospitals and warehouses. In this talk, I will briefly describe my research works for robotic assistants to help and support humans in need, developing specific human-robot interaction behaviors combining classical robotics and machine learning approaches. I will then explain how mobile manipulation robots are currently the most promising solution among embodied AI systems, thanks to their body structure and sensorial equipment for learning to execute a series of assistive tasks. On top of this, I will point out some key challenges that hinder autonomous mobile manipulation for intelligent assistance and discuss how structured robot learning can pave the way toward generalizable robot behaviors. Structured robot learning refers to all learning methods at the intersection of classical robotics and machine learning that aim to leverage structure in data and algorithms to scale robot behaviors to complex tasks. Finally, this talk will give insights into how my team and I leverage structured representations, priors, and task descriptions together with learning and planning in some challenging (mobile) manipulation tasks in our path for creating general-purpose intelligent robotic assistants.
+
