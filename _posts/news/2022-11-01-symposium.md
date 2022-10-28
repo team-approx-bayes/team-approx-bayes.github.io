@@ -3,4 +3,4 @@ category: news
 logo: fa-star
 ---
 
-We will hold a [[seminar](/minisymposium/)] on Tuesday, November 1st. 
+The ABI team is organizing a [seminar](/minisymposium/) on Tuesday, November 1st. 
