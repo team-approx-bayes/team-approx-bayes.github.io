@@ -24,21 +24,21 @@ people from AIP
   - 10:50 -- 11:40 [Thomas Möllenhoff](https://thomasmoellenhoff.net),
     *SAM as an Optimal Relaxation of Bayes*, [abstract](#2)
   - 11:40 -- 12:30 [Alexander Immer](https://aleximmer.github.io),
-  *Title tba*, [abstract](#3)
+  *Scalable Bayesian Neural Network model selection*, [abstract](#3)
 - 12:30 -- 14:00 Lunch break
 - **Session II** (Chair: [Thomas Möllenhoff](https://thomasmoellenhoff.net))
   - 14:00 -- 14:50 [Mehmet Eren Kiral](https://ekiral.github.io),
-    *title tba*, [abstract](#4)
+    *The Lie Group Bayesian Learning Rule*, [abstract](#4)
   - 14:50 -- 15:40
-    [Konstantinos Pitas](https://www.konstantinos-pitas.com), *title tba*, [abstract](#5)
+    [Konstantinos Pitas](https://www.konstantinos-pitas.com), *Cold Posteriors through PAC-Bayes*, [abstract](#5)
 - 15:40 -- 16:00 Coffee break
 - **Session III** (Chair: [Jooyeon Kim](https://scholar.google.com/citations?user=ie5WNHcAAAAJ))
   - 16:00 -- 16:50
     [Carlo D'Eramo](https://www.ias.informatik.tu-darmstadt.de/Team/CarloDEramo),
-    *title tba*, [abstract](#6)
+    *Lightweight Reinforcement Learning for Autonomous Adaptive Agents*, [abstract](#6)
   - 16:50 -- 17:40
     [Georgia Chalvatzaki](https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki),
-        *title tba*, [abstract](#7)
+        *Shaping Robotic Assistance through Structured Robot Learning*, [abstract](#7)
 - 18:00 Concluding remarks
 
 ## Title and Abstracts
