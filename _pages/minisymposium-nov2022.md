@@ -18,7 +18,7 @@ people from AIP
 
 ## Program
 - 09:30 -- 09:55 Registration and setting up.
-- **Session I** (Chair: [Gian Maria Marconi](https://gmmarconi.github.io))
+- **Session I** (Chair: [Jooyeon Kim](https://scholar.google.com/citations?user=ie5WNHcAAAAJ))
   - 10:00 -- 10:50 [JinYeong Bak](https://nosyu.kr),
     *Natural Language Inference with Knowledge and Emotion-Cause Pair Extraction*, [abstract](#1)
   - 10:50 -- 11:40 [Thomas Möllenhoff](https://thomasmoellenhoff.net),
@@ -32,7 +32,7 @@ people from AIP
   - 14:50 -- 15:40
     [Konstantinos Pitas](https://www.konstantinos-pitas.com), *Cold Posteriors through PAC-Bayes*, [abstract](#5)
 - 15:40 -- 16:00 Coffee break
-- **Session III** (Chair: [Jooyeon Kim](https://scholar.google.com/citations?user=ie5WNHcAAAAJ))
+- **Session III** (Chair: [Gian Maria Marconi](https://gmmarconi.github.io))
   - 16:00 -- 16:50
     [Carlo D'Eramo](https://www.ias.informatik.tu-darmstadt.de/Team/CarloDEramo),
     *Lightweight Reinforcement Learning for Autonomous Adaptive Agents*, [abstract](#6)
