@@ -1,6 +1,6 @@
 ---
 title: Ali Unlu
-type: member
+type: alumni
 excerpt: Intern, *Okinawa Institute of Science and Technology*
 rank: 6
 date: 2022-04-01 00:00:00
