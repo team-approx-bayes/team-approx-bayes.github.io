@@ -106,7 +106,7 @@ custom_css: pub
    </ul>
 
   <h2 class="w3-container w3-padding">In press / to appear </h2>
-   <ul class="w3-ul">
+   <li class="w3-ul">
 
      <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
@@ -114,6 +114,14 @@ custom_css: pub
        <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
        [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
        [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
+  </li>
+    
+    <li>
+       <span class="title"> MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition</span>, <br>
+       <span class="conf">(<a href="https://2022.emnlp.org/" target="_blank">EMNLP</a>)</span>
+       <span class="author">D. Adelani, G. Neubig, S. Ruder, S. Rijhwani, M. Beukman, C. Palen-Michel, C. Lignos, 
+        J. Alabi, S. Muhammad, P. Nabende, B. Dione, A. Bukula, R. Mabuya, B. Dossou, B. Sibanda, H. Buzaaba, ..... </span>
+       [<a href="https://arxiv.org/abs/2210.12391" target="_blank">arXiv</a>]
   </li>
 
    </ul>
