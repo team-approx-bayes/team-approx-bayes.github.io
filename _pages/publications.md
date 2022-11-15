@@ -118,7 +118,7 @@ custom_css: pub
 
     <li>
         <span class="title"> MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition</span>, <br>
-        <span class="conf">(<a href="https://2022.emnlp.org/" target="_blank">EMNLP</a>)</span>
+        <span class="conf">(<a href="https://2022.emnlp.org/" target="_blank">EMNLP 2022</a>)</span>
         <span class="author">D. Adelani, G. Neubig, S. Ruder, S. Rijhwani, M. Beukman, C. Palen-Michel, C. Lignos,
         J. Alabi, S. Muhammad, P. Nabende, B. Dione, A. Bukula, R. Mabuya, B. Dossou, B. Sibanda, H. Buzaaba, ..... </span>
         [<a href="https://arxiv.org/abs/2210.12391" target="_blank">arXiv</a>]
