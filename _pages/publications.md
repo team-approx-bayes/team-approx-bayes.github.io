@@ -106,7 +106,7 @@ custom_css: pub
    </ul>
 
   <h2 class="w3-container w3-padding">In press / to appear </h2>
-   <li class="w3-ul">
+   <ul class="w3-ul">
 
     <li>
        <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
