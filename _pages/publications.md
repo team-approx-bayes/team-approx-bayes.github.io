@@ -123,7 +123,7 @@ custom_css: pub
         [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
         [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
     </li>
- </ul>
+   </ul>
 
   <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
@@ -188,7 +188,7 @@ custom_css: pub
          [<a href="https://proceedings.neurips.cc/paper/2021/hash/a4380923dd651c195b1631af7c829187-Abstract.html" target="_blank">Published version</a>]
          [<a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a>] [<a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a>] [<a href="https://t.co/v68OrIE0Xz?amp=1" target="_blank">Tweet</a>] [<a href="https://t.co/XBRwRh3Lde?amp=1" target="_blank">SlidesLive Video</a>]
          [<a href="https://github.com/team-approx-bayes/kpriors" target="_blank">Code</a>]
-		</li>
+    </li>
 
       <li>
          <span class="title">Dual Parameterization of Sparse Variational Gaussian Processes</span>, <br>
