@@ -134,7 +134,7 @@ custom_css: pub
    <span class="title"> SAM as an Optimal Relaxation of Bayes</span>, <br>
    <span class="conf">ICLR 2023</span>
    <span class="author">T. Möllenhoff, M. E. Khan</span>
-   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>]
+   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>] <br>
    <b>Notable top-5% of all accepted papers.</b> <br>
    </li>
 
