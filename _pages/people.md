@@ -35,6 +35,25 @@ If you are interested in joining us, please [check the news](../news/) for open 
 
 <section class="page__content cf">
 <h1>Alumni</h1>
+<h2>Research Scientists</h2>
+<table class="responsive-table table">
+  <tr>
+    <th>Name</th>
+    <th>Dates</th>
+  </tr>
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
+  {% for post in alumni %}
+    {% if post.rank == 2 %}
+      <tr>
+        <td>{{ post.title }}</td>
+        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+</table>
+<br>
+<!--  -->
+
 <h2>Postdocs</h2>
 <table class="responsive-table table">
   <tr>
