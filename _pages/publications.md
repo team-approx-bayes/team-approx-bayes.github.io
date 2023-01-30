@@ -32,12 +32,6 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]
    </li>
 
-   <li>
-   <span class="title"> SAM as an Optimal Relaxation of Bayes</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">T. Möllenhoff, M. E. Khan</span>
-   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>]
-   </li>
 
    <li>
    <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
@@ -124,6 +118,24 @@ custom_css: pub
         [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
     </li>
    </ul>
+
+  <h2 class="w3-container w3-padding">2023</h2>
+   <ul class="w3-ul">
+
+<li>
+   <span class="title">The Lie-Group Bayesian Learning Rule</span>, <br>
+   <span class="conf">AISTATS 2023</span>
+   <span class="author">E. M. Kiral, T. Möllenhoff, M. E. Khan</span>
+   </li>
+
+
+<li>
+   <span class="title"> SAM as an Optimal Relaxation of Bayes</span>, <br>
+   <span class="conf">ICLR 2023</span>
+   <span class="author">T. Möllenhoff, M. E. Khan</span>
+   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>]
+   <b>Oral presentation</b>, notable top-5% of all submissions.<br>
+   </li>
 
   <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
