@@ -137,6 +137,8 @@ custom_css: pub
    <b>Oral presentation</b>, notable top-5% of all submissions.<br>
    </li>
 
+</ul>
+
   <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
 
