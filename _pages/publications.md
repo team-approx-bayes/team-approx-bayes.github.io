@@ -126,6 +126,7 @@ custom_css: pub
    <span class="title">The Lie-Group Bayesian Learning Rule</span>, <br>
    <span class="conf">AISTATS 2023</span>
    <span class="author">E. M. Kiral, T. Möllenhoff, M. E. Khan</span>
+   [<a href="." target="_blank">arXiv</a>]
    </li>
 
 
@@ -134,7 +135,7 @@ custom_css: pub
    <span class="conf">ICLR 2023</span>
    <span class="author">T. Möllenhoff, M. E. Khan</span>
    [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>]
-   <b>Oral presentation</b>, notable top-5% of all submissions.<br>
+   <b>Notable top-5% of all accepted papers.</b> <br>
    </li>
 
 </ul>
