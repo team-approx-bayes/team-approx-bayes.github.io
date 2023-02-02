@@ -153,14 +153,14 @@ custom_css: pub
 
    <li>
    <span class="title">Practical Structured Riemannian Optimization with Momentum by using Generalized Normal Coordinates</span>, <br>
-   <span class="conf">(<a href="https://www.neurreps.org/" target="_blank">NeuReps Workshop</a> at NeurIPS 2023)</span>
+   <span class="conf">(<a href="https://www.neurreps.org/" target="_blank">NeuReps Workshop</a> at NeurIPS 2022)</span>
    <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan</span>, <span class="author">M. Schmidt</span>   
    [ <a href="https://openreview.net/forum?id=1aybhSfabqh" target="_blank">OpenReview</a> ]<br>
    </li>
 
    <li>
    <span class="title">Can Calibration Improve Sample Prioritization?</span>, <br>
-   <span class="conf">(<a href="https://hity-workshop.github.io/NeurIPS2022/" target="_blank">HITY Workshop</a> at NeurIPS 2023)</span>
+   <span class="conf">(<a href="https://hity-workshop.github.io/NeurIPS2022/" target="_blank">HITY Workshop</a> at NeurIPS 2022)</span>
    <span class="author">G. Tata, G. K. Gudur, G. Chennupati, M.E. Khan</span>
    [ <a href="https://openreview.net/forum?id=LnygZu8WJk" target="_blank">OpenReview</a> ]<br>
    </li>
