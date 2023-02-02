@@ -152,6 +152,28 @@ custom_css: pub
    </li>
 
    <li>
+   <span class="title">Practical Structured Riemannian Optimization with Momentum by using Generalized Normal Coordinates</span>, <br>
+   <span class="conf">(<a href="https://www.neurreps.org/" target="_blank">NeuReps Workshop</a> at NeurIPS 2023)</span>
+   <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan</span>, <span class="author">M. Schmidt</span>   
+   [ <a href="https://openreview.net/forum?id=1aybhSfabqh" target="_blank">OpenReview</a> ]<br>
+   </li>
+
+   <li>
+   <span class="title">Can Calibration Improve Sample Prioritization?</span>, <br>
+   <span class="conf">(<a href="https://hity-workshop.github.io/NeurIPS2022/" target="_blank">HITY Workshop</a> at NeurIPS 2023)</span>
+   <span class="author">G. Tata, G. K. Gudur, G. Chennupati, M.E. Khan</span>
+   [ <a href="https://openreview.net/forum?id=LnygZu8WJk" target="_blank">OpenReview</a> ]<br>
+   </li>
+
+   <li>
+   <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
+   <span class="conf">(<a href="https://tractable-probabilistic-modeling.github.io/tpm2022/" target="_blank">Workshop on Tractable Probabilistic Modeling</a> at UAI, 2022 )</span>
+   <span class="author">D. Tailor</span>, M.E. Khan, E. Nalisnick</span>   
+   [<a href="https://openreview.net/forum?id=LTo3tkIPvSh" target="_blank">arXiv</a>] [<a href="https://www.youtube.com/watch?v=jKEf_R-fCQ8&feature=youtu.be" target="_blank">Video</a>] [<a href="https://dvtailor.github.io/docs/tpm_poster.pdf" target="_blank">Poster</a>]<br>
+   </li>
+
+
+   <li>
    <span class="title">Deviation Inequalities for Stochastic Approximation by Averaging</span>, <br>
        <span class="conf">(<a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications" target="_blank">SPA</a>)</span>
    <span class="author">X. Fan, P. Alquier, P. Doukhan</span>
