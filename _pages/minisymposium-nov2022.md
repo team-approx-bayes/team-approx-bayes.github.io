@@ -21,12 +21,12 @@ people from AIP
 - **Session I** (Chair: [Jooyeon Kim](https://scholar.google.com/citations?user=ie5WNHcAAAAJ))
   - 10:00 -- 10:50 [JinYeong Bak](https://nosyu.kr),
     *Natural Language Inference with Knowledge and Emotion-Cause Pair Extraction*, [abstract](#1)
-  - 10:50 -- 11:40 [Thomas Möllenhoff](https://thomasmoellenhoff.net),
+  - 10:50 -- 11:40 [Thomas Möllenhoff](https://www.thomasmoellenhoff.net),
     *SAM as an Optimal Relaxation of Bayes*, [abstract](#2)
   - 11:40 -- 12:30 [Alexander Immer](https://aleximmer.github.io),
   *Scalable Bayesian Neural Network model selection*, [abstract](#3)
 - 12:30 -- 14:00 Lunch break
-- **Session II** (Chair: [Thomas Möllenhoff](https://thomasmoellenhoff.net))
+- **Session II** (Chair: [Thomas Möllenhoff](https://www.thomasmoellenhoff.net))
   - 14:00 -- 14:50 [Mehmet Eren Kiral](https://ekiral.github.io),
     *The Lie Group Bayesian Learning Rule*, [abstract](#4)
   - 14:50 -- 15:40
@@ -49,7 +49,7 @@ Title: Natural Language Inference with Knowledge and Emotion-Cause Pair Extracti
 Abstract: In this talk, I will introduce two recent research projects on natural language inference (NLI) - incorporating knowledge for NLI and emotion recognition - incorporating meta information for identifying the cause of emotion in conversations. Finding counterevidence to statements is key to many tasks, including counter argument generation. We present a knowledge-enhanced NLI model that aims to handle causality- and example-based inference by incorporating knowledge graphs. Our NLI model outperforms baselines for NLI tasks, especially for instances that require the targeted inference. Second, the Emotion-Cause Pair Extraction (ECPE) task aims to pair all emotions and corresponding causes in documents. However, previous ECPE research is conducted based on news articles, which has different characteristics compared to dialogues. To address this issue, we propose a Pair-Relationship Guided Mixture-of-Experts (PRG-MoE) model, which considers dialogue features (e.g., speaker information). PRG-MoE automatically learns the relationship between utterances and advises a gating network to incorporate dialogue features in the evaluation, yielding substantial performance improvement.
 
 <a name="2"></a>
-### [Thomas Möllenhoff](https://thomasmoellenhoff.net), RIKEN AIP
+### [Thomas Möllenhoff](https://www.thomasmoellenhoff.net), RIKEN AIP
 Title: SAM as an Optimal Relaxation of Bayes
 
 Abstract: Sharpness-aware minimization (SAM) and related adversarial deep-learning methods can drastically improve generalization, but their underlying mechanisms are not yet fully understood. Here, we establish SAM as a relaxation of the Bayes objective where the expected negative-loss is replaced by the optimal convex lower bound, obtained by using the so-called Fenchel biconjugate. The connection enables a new Adam-like extension of SAM to automatically obtain reasonable uncertainty estimates, while sometimes also improving its accuracy. By connecting adversarial and Bayesian methods, our work opens a new path to robustness.
