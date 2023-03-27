@@ -9,3 +9,5 @@ main:
     url: /publications/
   - title: "Reading-Group"
     url: /reading/
+  - title: "Tech-Coffee"
+    url: /techcoffee/
