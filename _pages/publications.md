@@ -32,14 +32,6 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]
    </li>
 
-
-   <li>
-   <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">G. Wolfer, A. Kontorovich</span>
-   [<a href="https://arxiv.org/abs/2209.00175" target="_blank">arXiv</a>]
-   </li>
-
    <li>
    <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
    <span class="conf">(Preprint)</span>
@@ -101,6 +93,13 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
+    <li>
+        <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
+        <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/" target="_blank">Annals of Applied Probability</a>)</span>
+        <span class="author">G. Wolfer, A. Kontorovich</span>
+        [<a href="https://www.e-publications.org/ims/submission/AAP/user/submissionFile/57200?confirm=8c3c4133" target="_blank">Journal version</a>]
+        [<a href="https://arxiv.org/abs/2209.00175" target="_blank">arXiv</a>]
+    </li>
 
     <li>
         <span class="title"> Dimension-Free Empirical Entropy Estimation</span>, <br>
