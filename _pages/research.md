@@ -72,6 +72,20 @@ Here we list research code that has been open-sourced to accompany recent public
 <div class="w3-container">
 <ul class="w3-ul">
    <li>
+   		  <span class="conf">(<a
+		  href="http://aistats.org">AISTATS 2023</a>)</span>
+         <span class="title">The Lie-Group Bayesian Learning Rule</span>
+         [<a href="https://arxiv.org/abs/2303.04397" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/liegroups" target="_blank">Code</a>]
+		 </li>
+
+   <li>
+   		  <span class="conf">(<a
+   		  href="http://iclr.cc">ICLR 2023</a>)</span>
+         <span class="title">SAM as an Optimal Relaxation of Bayes</span>
+         [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/bayesian-sam" target="_blank">Code</a>]
+	</li>
+
+   <li>
    		  <span class="conf">(<a href="https://papers.nips.cc/paper/2021/">NeurIPS 2021</a>)</span>
          <span class="title">Knowledge-Adaptation Priors.</span>
          [<a href="http://arxiv.org/abs/2106.08769" target="_blank">arXiv</a>] [<a href="papers/July23_2021_CL_workshop.pdf" target="_blank">Slides</a>] [<a href="https://t.co/v68OrIE0Xz?amp=1" target="_blank">Tweet</a>] [<a href="https://t.co/XBRwRh3Lde?amp=1" target="_blank">SlidesLive Video</a>]  [<a href="https://github.com/team-approx-bayes/kpriors" target="_blank">Code</a>]
@@ -86,7 +100,7 @@ Here we list research code that has been open-sourced to accompany recent public
 
 
   <li>
-       <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AIstats 2021</a>)</span>
+       <span class="conf">(<a href="http://proceedings.mlr.press/v130/" target="_blank">AISTATS 2021</a>)</span>
        <span class="title"> Improving predictions of Bayesian neural networks via local linearization.</span>
        [<a href="https://proceedings.mlr.press/v130/immer21a.html" target="_blank">Published version</a>]
        [<a href="https://arxiv.org/pdf/2008.08400" target="_blank">arXiv</a>]
