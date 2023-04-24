@@ -102,14 +102,6 @@ custom_css: pub
     </li>
 
     <li>
-        <span class="title"> Dimension-Free Empirical Entropy Estimation</span>, <br>
-        <span class="conf">(<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18" target="_blank">IEEE Transactions on Information Theory</a>)</span>
-        <span class="author">D. Cohen, A. Kontorovich, A. Koolyk, G. Wolfer</span>
-        [<a href="https://ieeexplore.ieee.org/document/9999709" target="_blank">Journal version</a>]
-        [<a href="https://arxiv.org/abs/2105.07408" target="_blank">arXiv</a>]
-    </li>
-
-    <li>
         <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
         <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
         <span class="author">P. Alquier, B.-E. Chérief-Abdellatif, A. Derumigny, J.-D. Fermanian</span>
@@ -120,6 +112,14 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2023</h2>
    <ul class="w3-ul">
+
+<li>
+   <span class="title"> Dimension-Free Empirical Entropy Estimation</span>, <br>
+   <span class="conf">(<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18" target="_blank">IEEE Transactions on Information Theory</a>)</span>
+   <span class="author">D. Cohen, A. Kontorovich, A. Koolyk, G. Wolfer</span>
+   [<a href="https://ieeexplore.ieee.org/document/9999709" target="_blank">Journal version</a>]
+   [<a href="https://arxiv.org/abs/2105.07408" target="_blank">arXiv</a>]
+</li>
 
 <li>
    <span class="title">The Lie-Group Bayesian Learning Rule</span>, <br>
