@@ -113,6 +113,20 @@ custom_css: pub
   <h2 class="w3-container w3-padding">2023</h2>
    <ul class="w3-ul">
 
+   <li>
+   <span class="title">Simplifying Momentum-based Riemannian Submanifold Optimization</span>, <br>
+   <span class="conf">(<a href="https://icml.cc/Conferences/2023" target="_blank">ICML 2023</a>)</span>
+   <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan</span>, <span class="author">M. Schmidt</span>   
+   [ <a href="https://arxiv.org/abs/2302.09738" target="_blank">ArXiv</a> ]<br>
+   </li>
+
+   <li>
+   <span class="title">Memory-Based Dual Gaussian Processes for Sequential Learning</span>, <br>
+   <span class="conf">(<a href="https://icml.cc/Conferences/2023" target="_blank">ICML 2023</a>)</span>
+   <span class="author"></span>P. E. Chang, P. Verma, S. T. John, A. Solin, M.E. Khan</span>  
+   <!--[ <a href="https://arxiv.org/abs/2302.09738" target="_blank">ArXiv</a> ]<br>-->
+   </li>
+
 <li>
    <span class="title"> Dimension-Free Empirical Entropy Estimation</span>, <br>
    <span class="conf">(<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18" target="_blank">IEEE Transactions on Information Theory</a>)</span>
@@ -141,6 +155,14 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2022</h2>
    <ul class="w3-ul">
+
+   <li>
+   <span class="title">Sequential Learning in GPs with Memory and Bayesian Leverage Score</span>, <br>
+   <span class="conf">(<a href="https://continual-lifelong-learners.github.io/" target="_blank">Continual Lifelong Workshop</a> at ACML 2022)</span>
+   <span class="author">P. Verma, P. E. Chang, A. Solin</span>, <span class="me">M.E. Khan</span>   
+   [ <a href="https://openreview.net/forum?id=_RvQKPW8ZCp" target="_blank">OpenReview</a> ]<br>
+   </li>
+
 
    <li>
    <span class="title">MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition</span>, <br>
