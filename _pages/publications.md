@@ -114,6 +114,14 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title">Geometric Reduction for Identity Testing of Reversible Markov Chains</span>, <br>
+   <span class="conf">(<a href="https://gsi2023.org/" target="_blank">GSI 2023</a>)</span>
+   <span class="author">G. Wolfer, S. Watanabe</span>
+   [<a href="https://arxiv.org/abs/2302.08059" target="_blank">arXiv</a>] <br>
+   <b>Oral presentation.</b>
+   </li>
+
+   <li>
    <span class="title">Simplifying Momentum-based Riemannian Submanifold Optimization</span>, <br>
    <span class="conf">(<a href="https://icml.cc/Conferences/2023" target="_blank">ICML 2023</a>)</span>
    <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan</span>, <span class="author">M. Schmidt</span>   
