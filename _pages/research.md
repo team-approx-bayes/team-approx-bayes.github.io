@@ -25,6 +25,7 @@ For more information, see our current [publications](../publications/) and the f
 
 We are also thankful to receive the following external funding (funding amount is approximate),
 <ul class="w3-ul">
+  <li> (2023-2026, USD 32,000) KAKENHI Grant-in-Aid for Early-Career Scientists, [<a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13024/" target="_blank">23K13024</a>] </li>
   <li> (2021-2026, USD 2.23 Million) JST-CREST and French-ANR's grant, <a href="https://bayesduality.github.io" target="_blank">The Bayes-Duality Project</a></li>
   <li> (2020-2023, USD 167,000) KAKENHI Grant-in-Aid for scientific Research (B), Life-Long Deep Learning using Bayesian Principles </li>
   <li> (2019-2022, USD 237,000) External funding through companies for several Bayes related projects</li> 
