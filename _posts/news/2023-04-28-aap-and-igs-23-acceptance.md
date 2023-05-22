@@ -1,6 +1,6 @@
 ---
 category: news
-logo: fa-chalkboard-teacher
+logo: fa-star
 ---
 
 "[Improved Estimation of Relaxation Time in Non-reversible Markov Chains](publications)" ([G. Wolfer](https://geo-wolfer.gitlab.io/) and [A. Kontorovich](https://sites.google.com/view/aryeh-home/home) is accepted for publication in [Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/).
