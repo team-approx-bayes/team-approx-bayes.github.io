@@ -9,4 +9,4 @@ header:
   teaser: /assets/images/etash_200.jpg
 ---
 
-Hi my name is Erik.
+Hi my name is Etash.
