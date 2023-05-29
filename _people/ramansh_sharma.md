@@ -1,6 +1,5 @@
 ---
 title: Ramansh Sharma
-type: member
 type: alumni
 excerpt:  Remote Collaborator // *SRM Institute of Science and Technology*
 rank: 6
