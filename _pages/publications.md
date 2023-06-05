@@ -114,6 +114,14 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title">MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages</span>, <br>
+   <span class="conf">(<a href="https://2023.aclweb.org/" target="_blank">ACL 2023</a>)</span>
+   <span class="author">C. M. Bamba, D. Adelani, P. Nabende, J. O. Alabi,
+   T. Sindane, H. Buzaaba,...</span>
+   [<a href="https://arxiv.org/abs/2305.13989" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title">Geometric Reduction for Identity Testing of Reversible Markov Chains</span>, <br>
    <span class="conf">(<a href="https://gsi2023.org/" target="_blank">GSI 2023</a>)</span>
    <span class="author">G. Wolfer, S. Watanabe</span>
