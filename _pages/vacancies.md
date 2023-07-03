@@ -15,7 +15,16 @@ feature_row:
 
       ## International Program Associate [[link](http://www.riken.jp/en/careers/programs/ipa/)]
 
-      An International Program Associate (IPA) is a non-Japanese doctoral candidate attending a Japanese or overseas graduate school participating in RIKEN’s joint graduate school program who conducts research at RIKEN under the supervision of RIKEN scientists as part of work toward obtaining a PhD."
+      An International Program Associate (IPA) is a non-Japanese
+      doctoral candidate attending a Japanese or overseas graduate
+      school participating in RIKEN’s joint graduate school program
+      who conducts research at RIKEN under the supervision of RIKEN
+      scientists as part of work toward obtaining a PhD.
+
+      ## Overseas Student Collaboration Program [[link](https://aip.riken.jp/aip-osc2-0/)]
+
+      The AIP Center invites masters or PhD students from overseas to join us in cutting-edge collaborative research. Through a signed collaborative contract between your university and RIKEN AIP, you can embark on an academic journey in Japan. Additionally, as a trainee at RIKEN, you'll have the opportunity for 3-12 months of financial support. "
+
 ---
 
 {% include feature_row type="left" %}
