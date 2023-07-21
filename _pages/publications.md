@@ -12,6 +12,14 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Systematic Approaches to Generate Reversiblizations of Markov Chains</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">M. C.H. Choi, G. Wolfer</span>
+   [<a href="https://arxiv.org/abs/2303.03650" target="_blank">arXiv</a>]
+   </li>
+
+
+   <li>
    <span class="title"> PAC-Bayesian Offline Contextual Bandits With Guarantees</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">O. Sakhi, N. Chopin, P. Alquier</span>
