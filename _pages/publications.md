@@ -94,6 +94,21 @@ custom_css: pub
   <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
     <li>
+        <span class="title"> Information Geometry of Markov Kernels: a Survey</span>, <br>
+        <span class="title"> in "Advances in Information Geometry: Beyond the Conventional Approach"</span>, <br>
+        <span class="conf">(<a href="https://www.frontiersin.org/research-topics/36006/advances-in-information-geometry-beyond-the-conventional-approach" target="_blank">Front. Phys.
+Sec. Statistical and Computational Physics</a>)</span>
+        <span class="author">G. Wolfer, S. Watanabe</span>
+        [<a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1195562/abstract" target="_blank">Journal version</a>]
+    </li>
+
+    <li>
+        <span class="title"> Learning and identity testing of Markov chains</span>, <br>
+        <span class="conf">(<a href="https://www.sciencedirect.com/handbook/handbook-of-statistics" target="_blank">Handbook of Statistics, Volume 49</a>)</span>
+        <span class="author">G. Wolfer, A. Kontorovich</span>
+    </li>
+
+    <li>
         <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
         <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/" target="_blank">Annals of Applied Probability</a>)</span>
         <span class="author">G. Wolfer, A. Kontorovich</span>
