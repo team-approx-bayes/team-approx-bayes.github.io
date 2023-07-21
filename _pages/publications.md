@@ -103,7 +103,7 @@ Sec. Statistical and Computational Physics</a>)</span>
     </li>
 
     <li>
-        <span class="title"> Learning and identity testing of Markov chains</span>, <br>
+        <span class="title"> Learning and Identity Testing of Markov Chains</span>, <br>
         <span class="conf">(<a href="https://www.sciencedirect.com/handbook/handbook-of-statistics" target="_blank">Handbook of Statistics, Volume 49</a>)</span>
         <span class="author">G. Wolfer, A. Kontorovich</span>
     </li>
