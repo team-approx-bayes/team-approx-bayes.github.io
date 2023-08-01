@@ -101,20 +101,12 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
-    <li>
-        <span class="title"> Information Geometry of Markov Kernels: a Survey</span>, <br>
-        <span class="title"> in "Advances in Information Geometry: Beyond the Conventional Approach"</span>, <br>
-        <span class="conf">(<a href="https://www.frontiersin.org/research-topics/36006/advances-in-information-geometry-beyond-the-conventional-approach" target="_blank">Front. Phys.
-Sec. Statistical and Computational Physics</a>)</span>
-        <span class="author">G. Wolfer, S. Watanabe</span>
-        [<a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1195562/abstract" target="_blank">Journal version</a>]
-    </li>
 
     <li>
         <span class="title"> Learning and Identity Testing of Markov Chains</span>, <br>
         <span class="conf">(<a href="https://www.sciencedirect.com/handbook/handbook-of-statistics" target="_blank">Handbook of Statistics, Volume 49</a>)</span>
         <span class="author">G. Wolfer, A. Kontorovich</span>
-        [<a href="https://doi.org/10.1016/bs.host.2023.06.005" target="_blank">Journal version</a>]
+       [<a href="https://doi.org/10.1016/bs.host.2023.06.005" target="_blank">Journal version</a>]
     </li>
 
     <li>
@@ -138,6 +130,15 @@ Sec. Statistical and Computational Physics</a>)</span>
    <ul class="w3-ul">
 
    <li>
+        <span class="title"> Information Geometry of Markov Kernels: a Survey</span>, <br>
+        <span class="title"> in "Advances in Information Geometry: Beyond the Conventional Approach"</span>, <br>
+        <span class="conf">(<a href="https://www.frontiersin.org/research-topics/36006/advances-in-information-geometry-beyond-the-conventional-approach" target="_blank">Front. Phys.
+Sec. Statistical and Computational Physics</a>)</span>
+        <span class="author">G. Wolfer, S. Watanabe</span>
+        [<a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1195562/abstract" target="_blank">Journal version</a>]
+    </li>
+
+   <li>
    <span class="title">MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages</span>, <br>
    <span class="conf">(<a href="https://2023.aclweb.org/" target="_blank">ACL 2023</a>)</span>
    <span class="author">C. M. Bamba, D. Adelani, P. Nabende, J. O. Alabi,
@@ -149,6 +150,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <span class="title">Geometric Reduction for Identity Testing of Reversible Markov Chains</span>, <br>
    <span class="conf">(<a href="https://gsi2023.org/" target="_blank">GSI 2023</a>)</span>
    <span class="author">G. Wolfer, S. Watanabe</span>
+   [<a href="https://doi.org/10.1007/978-3-031-38271-0_32" target="_blank">Published version</a>]
    [<a href="https://arxiv.org/abs/2302.08059" target="_blank">arXiv</a>] <br>
    <b>Oral presentation.</b>
    </li>
