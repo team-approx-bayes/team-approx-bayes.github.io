@@ -12,14 +12,6 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
-   <span class="title"> Systematic Approaches to Generate Reversiblizations of Markov Chains</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">M. C.H. Choi, G. Wolfer</span>
-   [<a href="https://arxiv.org/abs/2303.03650" target="_blank">arXiv</a>]
-   </li>
-
-
-   <li>
    <span class="title"> PAC-Bayesian Offline Contextual Bandits With Guarantees</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">O. Sakhi, N. Chopin, P. Alquier</span>
@@ -101,6 +93,13 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
+
+   <li>
+      <span class="title"> Systematic Approaches to Generate Reversiblizations of Markov Chains</span>, <br>
+      <span class="conf">(<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18" target="_blank">IEEE Transactions on Information Theory</a>)</span>
+      <span class="author">M. C.H. Choi, G. Wolfer</span>
+   [<a href="https://arxiv.org/abs/2303.03650" target="_blank">arXiv</a>]
+   </li>
 
     <li>
         <span class="title"> Learning and Identity Testing of Markov Chains</span>, <br>
