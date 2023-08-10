@@ -127,6 +127,15 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2023</h2>
    <ul class="w3-ul">
+   
+   <li>
+   <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
+      <span class="conf">(<a href="https://www.auai.org/uai2023/" target="_blank">UAI 2023</a>)</span>
+   <span class="author">D. Tailor, M.E. Khan, E. Nalisnick</span>
+   [<a href="https://proceedings.mlr.press/v216/tailor23a.html" target="_blank">Published version</a>]
+   [<a href="https://arxiv.org/abs/2306.15169" target="_blank">arXiv</a>]
+   [<a href="https://dvtailor.github.io/docs/poster_uai23.pdf" target="_blank">Poster</a>]
+   </li>
 
    <li>
         <span class="title"> Information Geometry of Markov Kernels: a Survey</span>, <br>
@@ -229,11 +238,10 @@ Sec. Statistical and Computational Physics</a>)</span>
 
    <li>
    <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
-   <span class="conf">(<a href="https://tractable-probabilistic-modeling.github.io/tpm2022/" target="_blank">Workshop on Tractable Probabilistic Modeling</a> at UAI, 2022 )</span>
-   <span class="author">D. Tailor</span>, M.E. Khan, E. Nalisnick</span>   
-   [<a href="https://openreview.net/forum?id=LTo3tkIPvSh" target="_blank">arXiv</a>] [<a href="https://www.youtube.com/watch?v=jKEf_R-fCQ8&feature=youtu.be" target="_blank">Video</a>] [<a href="https://dvtailor.github.io/docs/tpm_poster.pdf" target="_blank">Poster</a>]<br>
+   <span class="conf">(<a href="https://tractable-probabilistic-modeling.github.io/tpm2022/" target="_blank">Workshop on Tractable Probabilistic Modeling</a> at UAI 2022 )</span>
+   <span class="author">D. Tailor, M.E. Khan, E. Nalisnick</span>   
+   [ <a href="https://openreview.net/forum?id=LTo3tkIPvSh" target="_blank">OpenReview</a> ] [<a href="https://www.youtube.com/watch?v=jKEf_R-fCQ8&feature=youtu.be" target="_blank">Video</a>] [<a href="https://dvtailor.github.io/docs/tpm_poster.pdf" target="_blank">Poster</a>]<br>
    </li>
-
 
    <li>
    <span class="title">Deviation Inequalities for Stochastic Approximation by Averaging</span>, <br>
