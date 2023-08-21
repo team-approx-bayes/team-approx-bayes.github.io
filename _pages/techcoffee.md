@@ -5,6 +5,8 @@ permalink: /techcoffee/
 author_profile: false
 ---
 
+The technical coffee is held every two weeks on a rotational basis over the groups' members and lasts around 90 minutes. Pen and paper or whiteboard presentations instead of slides are preferred, encouraging a slower-paced and interactive format with plenty of questions. The sessions focus on technical or mathematical aspects of our members' ongoing research projects.
+
 <h2>Upcoming</h2>
 
 <section class="page__content cf">
