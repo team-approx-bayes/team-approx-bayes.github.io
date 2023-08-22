@@ -1,9 +1,15 @@
 ---
 layout: single
-title: Weekly Reading Group
+title: Reading Group
 permalink: /reading/
 author_profile: false
 ---
+
+We hold biweekly "reading-group" meetings (duration: 90
+minutes). Every two weeks, a different group member takes the lead,
+presenting a chosen paper for discussion. Additionally, to the
+biweekly schedule, we frequently invite external speakers to give
+talks or tutorials.
 
 <h2>Upcoming</h2>
 
