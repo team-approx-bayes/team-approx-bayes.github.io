@@ -33,13 +33,6 @@ custom_css: pub
    </li>
 
    <li>
-   <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">G. Wolfer</span>
-   [<a href="https://arxiv.org/abs/1912.06845" target="_blank">arXiv</a>]
-   </li>
-
-   <li>
    <span class="title"> Geometric Aspects of Data-Processing of Markov Chains</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">G. Wolfer, S. Watanabe</span>
@@ -95,10 +88,17 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
+      <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
+      <span class="conf">(<a href="https://onlinelibrary.wiley.com/journal/14679469" target="_blank">Scandinavian Journal of Statistics</a>)</span>
+      <span class="author">G. Wolfer</span>
+      [<a href="https://arxiv.org/abs/1912.06845" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
       <span class="title"> Systematic Approaches to Generate Reversiblizations of Markov Chains</span>, <br>
       <span class="conf">(<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18" target="_blank">IEEE Transactions on Information Theory</a>)</span>
       <span class="author">M. C.H. Choi, G. Wolfer</span>
-   [<a href="https://arxiv.org/abs/2303.03650" target="_blank">arXiv</a>]
+   [<a href="https://arxiv.org/abs/2303.03650" target="_blank">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/10220192" target="_blank">Early Access</a>]
    </li>
 
     <li>
