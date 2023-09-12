@@ -1,7 +1,7 @@
 ---
 title: Gian Maria Marconi
 type: member
-excerpt: Postdoc
+excerpt: Postdoctoral Researcher 
 link: https://gmmarconi.github.io/
 rank: 3
 date: 2020-08-01 00:00:00

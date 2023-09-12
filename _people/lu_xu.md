@@ -1,7 +1,7 @@
 ---
 title: Lu Xu
 type: member
-excerpt: Postdoc
+excerpt: Postdoctoral Researcher
 link: https://x-lu.github.io/ 
 rank: 3
 date: 2021-11-01 00:00:00

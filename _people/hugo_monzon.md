@@ -1,7 +1,7 @@
 ---
 title: Hugo Monzón Maldonado
 type: member
-excerpt: Postdoc
+excerpt: Postdoctoral Researcher
 link: https://hmonzon.github.io/
 rank: 3
 date: 2019-08-01 00:00:00

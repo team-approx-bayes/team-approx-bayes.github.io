@@ -1,7 +1,7 @@
 ---
 title: Dharmesh Tailor
 type: alumni
-rank: 5
+rank: 6
 date: 2019-07-01 00:00:00
 date_leave: 2021-07-31 00:00:00
 wentto: Started a PhD at University of Amsterdam
