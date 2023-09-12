@@ -40,13 +40,15 @@ If you are interested in joining us, please [check the news](../news/) for open 
   <tr>
     <th>Name</th>
     <th>Dates</th>
+	<th>Next Destination</th>
   </tr>
   {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 2 %}
       <tr>
         <td>{{ post.title }}</td>
-        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
+        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date:'%m/%y' }}</td>
+		<td>{{ post.wentto }}</td>
       </tr>
     {% endif %}
   {% endfor %}
@@ -79,6 +81,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
   <tr>
     <th>Name</th>
     <th>Dates</th>
+	<th>Next Destination</th>
   </tr>
   {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
   {% for post in alumni %}
@@ -86,26 +89,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
       <tr>
         <td>{{ post.title }}</td>
         <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
-      </tr>
-    {% endif %}
-  {% endfor %}
-</table>
-<br>
-<!--  -->
-<h2>Part-Time Students</h2>
-<table class="responsive-table table">
-  <tr>
-    <th>Name</th>
-    <th>Dates</th>
-    <th>Affliation</th>
-  </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
-  {% for post in alumni %}
-    {% if post.rank == 6 %}
-      <tr>
-        <td>{{ post.title }}</td>
-        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
-        <td>{{post.affliation}}</td>
+        <td>{{ post.wentto }}</td>
       </tr>
     {% endif %}
   {% endfor %}
@@ -118,6 +102,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
     <th>Name</th>
     <th>Dates</th>
     <th>Affliation</th>
+    <th>Next Destination</th>
   </tr>
   {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
   {% for post in alumni %}
@@ -126,6 +111,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
         <td>{{ post.title }}</td>
         <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
         <td>{{post.affliation}}</td>
+        <td>{{post.wentto}}</td>
       </tr>
     {% endif %}
   {% endfor %}

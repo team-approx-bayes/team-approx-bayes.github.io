@@ -1,10 +1,12 @@
 ---
 title: Wu Lin
-type: member
+type: alumni
 excerpt: PhD Student // *University of British Columbia*
 link: https://yorkerlin.github.io
 rank: 4
 date: 2018-01-01 00:00:00
+date_leave: 2023-07-31 00:00:00
+wentto: Postdoc at Vector Institute
 header:
   teaser: /assets/images/wu_lin.png
 ---
