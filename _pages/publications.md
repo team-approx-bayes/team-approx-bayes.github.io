@@ -102,13 +102,6 @@ custom_css: pub
    </li>
 
     <li>
-        <span class="title"> Learning and Identity Testing of Markov Chains</span>, <br>
-        <span class="conf">(<a href="https://www.sciencedirect.com/handbook/handbook-of-statistics" target="_blank">Handbook of Statistics, Volume 49</a>)</span>
-        <span class="author">G. Wolfer, A. Kontorovich</span>
-       [<a href="https://doi.org/10.1016/bs.host.2023.06.005" target="_blank">Journal version</a>]
-    </li>
-
-    <li>
         <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
         <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/" target="_blank">Annals of Applied Probability</a>)</span>
         <span class="author">G. Wolfer, A. Kontorovich</span>
@@ -127,6 +120,13 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2023</h2>
    <ul class="w3-ul">
+
+   <li>
+      <span class="title"> Learning and Identity Testing of Markov Chains</span>, <br>
+      <span class="conf">(<a href="https://www.sciencedirect.com/handbook/handbook-of-statistics" target="_blank">Handbook of Statistics, Volume 49</a>)</span>
+      <span class="author">G. Wolfer, A. Kontorovich</span>
+      [<a href="https://doi.org/10.1016/bs.host.2023.06.005" target="_blank">Journal version</a>]
+   </li>
    
    <li>
    <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
