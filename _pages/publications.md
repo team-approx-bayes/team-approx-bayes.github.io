@@ -87,20 +87,6 @@ custom_css: pub
   <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
 
-   <li>
-      <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
-      <span class="conf">(<a href="https://onlinelibrary.wiley.com/journal/14679469" target="_blank">Scandinavian Journal of Statistics</a>)</span>
-      <span class="author">G. Wolfer</span>
-      [<a href="https://arxiv.org/abs/1912.06845" target="_blank">arXiv</a>]
-   </li>
-
-   <li>
-      <span class="title"> Systematic Approaches to Generate Reversiblizations of Markov Chains</span>, <br>
-      <span class="conf">(<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18" target="_blank">IEEE Transactions on Information Theory</a>)</span>
-      <span class="author">M. C.H. Choi, G. Wolfer</span>
-   [<a href="https://arxiv.org/abs/2303.03650" target="_blank">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/10220192" target="_blank">Early Access</a>]
-   </li>
-
     <li>
         <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
         <span class="conf">(<a href="https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/" target="_blank">Annals of Applied Probability</a>)</span>
@@ -120,6 +106,21 @@ custom_css: pub
 
   <h2 class="w3-container w3-padding">2023</h2>
    <ul class="w3-ul">
+
+   <li>
+      <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
+      <span class="conf">(<a href="https://onlinelibrary.wiley.com/journal/14679469" target="_blank">Scandinavian Journal of Statistics</a>)</span>
+      <span class="author">G. Wolfer</span>
+      [<a href="https://arxiv.org/abs/1912.06845" target="_blank">arXiv</a>]
+      [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12686" target="_blank">Journal version</a>]
+   </li>
+
+   <li>
+      <span class="title"> Systematic Approaches to Generate Reversiblizations of Markov Chains</span>, <br>
+      <span class="conf">(<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18" target="_blank">IEEE Transactions on Information Theory</a>)</span>
+      <span class="author">M. C.H. Choi, G. Wolfer</span>
+   [<a href="https://arxiv.org/abs/2303.03650" target="_blank">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/10220192" target="_blank">Early Access</a>]
+   </li>
 
    <li>
       <span class="title"> Learning and Identity Testing of Markov Chains</span>, <br>
