@@ -12,13 +12,6 @@ custom_css: pub
    <ul class="w3-ul">
 
    <li>
-   <span class="title"> PAC-Bayesian Offline Contextual Bandits With Guarantees</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">O. Sakhi, N. Chopin, P. Alquier</span>
-   [<a href="https://arxiv.org/abs/2210.13132" target="_blank">arXiv</a>]
-   </li>
-
-   <li>
    <span class="title"> Dimension-free Bounds for Sum of Dependent Matrices and Operators with Heavy-Tailed Distribution</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">S. Nigikata, P. Alquier, M. Imaizuimi</span>
@@ -53,12 +46,6 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2206.06991" target="_blank">arXiv</a>]
    </li>
 
-   <li>
-   <span class="title">User-Friendly Introduction to PAC-Bayes Bounds</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">P. Alquier</span>,
-   [ <a href="https://arxiv.org/abs/2110.11216" target="_blank">arXiv</a> ]
-   </li>
 
    <li>
    <span class="title">The Bayesian Learning Rule</span>, <br>
@@ -75,12 +62,6 @@ custom_css: pub
    [<a href="https://arxiv.org/abs/2106.02613" target="_blank">arXiv</a>]
    </li>
 
-  <li>
-       <span class="title">Universal Robust Regression via Maximum Mean Discrepancy</span>, <br>
-       <span class="conf">(Preprint)</span>
-       <span class="author">P. Alquier, M. Gerber</span>
-       [<a href="https://arxiv.org/abs/2006.00840" target="_blank">arXiv</a>]
-  </li>
 
    </ul>
 
@@ -95,6 +76,11 @@ custom_css: pub
         [<a href="https://arxiv.org/abs/2209.00175" target="_blank">arXiv</a>]
     </li>
 
+   </ul>
+
+  <h2 class="w3-container w3-padding">2023</h2>
+   <ul class="w3-ul">
+
     <li>
         <span class="title"> Estimation of Copulas via Maximum Mean Discrepancy</span>, <br>
         <span class="conf">(<a href="https://www.tandfonline.com/journals/uasa20" target="_blank">JASA</a>)</span>
@@ -102,10 +88,6 @@ custom_css: pub
         [<a href="https://doi.org/10.1080/01621459.2021.2024836" target="_blank">Journal version</a>]
         [<a href="https://arxiv.org/abs/2010.00408" target="_blank">arXiv</a>]
     </li>
-   </ul>
-
-  <h2 class="w3-container w3-padding">2023</h2>
-   <ul class="w3-ul">
 
    <li>
       <span class="title"> Empirical and Instance-Dependent Estimation of Markov Chain and Mixing Time</span>, <br>
