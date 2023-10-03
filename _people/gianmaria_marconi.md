@@ -1,7 +1,6 @@
 ---
 title: Gian Maria Marconi
 type: alumni
-type: member
 excerpt: Postdoctoral Researcher 
 link: https://gmmarconi.github.io/
 rank: 3
