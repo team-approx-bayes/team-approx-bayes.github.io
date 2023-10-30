@@ -13,7 +13,7 @@ custom_css: pub
 
      <li>
         <span class="title">Model Merging by Uncertainty-Based Gradient Matching</span>, <br>
-        <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych,</span> <span class="me">M.E. Khan</span>    
+        <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych,</span> <span class="author">M.E. Khan</span>    
         [ <a href="https://arxiv.org/abs/2310.12808" target="_blank">ArXiv</a> ]<br>
      </li>
 
