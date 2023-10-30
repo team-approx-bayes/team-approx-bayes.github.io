@@ -77,42 +77,45 @@ custom_css: pub
      <li>
         <span class="title">Improving Continual Learning by Accurate Gradient Reconstructions of the Past</span>, <br>
         <span class="conf">(<a href="https://jmlr.org/tmlr/">TMLR</a>)</span>
-        <span class="author"> E. Daxberger, S. Swaroop, K. Osawa, R. Yokota, R. turner, J. M. Hernández-Lobato,</span> <span class="me">M.E. Khan</span>    
+        <span class="author"> E. Daxberger, S. Swaroop, K. Osawa,
+        R. Yokota, R. turner, J. M. Hernández-Lobato, M.E. Khan</span>    
         [ Coming soon ]<br>
      </li>
 
      <li>
         <span class="title">The Bayesian Learning Rule</span>, <br>
         <span class="conf">(<a href="https://jmlr.org/">JMLR</a>)</span>
-        <span class="me">M.E. Khan</span>, <span class="author"> H. Rue</span>   
+        <span class="author"> M.E. Khan, H. Rue</span>   
         [ <a href="https://arxiv.org/abs/2107.04562" target="_blank">arXiv</a> ] [ <a href="https://twitter.com/EmtiyazKhan/status/1414498922584711171?s=20" target="_blank">Tweet</a> ]<br>
      </li>
 
      <li>
         <span class="title">The Memory Perturbation Equation: Understanding Model’s Sensitivity to Data</span>, <br>
         <span class="conf">(<a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2023</a>)</span>
-        <span class="author"> P. Nickl, L. Xu, D. Tailor, T. Möllenhoff,</span> <span class="me">M.E. Khan</span>    
+        <span class="author"> P. Nickl, L. Xu, D. Tailor,
+        T. Möllenhoff, M.E. Khan</span>    
         [ coming soon ]<br>
      </li>
 
       <li>
          <span class="title">Bridging the Gap Between Target Networks and Functional Regularization</span>, <br>
          <span class="conf">(<a href="https://jmlr.org/tmlr/">TMLR</a>)</span>
-         <span class="author"> A. Piché, V. Thomas, R. Pardinas, J. Marino, G. M. Marconi, C. Pal</span>, <span class="me">M.E. Khan</span>    
+         <span class="author"> A. Piché, V. Thomas, R. Pardinas,
+         J. Marino, G. M. Marconi, C. Pal, M.E. Khan</span>    
          [ <a href="https://openreview.net/forum?id=BFvoemrmqX" target="_blank">Openreview</a> ]
       </li>
 
       <li>
          <span class="title">Variational Bayes Made Easy</span>, <br>
          <span class="conf">(<a href="http://approximateinference.org/" target="_blank">AABI 2023</a>)</span>
-         <span class="me">M.E. Khan</span>   
+         <span class="author">M.E. Khan</span>   
          [<a href="https://arxiv.org/abs/2304.14251" target="_blank">arXiv</a>]<br>
       </li>
 
       <li>
          <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
          <span class="conf">(<a href="https://www.auai.org/uai2023/" target="_blank">UAI 2023</a>)</span>
-         <span class="author">D. Tailor</span>, <span class="me">M.E. Khan</span>, <span class="author">E. Nalisnick</span>   
+         <span class="author">D. Tailor</span>, <span class="author">M.E. Khan</span>, <span class="author">E. Nalisnick</span>   
          [<a href="https://arxiv.org/abs/2306.15169" target="_blank">arXiv</a>] <br>
       </li>
 
@@ -227,7 +230,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <li>
    <span class="title">Sequential Learning in GPs with Memory and Bayesian Leverage Score</span>, <br>
    <span class="conf">(<a href="https://continual-lifelong-learners.github.io/" target="_blank">Continual Lifelong Workshop</a> at ACML 2022)</span>
-   <span class="author">P. Verma, P. E. Chang, A. Solin</span>, <span class="me">M.E. Khan</span>   
+   <span class="author">P. Verma, P. E. Chang, A. Solin</span>, <span class="author">M.E. Khan</span>   
    [ <a href="https://openreview.net/forum?id=_RvQKPW8ZCp" target="_blank">OpenReview</a> ]<br>
    </li>
 
