@@ -5,7 +5,7 @@ permalink: /reading/
 author_profile: false
 ---
 
-We hold biweekly "reading-group" meetings (duration: 90
+We hold biweekly "reading-group" meetings (duration: 60
 minutes). Every two weeks, a different group member takes the lead,
 presenting a chosen paper for discussion. Additionally, to the
 biweekly schedule, we frequently invite external speakers to give
