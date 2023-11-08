@@ -2,7 +2,7 @@
 title: Zhedong Liu
 type: member
 excerpt: Postdoctoral Researcher
-link: www.linkedin.com/in/zhedong-liu
+link: http://www.linkedin.com/in/zhedong-liu
 rank: 3
 date: 2023-11-01 00:00:00
 header:
