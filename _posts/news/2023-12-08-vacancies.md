@@ -1,6 +1,6 @@
 ---
 category: pinned-news
-title: Vacanceis
+title: Vacancies
 ---
 
 Please have a look at open positions in our group.

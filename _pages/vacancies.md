@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Vacanceis
+title: Vacancies
 permalink: /vacancies/
 author_profile: false
 ---
