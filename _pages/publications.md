@@ -94,7 +94,9 @@ custom_css: pub
         <span class="conf">(<a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2023</a>)</span>
         <span class="author"> P. Nickl, L. Xu, D. Tailor,
         T. Möllenhoff, M.E. Khan</span>    
-        [ <a href="https://arxiv.org/abs/2310.19273" target="_blank">arXiv</a> ] [ <a href="https://recorder-v3.slideslive.com/#/share?share=86527&s=19810919-a1df-47e2-b7b9-5ea739824099" target="_blank">SlidesLive Video</a> ]<br>
+        [ <a href="https://arxiv.org/abs/2310.19273" target="_blank">arXiv</a> ] 
+        [ <a href="https://recorder-v3.slideslive.com/#/share?share=86527&s=19810919-a1df-47e2-b7b9-5ea739824099" target="_blank">SlidesLive Video</a> ]
+        [ <a href="https://pnickl.github.io/docs/mpe_neurips23.pdf" target="_blank">Poster</a>] <br>
      </li>
 
       <li>
