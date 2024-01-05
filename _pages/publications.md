@@ -79,13 +79,14 @@ custom_css: pub
         <span class="conf">(<a href="https://jmlr.org/tmlr/">TMLR</a>)</span>
         <span class="author"> E. Daxberger, S. Swaroop, K. Osawa,
         R. Yokota, R. turner, J. M. Hernández-Lobato, M.E. Khan</span>    
-        [ Coming soon ]<br>
+        [ <a href="https://openreview.net/forum?id=b1fpfCjja1" target="_blank">Openreview</a> ]<br>
      </li>
 
      <li>
         <span class="title">The Bayesian Learning Rule</span>, <br>
         <span class="conf">(<a href="https://jmlr.org/">JMLR</a>)</span>
-        <span class="author"> M.E. Khan, H. Rue</span>   
+        <span class="author"> M.E. Khan, H. Rue</span>
+        [ <a href="https://jmlr.org/papers/v24/22-0291.html" target="_blank">Published version</a> ]
         [ <a href="https://arxiv.org/abs/2107.04562" target="_blank">arXiv</a> ] [ <a href="https://twitter.com/EmtiyazKhan/status/1414498922584711171?s=20" target="_blank">Tweet</a> ]<br>
      </li>
 
@@ -112,13 +113,6 @@ custom_css: pub
          <span class="conf">(<a href="http://approximateinference.org/" target="_blank">AABI 2023</a>)</span>
          <span class="author">M.E. Khan</span>   
          [<a href="https://arxiv.org/abs/2304.14251" target="_blank">arXiv</a>]<br>
-      </li>
-
-      <li>
-         <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
-         <span class="conf">(<a href="https://www.auai.org/uai2023/" target="_blank">UAI 2023</a>)</span>
-         <span class="author">D. Tailor</span>, <span class="author">M.E. Khan</span>, <span class="author">E. Nalisnick</span>   
-         [<a href="https://arxiv.org/abs/2306.15169" target="_blank">arXiv</a>] <br>
       </li>
 
     <li>
