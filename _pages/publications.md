@@ -11,13 +11,6 @@ custom_css: pub
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
 
-     <li>
-        <span class="title">Model Merging by Uncertainty-Based Gradient Matching</span>, <br>
-        <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych,</span> <span class="author">M.E. Khan</span>    
-        [ <a href="https://arxiv.org/abs/2310.12808" target="_blank">ArXiv</a> ]<br>
-     </li>
-
-
 
    <li>
    <span class="title"> Dimension-free Bounds for Sum of Dependent Matrices and Operators with Heavy-Tailed Distribution</span>, <br>
@@ -71,15 +64,32 @@ custom_css: pub
 
    </ul>
 
+  <h2 class="w3-container w3-padding">2024</h2>
+   <ul class="w3-ul">
+     <li>
+        <span class="title">Model Merging by Uncertainty-Based
+		Gradient Matching</span>, <br>
+		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
+        <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych, M.E. Khan</span>    
+        [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]<br>
+     </li>
+     <li>
+ <span class="title">Conformal Prediction via Regression-as-Classification</span>, <br>
+	    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
+        <span class="author"> E. Guha, S. Natarajan, T. Möllenhoff, M.E. Khan, E. Ndiaye </span>    
+        [<a href="https://etash.me/papers/Bayesian_Conformal_Prediction_through_Memory_Adaptation.pdf" target="_blank">preprint</a>]<br>
+     </li>
+</ul>
+
+
   <h2 class="w3-container w3-padding">2023</h2>
    <ul class="w3-ul">
-
      <li>
         <span class="title">Improving Continual Learning by Accurate Gradient Reconstructions of the Past</span>, <br>
         <span class="conf">(<a href="https://jmlr.org/tmlr/">TMLR</a>)</span>
         <span class="author"> E. Daxberger, S. Swaroop, K. Osawa,
         R. Yokota, R. turner, J. M. Hernández-Lobato, M.E. Khan</span>    
-        [ <a href="https://openreview.net/forum?id=b1fpfCjja1" target="_blank">Openreview</a> ]<br>
+        [ <a href="https://openreview.net/forum?id=b1fpfCjja1" target="_blank">OpenReview</a> ]<br>
      </li>
 
      <li>
