@@ -11,6 +11,12 @@ custom_css: pub
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
 
+   <li>
+   <span class="title"> Optimistic Estimation of Convergence in Markov Chains with the Average-Mixing Time</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">G. Wolfer, P. Alquier</span>
+   [<a href="https://arxiv.org/abs/2402.10506" target="_blank">arXiv</a>]
+   </li>
 
    <li>
    <span class="title"> Dimension-free Bounds for Sum of Dependent Matrices and Operators with Heavy-Tailed Distribution</span>, <br>
