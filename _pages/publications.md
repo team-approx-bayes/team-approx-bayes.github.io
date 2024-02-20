@@ -82,13 +82,16 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
 		Gradient Matching</span>, <br>
 		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
         <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych, M.E. Khan</span>    
-        [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]<br>
+        [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
+	    [<a href="." target="_blank">Code</a>]
+		<br>
      </li>
      <li>
  <span class="title">Conformal Prediction via Regression-as-Classification</span>, <br>
 	    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
         <span class="author"> E. Guha, S. Natarajan, T. Möllenhoff, M.E. Khan, E. Ndiaye </span>    
         [<a href="https://etash.me/papers/Bayesian_Conformal_Prediction_through_Memory_Adaptation.pdf" target="_blank">preprint</a>]<br>
+	    [<a href="." target="_blank">Code</a>]
      </li>
 </ul>
 
@@ -118,7 +121,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
         T. Möllenhoff, M.E. Khan</span>    
         [ <a href="https://arxiv.org/abs/2310.19273" target="_blank">arXiv</a> ] 
         [ <a href="https://recorder-v3.slideslive.com/#/share?share=86527&s=19810919-a1df-47e2-b7b9-5ea739824099" target="_blank">SlidesLive Video</a> ]
-        [ <a href="https://pnickl.github.io/docs/mpe_neurips23.pdf" target="_blank">Poster</a>] <br>
+        [ <a href="https://pnickl.github.io/docs/mpe_neurips23.pdf" target="_blank">Poster</a>] 
 	    [<a href="https://github.com/team-approx-bayes/memory-perturbation" target="_blank">Code</a>]
      </li>
 
@@ -237,8 +240,8 @@ Sec. Statistical and Computational Physics</a>)</span>
    <span class="title"> SAM as an Optimal Relaxation of Bayes</span>, <br>
    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2023</a>)</span>
    <span class="author">T. Möllenhoff, M. E. Khan</span>
-   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>] <br>
-   [<a href="https://github.com/team-approx-bayes/bayesian-sam" target="_blank">Code</a>]
+   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>] 
+   [<a href="https://github.com/team-approx-bayes/bayesian-sam" target="_blank">Code</a>] <br>
    <b>Notable top-5% of all accepted papers.</b> <br>
    </li>
 
