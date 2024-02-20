@@ -98,7 +98,7 @@ Here we list research code that has been open-sourced to accompany recent public
 		  href="http://aistats.org">NeurIPS 2023</a>)</span>
          <span class="title">The Memory Perturbation Equation:
    		  Understanding Models' Sensitivity to Data</span>
-         [<a href="https://arxiv.org/abs/2303.04397" target="_blank">arXiv</a>]	    [<a href="https://github.com/team-approx-bayes/memory-perturbation" target="_blank">Code</a>]
+         [<a href="https://arxiv.org/pdf/2310.19273" target="_blank">arXiv</a>]	    [<a href="https://github.com/team-approx-bayes/memory-perturbation" target="_blank">Code</a>]
 		 </li>
 
    <li>
