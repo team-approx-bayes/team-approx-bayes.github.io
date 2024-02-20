@@ -6,6 +6,8 @@ author_profile: false
 custom_css: pub
 ---
 
+For a list of code releases, see our <a href="https://team-approx-bayes.github.io/research/#code">research page</a>.
+
 <div class="w3-container">
 
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
@@ -226,6 +228,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <span class="conf">(<a href="https://aistats.org/" target="_blank">AISTATS 2023</a>)</span>
    <span class="author">E. M. Kiral, T. Möllenhoff, M. E. Khan</span>
    [<a href="." target="_blank">arXiv</a>]
+    [<a href="https://github.com/team-approx-bayes/liegroups" target="_blank">Code</a>]
    </li>
 
 
@@ -234,6 +237,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2023</a>)</span>
    <span class="author">T. Möllenhoff, M. E. Khan</span>
    [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>] <br>
+   [<a href="https://github.com/team-approx-bayes/bayesian-sam" target="_blank">Code</a>]
    <b>Notable top-5% of all accepted papers.</b> <br>
    </li>
 
