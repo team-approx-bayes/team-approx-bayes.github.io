@@ -205,7 +205,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <li>
    <span class="title">Simplifying Momentum-based Riemannian Submanifold Optimization</span>, <br>
    <span class="conf">(<a href="https://icml.cc/Conferences/2023" target="_blank">ICML 2023</a>)</span>
-   <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan</span>, <span class="author">M. Schmidt</span>   
+   <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan, M. Schmidt</span>
    [ <a href="https://arxiv.org/abs/2302.09738" target="_blank">ArXiv</a> ]<br>
    </li>
 
