@@ -119,6 +119,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
         [ <a href="https://arxiv.org/abs/2310.19273" target="_blank">arXiv</a> ] 
         [ <a href="https://recorder-v3.slideslive.com/#/share?share=86527&s=19810919-a1df-47e2-b7b9-5ea739824099" target="_blank">SlidesLive Video</a> ]
         [ <a href="https://pnickl.github.io/docs/mpe_neurips23.pdf" target="_blank">Poster</a>] <br>
+	    [<a href="https://github.com/team-approx-bayes/memory-perturbation" target="_blank">Code</a>]
      </li>
 
       <li>
