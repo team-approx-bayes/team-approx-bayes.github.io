@@ -96,13 +96,13 @@ Here we list research code that has been open-sourced to accompany recent public
      <li>
 		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
         <span class="title">Model Merging by Uncertainty-Based
-		Gradient Matching</span>, <br>
+		Gradient Matching</span>,
         [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
 	    [<a href="." target="_blank">Code</a>]
      </li>
      <li>
  	    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
- <span class="title">Conformal Prediction via Regression-as-Classification</span>, <br>
+ <span class="title">Conformal Prediction via Regression-as-Classification</span>,
         [<a href="https://etash.me/papers/Bayesian_Conformal_Prediction_through_Memory_Adaptation.pdf" target="_blank">preprint</a>]<br>
 	    [<a href="." target="_blank">Code</a>]
      </li>
