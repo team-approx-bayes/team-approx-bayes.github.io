@@ -90,7 +90,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
  <span class="title">Conformal Prediction via Regression-as-Classification</span>, <br>
 	    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
         <span class="author"> E. Guha, S. Natarajan, T. Möllenhoff, M.E. Khan, E. Ndiaye </span>    
-        [<a href="https://etash.me/papers/Bayesian_Conformal_Prediction_through_Memory_Adaptation.pdf" target="_blank">preprint</a>]<br>
+        [<a href="https://etash.me/papers/Bayesian_Conformal_Prediction_through_Memory_Adaptation.pdf" target="_blank">preprint</a>]
 	    [<a href="." target="_blank">Code</a>]
      </li>
 </ul>
