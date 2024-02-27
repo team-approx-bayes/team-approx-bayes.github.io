@@ -35,13 +35,6 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    </li>
 
    <li>
-   <span class="title"> Geometric Aspects of Data-Processing of Markov Chains</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">G. Wolfer, S. Watanabe</span>
-   [<a href="https://arxiv.org/abs/2203.04575" target="_blank">arXiv</a>]
-   </li>
-
-   <li>
    <span class="title"> Optimal Quasi-Bayesian Reduced Rank Regression with Incomplete Response</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">T. T. Mai, P. Alquier</span>
@@ -62,7 +55,12 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
   <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
 
-    
+    <li>
+   <span class="title"> Geometric Aspects of Data-Processing of Markov Chains</span>, <br>
+   <span class="conf">(<a href="https://academic.oup.com/imatrm" target="_blank">Transactions of Mathematics and Its Applications</a>)</span> 
+   <span class="author">G. Wolfer, S. Watanabe</span>
+   [<a href="https://arxiv.org/abs/2203.04575" target="_blank">arXiv</a>]
+   </li>
 
    </ul>
 
