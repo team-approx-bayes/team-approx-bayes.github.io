@@ -32,23 +32,13 @@ We are also thankful to receive the following external funding (funding amount i
 </ul>	
 
 # Lab Activities
-{% assign posts = site.posts %}
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-{% for post in posts %}
-{% if post.categories contains 'lab-activities' %}
+{% assign posts = site.posts | where: 'categories', 'lab-activities' | sort: 'date' | reverse %}
+{% assign latest_post = posts.first %}
 <div class="post">
       <h3>
-      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">{{ post.title }} </a>
+      <a href="{{ latest_post.url | prepend: site.baseurl }}" class="post-link">{{ latest_post.title }} </a>
 	</h3>
-      <!--
-	<p class="post-summary">
-      <span class="post-meta">{{ post.date | date: '%B %d, %Y'  }}.&nbsp;&nbsp;</span>
-      {{ post.content | strip_html | truncatewords:35}} <a href="{{ post.url }}">Continue</a>S
-      </p>
-      -->
 </div>
-{% endif %}
-{% endfor %}
 
 <br>
 # Blog
