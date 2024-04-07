@@ -56,7 +56,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
 <br>
 <!--  -->
 
-<h2>Postdocs</h2>
+<h2>Postdoctoral Researcher</h2>
 <table class="responsive-table table">
   <tr>
     <th>Name</th>
@@ -74,6 +74,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
     {% endif %}
   {% endfor %}
 </table>
+<p> * Special Postdoctoral Researcher <p>
 <br>
 <!--  -->
 <h2>Research Assistants</h2>

@@ -1,9 +1,9 @@
 ---
 title: Keigo Nishida
 type: member
-excerpt: Postdoctoral Researcher // *RIKEN BDR*
+excerpt: Special Postdoctoral Resesarcher // *RIKEN BDR*
 link: https://kigo24.github.io/
-rank: 3
+rank: 2
 date: 2023-04-01 00:00:00
 header:
   teaser: /assets/images/keigo_nishida.png
