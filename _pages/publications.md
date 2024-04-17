@@ -14,6 +14,13 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <ul class="w3-ul">
 
    <li>
+      <span class="title">Variational Learning is Effective for Large Deep Networks</span>, <br>
+      <span class="conf">(Preprint)</span>
+      <span class="author"> Y. Shen*, N. Daheim*, B. Cong, P. Nickl, G.M. Marconi, C. Bazan, R. Yokota, I. Gurevych, D. Cremers, M.E. Khan, T. Möllenhoff</span> <br>   
+      [ <a href="https://arxiv.org/abs/2402.17641" target="_blank">arXiv</a> ] [ <a href="https://team-approx-bayes.github.io/blog/ivon/" target="_blank">Blog</a> ] [ <a href="https://github.com/team-approx-bayes/ivon" target="_blank">Code</a> ]<br>
+   </li>
+
+   <li>
    <span class="title"> Optimistic Estimation of Convergence in Markov Chains with the Average-Mixing Time</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">G. Wolfer, P. Alquier</span>
@@ -47,7 +54,6 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <span class="author">S. Legramanti, D. Durante, P. Alquier</span>
    [<a href="https://arxiv.org/abs/2206.06991" target="_blank">arXiv</a>]
    </li>
-
 
 
    </ul>
