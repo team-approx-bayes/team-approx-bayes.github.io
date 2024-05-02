@@ -14,13 +14,6 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <ul class="w3-ul">
 
    <li>
-      <span class="title">Variational Learning is Effective for Large Deep Networks</span>, <br>
-      <span class="conf">(Preprint)</span>
-      <span class="author"> Y. Shen*, N. Daheim*, B. Cong, P. Nickl, G.M. Marconi, C. Bazan, R. Yokota, I. Gurevych, D. Cremers, M.E. Khan, T. Möllenhoff</span> <br>   
-      [<a href="https://arxiv.org/abs/2402.17641" target="_blank">arXiv</a>] [<a href="https://team-approx-bayes.github.io/blog/ivon/" target="_blank">Blog</a>] [<a href="https://github.com/team-approx-bayes/ivon" target="_blank">Code</a>]<br>
-   </li>
-
-   <li>
    <span class="title"> Optimistic Estimation of Convergence in Markov Chains with the Average-Mixing Time</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">G. Wolfer, P. Alquier</span>
@@ -74,28 +67,41 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <ul class="w3-ul">
 
    <li>
+      <span class="title">Variational Learning is Effective for Large Deep Networks</span>, <br>
+       <span class="conf">(<a href="https://icml.cc/Conferences/2024" target="_blank">ICML 2024</a>)</span>
+      <span class="author"> Y. Shen*, N. Daheim*, B. Cong, P. Nickl, G.M. Marconi, C. Bazan, R. Yokota, I. Gurevych, D. Cremers, M.E. Khan, T. Möllenhoff</span>
+      [<a href="https://arxiv.org/abs/2402.17641" target="_blank">arXiv</a>] [<a href="https://team-approx-bayes.github.io/blog/ivon/" target="_blank">Blog</a>] [<a href="https://github.com/team-approx-bayes/ivon" target="_blank">Code</a>]<br>
+   </li>
+
+   <li>
+      <span class="title">Position Paper: Bayesian Deep Learning in the Age of Large-Scale AI</span>, <br>
+       <span class="conf">(<a href="https://icml.cc/Conferences/2024" target="_blank">ICML 2024</a>)</span>
+      <span class="author"> T. Papamarkou, M. Skoularidou, K. Palla, L. Aitchison, J. Arbel, D. Dunson, M. Filippone, V. Fortuin, P. Hennig, J.M.H. Lobato, A. Hubin, A. Immer, T. Karaletsos, M.E. Khan, A. Kristiadi, Y. Li, S. Mandt, C. Nemeth, M.A. Osborne, T.G.J. Rudner, D. Rügamer, Y.W.T., M. Welling, A.G. Wilson, R.uqi Zhang</span>
+      [<a href="https://arxiv.org/abs/2402.00809" target="_blank">arXiv</a>]<br>
+   </li>
+
+   <li>
         <span class="title"> Improved Estimation of Relaxation Time in Non-reversible Markov Chains</span>, <br>
         <span class="conf">(<a href="https://projecteuclid.org/journals/annals-of-applied-probability" target="_blank">Annals of Applied Probability</a>)</span>
         <span class="author">G. Wolfer, A. Kontorovich</span>
         [<a href="http://dx.doi.org/10.1214/23-AAP1963" target="_blank">Published version</a>]
-        [<a href="https://arxiv.org/abs/2209.00175" target="_blank">arXiv</a>]
-    </li>
+        [<a href="https://arxiv.org/abs/2209.00175" target="_blank">arXiv</a>] <br>
+   </li>
 
-     <li>
-        <span class="title">Model Merging by Uncertainty-Based
-		Gradient Matching</span>, <br>
+   <li>
+         <span class="title">Model Merging by Uncertainty-Based Gradient Matching</span>, <br>
 		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
-        <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych, M.E. Khan</span>    
-        [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
-	    [<a href="." target="_blank">Code</a>]
-		<br>
-     </li>
+         <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych, M.E. Khan</span>    
+         [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
+	      [<a href="." target="_blank">Code</a>]
+	   <br>
+   </li>
 
      <li>
          <span class="title">Conformal Prediction via Regression-as-Classification</span>,   <br>
           <span class="conf">(<a href="https://iclr.cc/Conferences/2024" target="_blank">ICLR 2024</a>)</span>
           <span class="author"> E. K. Guha, S. Natarajan, T. Möllenhoff, M.E. Khan, E. Ndiaye</span> 
-         [<a href="https://openreview.net/forum?id=rulxyXjf46" target="_blank">OpenReview</a>] [<a href="https://arxiv.org/abs/2404.08168" target="_blank">ArXiv</a>] [<a href="https://pypi.org/project/R2CCP/" target="_blank">Code</a>]<br>
+         [<a href="https://openreview.net/forum?id=rulxyXjf46" target="_blank">OpenReview</a>] [<a href="https://arxiv.org/abs/2404.08168" target="_blank">ArXiv</a>] [<a href="https://pypi.org/project/R2CCP/" target="_blank">Code</a>]  <br>
       </li>
       </ul>
 
