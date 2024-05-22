@@ -1,5 +1,5 @@
 ---
-title: Anita Suryani Yang
+title: Anita Yang
 type: member
 affliation: The University of Tokyo
 excerpt: Research Part-time Worker // *The University of Tokyo*
