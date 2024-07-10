@@ -81,6 +81,13 @@ Here we list research code that has been open-sourced to accompany recent public
 
 <div class="w3-container">
 <ul class="w3-ul">
+     <li>
+		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICML 2024</a>)</span>
+        <span class="title">Variational Learning is Effective for
+		Large Deep Networks</span>,
+        [<a href="https://arxiv.org/abs/2402.17641" target="_blank">arXiv</a>]
+	    [<a href="https://github.com/team-approx-bayes/ivon" target="_blank">Code</a>]
+     </li>
 
      <li>
 		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
