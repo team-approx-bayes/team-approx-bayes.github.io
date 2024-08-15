@@ -3,7 +3,7 @@ title: Dharmesh Tailor
 type: member
 excerpt: Remote Collaborator // *University of Amsterdam*
 link: https://dvtailor.github.io/
-rank: 8
+rank: 9
 date: 2019-05-01 00:00:00
 header:
   teaser: /assets/images/dharmesh_tailor.png
