@@ -1,11 +1,13 @@
 ---
 layout: single
-title: Research
+title: Outline
 permalink: /research/
 author_profile: false
 custom_css: research
 ---
+[**[Research]**](#research)   [**[Blog]**](#blog)   [**[Code]**](#code)
 
+# Research
 Humans, animals, and other living beings have a natural ability to autonomously learn throughout their lives and quickly adapt to their surroundings, but computers lack such abilities.
 Our goal is to bridge such gaps between the learning of living-beings and computers.
 We are machine learning researchers with an expertise in areas such as approximate inference, Bayesian statistics, continuous optimization, information geometry etc.
@@ -30,16 +32,6 @@ We are also thankful to receive the following external funding (funding amount i
   <li> (2019-2022, USD 237,000) External funding through companies for several Bayes related projects</li> 
 </ul>	
 
-# Lab Activities
-{% assign posts = site.posts | where: 'categories', 'lab-activities' | sort: 'date' | reverse %}
-{% assign latest_post = posts.first %}
-<div class="post">
-      <h3>
-      <a href="{{ latest_post.url | prepend: site.baseurl }}" class="post-link">{{ latest_post.title }} </a>
-	</h3>
-</div>
-
-<br>
 # Blog
 This blog provides a medium for our researchers to present their recent research findings, insights and updates. The posts in the blog
 are written with a general audience in mind and aim to provide an accessible introduction to our research.
