@@ -4,7 +4,7 @@ title: Vacancies
 permalink: /vacancies/
 author_profile: false
 ---
-<!--
+
 <h2>Open Positions</h2>
 {% for post in site.posts %}
 {% if post.categories contains 'vacancies' %}
@@ -18,7 +18,8 @@ author_profile: false
 </div>
 {% endif %}
 {% endfor %}
--->
+
+
 <h2>
 RIKEN's Programs for Junior Scientists
 <img src="/assets/images/riken_junior_scientists.jpg" alt="Logo" style="vertical-align:middle;" width="150" height="150">
