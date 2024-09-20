@@ -93,7 +93,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
 		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
          <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych, M.E. Khan</span>    
          [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
-	      [<a href="." target="_blank">Code</a>]
+	      [<a href="https://github.com/UKPLab/iclr2024-model-merging" target="_blank">Code</a>]
 	   <br>
    </li>
 
@@ -101,7 +101,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
          <span class="title">Conformal Prediction via Regression-as-Classification</span>,   <br>
           <span class="conf">(<a href="https://iclr.cc/Conferences/2024" target="_blank">ICLR 2024</a>)</span>
           <span class="author"> E. K. Guha, S. Natarajan, T. Möllenhoff, M.E. Khan, E. Ndiaye</span> 
-         [<a href="https://openreview.net/forum?id=rulxyXjf46" target="_blank">OpenReview</a>] [<a href="https://arxiv.org/abs/2404.08168" target="_blank">ArXiv</a>] [<a href="https://pypi.org/project/R2CCP/" target="_blank">Code</a>]  <br>
+         [<a href="https://openreview.net/forum?id=rulxyXjf46" target="_blank">OpenReview</a>] [<a href="https://arxiv.org/abs/2404.08168" target="_blank">ArXiv</a>] [<a href="https://github.com/EtashGuha/R2CCP" target="_blank">Code</a>]  [<a href="https://pypi.org/project/R2CCP/" target="_blank">Package</a>]<br>
       </li>
       </ul>
 
@@ -113,7 +113,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
         <span class="conf">(<a href="https://jmlr.org/tmlr/">TMLR</a>)</span>
         <span class="author"> E. Daxberger, S. Swaroop, K. Osawa,
         R. Yokota, R. turner, J. M. Hernández-Lobato, M.E. Khan</span>    
-        [ <a href="https://openreview.net/forum?id=b1fpfCjja1" target="_blank">OpenReview</a> ]<br>
+        [ <a href="https://openreview.net/forum?id=b1fpfCjja1" target="_blank">OpenReview</a> ] [ <a href="https://github.com/team-approx-bayes/ewc-fr-replay" target="_blank">Code</a> ]<br>
      </li>
 
      <li>

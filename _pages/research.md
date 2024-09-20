@@ -69,7 +69,7 @@ are written with a general audience in mind and aim to provide an accessible int
 {% endfor %}
 
 # Code
-Here we list research code that has been open-sourced to accompany recent publications.
+Here we list research code that has been open-sourced to accompany recent publications. Our team's github homepage: [https://github.com/team-approx-bayes](https://github.com/team-approx-bayes).
 
 <div class="w3-container">
 <ul class="w3-ul">
@@ -86,21 +86,28 @@ Here we list research code that has been open-sourced to accompany recent public
         <span class="title">Model Merging by Uncertainty-Based
 		Gradient Matching</span>,
         [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
-	    [<a href="." target="_blank">Code</a>]
+	    [<a href="https://github.com/UKPLab/iclr2024-model-merging" target="_blank">Code</a>]
      </li>
      <li>
  	    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
  <span class="title">Conformal Prediction via Regression-as-Classification</span>,
         [<a href="https://etash.me/papers/Bayesian_Conformal_Prediction_through_Memory_Adaptation.pdf" target="_blank">preprint</a>]
-	    [<a href="." target="_blank">Code</a>]
+	    [<a href="https://github.com/EtashGuha/R2CCP" target="_blank">Code</a>]
      </li>
 
    <li>
    		  <span class="conf">(<a
-		  href="http://aistats.org">NeurIPS 2023</a>)</span>
+		  href="https://neurips.cc/">NeurIPS 2023</a>)</span>
          <span class="title">The Memory Perturbation Equation:
    		  Understanding Models' Sensitivity to Data</span>
          [<a href="https://arxiv.org/pdf/2310.19273" target="_blank">arXiv</a>]	    [<a href="https://github.com/team-approx-bayes/memory-perturbation" target="_blank">Code</a>]
+		 </li>
+  
+  <li>
+   		  <span class="conf">(<a
+		  href="https://jmlr.org/tmlr/">TMLR 2023</a>)</span>
+         <span class="title">The Lie-Group Bayesian Learning Rule</span>
+         [<a href="https://openreview.net/pdf?id=b1fpfCjja1" target="_blank">Published Version</a>] [<a href="https://github.com/team-approx-bayes/ewc-fr-replay" target="_blank">Code</a>]
 		 </li>
 
    <li>
