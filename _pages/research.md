@@ -106,7 +106,7 @@ Here we list research code that has been open-sourced to accompany recent public
   <li>
    		  <span class="conf">(<a
 		  href="https://jmlr.org/tmlr/">TMLR 2023</a>)</span>
-         <span class="title">The Lie-Group Bayesian Learning Rule</span>
+         <span class="title">Improving Continual Learning by Accurate Gradient Reconstructions of the Past</span>
          [<a href="https://openreview.net/pdf?id=b1fpfCjja1" target="_blank">Published Version</a>] [<a href="https://github.com/team-approx-bayes/ewc-fr-replay" target="_blank">Code</a>]
 		 </li>
 
