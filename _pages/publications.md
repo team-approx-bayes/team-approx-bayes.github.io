@@ -67,6 +67,13 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <ul class="w3-ul">
 
    <li>
+      <span class="title">Variational Low-Rank Adaptation Using IVON</span>, <br>
+       <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a> at NuerIPS 2024)</span>
+      <span class="author"> B. Cong, N. Daheim, Y. Shen, D. Cremers, R. Yokota, M.E. Khan, T. Möllenhoff</span> 
+      [<a href="https://openreview.net/forum?id=nRD5uZa2fe" target="_blank">OpenReview</a>]<br>
+   </li>
+
+   <li>
       <span class="title">Variational Learning is Effective for Large Deep Networks</span>, <br>
        <span class="conf">(<a href="https://icml.cc/Conferences/2024" target="_blank">ICML 2024</a>)</span>
       <span class="author"> Y. Shen*, N. Daheim*, B. Cong, P. Nickl, G.M. Marconi, C. Bazan, R. Yokota, I. Gurevych, D. Cremers, M.E. Khan, T. Möllenhoff</span>
