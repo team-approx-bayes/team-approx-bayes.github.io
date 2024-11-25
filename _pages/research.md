@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 custom_css: research
 ---
-[**[Research]**](#research)   [**[Blog]**](#blog)   [**[Code]**](#code)
+[**[Research]**](#research)   [**[Blog]**](#blog)  [**[Talk]**](#talk)  [**[Code]**](#code)
 
 # Research
 Humans, animals, and other living beings have a natural ability to autonomously learn throughout their lives and quickly adapt to their surroundings, but computers lack such abilities.
@@ -67,6 +67,19 @@ are written with a general audience in mind and aim to provide an accessible int
     {% endif %}
   {% endif %}
 {% endfor %}
+
+# Talk 
+The recorded talks given by our team members.
+<div class="w3-container">
+<ul class="w3-ul">
+     <li>
+		   [July 30th, 2024] <a href="https://emtiyaz.github.io/" target="_blank">Emtiyaz Khan</a>:
+        <span class="title">Keynote at the <a href="https://lifelong-ml.cc/" target="_blank">3rd Conference on Lifelong Learning Agents (CoLLAs) 2024</a></span>,
+        [<a href="https://emtiyaz.github.io/papers/July30_2024_CoLLAs.pdf" target="_blank">Slides</a>]
+	    [<a href="https://youtu.be/_49ydwCrhVk?feature=shared" target="_blank">Video</a>]
+     </li>
+</ul>
+</div>
 
 # Code
 Here we list research code that has been open-sourced to accompany recent publications. Our team's github homepage: [https://github.com/team-approx-bayes](https://github.com/team-approx-bayes).
