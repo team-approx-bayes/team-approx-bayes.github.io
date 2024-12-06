@@ -20,6 +20,6 @@ To launch website locally in MacOS, please follow these steps:
 
 1. Follow the [instructions](https://jekyllrb.com/docs/installation/macos/) to install `jekyll` and related packages.
 2. Run `$ bundle install` in this repo directory.
-3. Run `$ bundle exec jekyll serve` to run website locally.
+3. Run `$ bundle exec jekyll serve --incremental` to run website locally.
 
 Please see Github's [instructions](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) for more information.
