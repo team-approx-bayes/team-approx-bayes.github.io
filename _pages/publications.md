@@ -14,6 +14,13 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">H. Monzón Maldonado, T. Möllenhoff, N. Daheim, I. Gurevych, M.E. Khan</span>
+   [<a href="https://arxiv.org/abs/2412.08147" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> Optimistic Estimation of Convergence in Markov Chains with the Average-Mixing Time</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">G. Wolfer, P. Alquier</span>
