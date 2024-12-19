@@ -1,6 +1,6 @@
 ---
 category: seminar
-logo: fa-comments
+logo: fa-chalkboard-teacher
 time: 13:30 JST
 ---
 

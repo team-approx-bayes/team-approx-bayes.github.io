@@ -1,6 +1,6 @@
 ---
 category: seminar
-logo: fa-comments
+logo: fa-book
 time: 17:00 JST
 ---
 

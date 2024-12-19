@@ -16,7 +16,7 @@ The technical coffee is held every two weeks on a rotational basis over the grou
   {% capture postStartDate %}{{ post.date | date: '%F' }}{% endcapture %}
   {% if post.categories contains "coffee" and postStartDate >= curDate %}
     <div class="news">
-    <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b>
+    <b class="news-title"> <i class="fas {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b>
 	{% if post.time %} @ {{post.time}} {% endif %} </b>
 	<br>
     {{ post.content }}

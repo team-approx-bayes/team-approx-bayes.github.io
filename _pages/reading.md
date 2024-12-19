@@ -9,7 +9,7 @@ We hold biweekly "reading-group" meetings (duration: 60
 minutes). Every two weeks, a different group member takes the lead,
 presenting a chosen paper for discussion. Additionally, to the
 biweekly schedule, we frequently invite external speakers to give
-talks or tutorials.
+talks or tutorials and occasionally hold guided discussions over lunch (meta-meals). 
 
 <h2>Upcoming</h2>
 
