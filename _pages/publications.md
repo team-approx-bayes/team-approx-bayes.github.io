@@ -37,17 +37,11 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
 
    </ul>
 
-  <h2 class="w3-container w3-padding">In press / to appear </h2>
+  <!-- <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
 
-    <li>
-   <span class="title"> Geometric Aspects of Data-Processing of Markov Chains</span>, <br>
-   <span class="conf">(<a href="https://academic.oup.com/imatrm" target="_blank">Transactions of Mathematics and Its Applications</a>)</span> 
-   <span class="author">G. Wolfer, S. Watanabe</span>
-   [<a href="https://arxiv.org/abs/2203.04575" target="_blank">arXiv</a>]
-   </li>
 
-   </ul>
+   </ul> -->
 
   <h2 class="w3-container w3-padding">2024</h2>
    <ul class="w3-ul">
@@ -57,6 +51,14 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
        <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a> at NuerIPS 2024)</span>
       <span class="author"> B. Cong, N. Daheim, Y. Shen, D. Cremers, R. Yokota, M.E. Khan, T. Möllenhoff</span> 
       [<a href="https://openreview.net/forum?id=nRD5uZa2fe" target="_blank">OpenReview</a>]<br>
+   </li>
+
+   <li>
+   <span class="title"> Geometric Aspects of Data-Processing of Markov Chains</span>, <br>
+   <span class="conf">(<a href="https://academic.oup.com/imatrm" target="_blank">Transactions of Mathematics and Its Applications</a>)</span> 
+   <span class="author">G. Wolfer, S. Watanabe</span>
+    [<a href="https://academic.oup.com/imatrm/article/8/1/tnae001/7676444" target="_blank">Published version</a>]
+   [<a href="https://arxiv.org/abs/2203.04575" target="_blank">arXiv</a>]
    </li>
 
    <li>
