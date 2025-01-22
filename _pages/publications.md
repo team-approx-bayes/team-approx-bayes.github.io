@@ -14,6 +14,13 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Natural Variational Annealing for Multimodal Optimization</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">T. L. Minh, J. Arbel, T. Möllenhoff, M.E. Khan , F. Forbes</span>
+   [<a href="https://arxiv.org/abs/2501.04667" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">H. Monzón Maldonado, T. Möllenhoff, N. Daheim, I. Gurevych, M.E. Khan</span>
@@ -48,7 +55,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
 
    <li>
       <span class="title">Variational Low-Rank Adaptation Using IVON</span>, <br>
-       <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a> at NuerIPS 2024)</span>
+       <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a> at NeurIPS 2024)</span>
       <span class="author"> B. Cong, N. Daheim, Y. Shen, D. Cremers, R. Yokota, M.E. Khan, T. Möllenhoff</span> 
       [<a href="https://openreview.net/forum?id=nRD5uZa2fe" target="_blank">OpenReview</a>]<br>
    </li>

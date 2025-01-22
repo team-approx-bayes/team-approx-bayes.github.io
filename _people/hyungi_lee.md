@@ -1,11 +1,12 @@
 ---
 title: Hyungi Lee
-type: member
+type: alumni
 affliation: KAIST AI
 excerpt: Intern // *KAIST AI*
 link: https://hyungi-lee.github.io/
 rank: 7
-date: 2024-11-01
+date: 2024-11-01 00:00:00
+date_leave: 2025-01-16 00:00:00
 header:
   teaser: /assets/images/hyungi_lee.png
 ---
