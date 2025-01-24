@@ -54,6 +54,13 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Connecting Federated ADMM to Bayes</span>, <br>
+   <span class="conf">(<a href="https://www.iclr.cc/Conferences/2025" target="_blank">ICLR 2025</a>)</span>
+   <span class="author">S. Swaroop, M.E. Khan, F. Doshi-Velez</span>
+   [<a href="https://openreview.net/forum?id=ipQrjRsl11" target="_blank">OpenReview</a>]
+   </li>
+
+   <li>
       <span class="title">Variational Low-Rank Adaptation Using IVON</span>, <br>
        <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a> at NeurIPS 2024)</span>
       <span class="author"> B. Cong, N. Daheim, Y. Shen, D. Cremers, R. Yokota, M.E. Khan, T. Möllenhoff</span> 
