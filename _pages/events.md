@@ -1,15 +1,17 @@
 ---
 layout: single
-title: Reading Group
-permalink: /reading/
+title: Events
+permalink: /events/
 author_profile: false
 ---
 
-We hold biweekly "reading-group" meetings (duration: 60
+Events for ABI Team. Please also check below for the lab operations.
+
+<!-- We hold biweekly "reading-group" meetings (duration: 60
 minutes). Every two weeks, a different group member takes the lead,
 presenting a chosen paper for discussion. Additionally, to the
 biweekly schedule, we frequently invite external speakers to give
-talks or tutorials and occasionally hold guided discussions over lunch (meta-meals). 
+talks or tutorials and occasionally hold guided discussions over lunch (meta-meals).  -->
 
 <h2>Upcoming</h2>
 
@@ -70,3 +72,11 @@ talks or tutorials and occasionally hold guided discussions over lunch (meta-mea
 </section>
 </details>
  
+<br>
+{% assign posts = site.posts | where: 'categories', 'lab-activities' | sort: 'date' | reverse %}
+{% assign latest_post = posts.first %}
+<div class="post">
+      <h3>
+      <a href="{{ latest_post.url | prepend: site.baseurl }}" class="post-link">{{ latest_post.title }} </a>
+	</h3>
+</div>

@@ -7,9 +7,7 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
-  - title: "Reading-Group"
-    url: /reading/
-  - title: "Tech-Coffee"
-    url: /techcoffee/
+  - title: "Events"
+    url: /events/
   - title: "Wiki"
     url: "https://172.27.18.122/"

@@ -18,16 +18,6 @@ background, and as such we encourage applications from any minority.
 
 If you are interested in joining us, please [check the news](../news/) for open positions or see
 [here](../vacancies/) for available RIKEN programmes.
- 
- {% assign posts = site.posts | where: 'categories', 'lab-activities' | sort: 'date' | reverse %}
-{% assign latest_post = posts.first %}
-<div class="post">
-      <h3>
-      <a href="{{ latest_post.url | prepend: site.baseurl }}" class="post-link">{{ latest_post.title }} </a>
-	</h3>
-</div>
-
-<br>
 
 <section class="page__content cf">
 <div class="entries-{{ entries_layout }}">
