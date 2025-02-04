@@ -50,7 +50,7 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
 
    </ul> -->
 
-  <h2 class="w3-container w3-padding">2024</h2>
+  <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
 
    <li>
@@ -59,7 +59,10 @@ For a list of code releases, see our <a href="https://team-approx-bayes.github.i
    <span class="author">S. Swaroop, M.E. Khan, F. Doshi-Velez</span>
    [<a href="https://openreview.net/forum?id=ipQrjRsl11" target="_blank">OpenReview</a>]
    </li>
+   </ul>
 
+  <h2 class="w3-container w3-padding">2024</h2>
+   <ul class="w3-ul">
    <li>
       <span class="title">Variational Low-Rank Adaptation Using IVON</span>, <br>
        <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a> at NeurIPS 2024)</span>
