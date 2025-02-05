@@ -6,7 +6,7 @@ author_profile: false
 custom_css: pub
 ---
 
-For a list of code releases, see our <a href="https://team-approx-bayes.github.io/research/#code">research page</a>.
+For our code releases, please see our <a href="https://team-approx-bayes.github.io/research/#code">code lists</a>.
 
 <div class="w3-container">
 
