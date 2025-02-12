@@ -14,6 +14,13 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Variational Learning Induces Adaptive Label Smoothing</span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">S.-H. Yang, Z. Liu, G. M. Marconi, M. E. Khan </span>
+   [<a href="https://arxiv.org/abs/2502.07273" target="_blank">arXiv</a>]
+   </li>
+
+   <li>
    <span class="title"> Natural Variational Annealing for Multimodal Optimization</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">T. L. Minh, J. Arbel, T. Möllenhoff, M.E. Khan , F. Forbes</span>
