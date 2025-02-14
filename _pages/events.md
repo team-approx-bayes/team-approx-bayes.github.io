@@ -7,14 +7,11 @@ author_profile: false
 
 Events for ABI Team:
 <ul class="w3-ul">
-  <li> <strong><em>Reading Group</em></strong> : Every two weeks, a different group member takes the lead, presenting a chosen paper for discussion. (moderator: Thomas, duration: 60minutes) </li>
-  <li> <em><strong>Tech Coffee</strong></em> : Every two weeks, a different full-time member takes the lead. The sessions focus on technical or mathematical aspects of our members' ongoing research projects. (moderator: Keigo, duration: 90minutes)</li>
-  <li> <em><strong>Seminar</strong></em> : We frequently invite external speakers to give talks or tutorials. (moderator: Thomas) </li>
-  <li> <em><strong>Meta Meals</strong></em> : Every two weeks, we hold guided discussions over lunch on research and more general topics. (moderator: Hugo, duration: 60minutes)</li> 
+  <li> <i class="fa fa-book" style="font-size: 25px;"></i> <strong><em>Reading Group</em></strong>: A group member takes the lead, presenting a chosen paper for discussion. </li>
+  <li> <i class="fa fa-coffee" style="font-size: 25px;"></i> <em><strong>Tech Coffee</strong></em>: A full-time member takes the lead, discussing technical aspects of our members' ongoing research projects.</li>
+  <li> <i class="fa fa-chalkboard-teacher" style="font-size: 25px;"></i> <em><strong>Seminar</strong></em>: We frequently invite external speakers to give talks or tutorials.</li>
+  <li> <i class="fa fa-pizza-slice" style="font-size: 25px;"></i> <em><strong>Meta Meals</strong></em>: We hold guided discussions over lunch on research and more general topics.</li> 
 </ul>	
-
-<strong>Other lab events</strong>: Writeups: Yohan, Bayes Duality Seminar: Hugo, Intern Writeups: Anita. \
-<strong>Other lab operations</strong>: Hiring: Emti, Intern Hiring: Emti, Thomas, Wiki: Christopher, Webpage Maintainence: Keigo, Sin-Han, Purchase: Hugo, Emti, Thomas, Servers: Christopher, Hugo, Social Activity: Hugo. 
 
 <h2>Upcoming</h2>
 
@@ -25,7 +22,7 @@ Events for ABI Team:
   {% capture postStartDate %}{{ post.date | date: '%F' }}{% endcapture %}
   {% if post.categories contains "seminar" and postStartDate >= curDate %}
     <div class="news">
-    <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b>
+    <b class="news-title"> <i class="fa {{post.logo}}" style="font-size: 25px;"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b>
 	{% if post.time %} @ {{post.time}} {% endif %} </b>
 	<br>
     {{ post.content }}
@@ -45,7 +42,7 @@ Events for ABI Team:
   {% capture postStartDate %}{{ post.date | date: '%F' }}{% endcapture %}
   {% if post.categories contains "seminar" and postStartDate < curDate and i < 9 %}
     <div class="news">
-    <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
+    <b class="news-title"> <i class="fa {{post.logo}}" style="font-size: 25px;"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
     {{ post.content }}
     </div>
     {% assign i = i | plus:1 %}
@@ -65,7 +62,7 @@ Events for ABI Team:
   {% if post.categories contains "seminar" and postStartDate < curDate %}
     {% if i >= 9 %}
      <div class="news">
-      <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
+      <b class="news-title"> <i class="fa {{post.logo}}" style="font-size: 25px;"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
       {{ post.content }}
     </div>
 	{% endif %}
