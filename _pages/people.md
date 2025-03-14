@@ -116,4 +116,17 @@ If you are interested in joining us, please [check the news](../news/) for open 
     {% endif %}
   {% endfor %}
 </table>
-</section>
+
+<section>
+<h1>Group Photos</h1>
+
+<h2> Thomas's Promotion Party, March 2025 </h2>
+<img src="../assets/images/group/thomas_promote.jpg" alt="team photo" width="450" height="600">
+
+<br><br>
+
+<h2> 2024 AIP Retreat, March 2025 </h2>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="../assets/images/group/2024retreat_1.jpg" alt="team photo" width="450" height="600">
+  <img src="../assets/images/group/2024retreat_2.jpg" alt="team photo" width="450" height="600">
+</div>
