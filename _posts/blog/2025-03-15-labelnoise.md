@@ -1,5 +1,5 @@
 ---
-title: Variational Learning Induces Adaptive Lable Smoothing 
+title: Variational Learning Induces Adaptive Label Smoothing 
 date: 2025-03-15
 categories:
   - blog
