@@ -1,11 +1,12 @@
 ---
 title: Masaki Adachi
-type: member
+type: alumni
 affliation: University of Oxford
 excerpt: Intern // *University of Oxford*
 link: https://www.masaki-adachi.com/
 rank: 7
-date: 2025-01-06 
+date: 2025-01-06 00:00:00
+date_leave: 2025-03-31 00:00:00
 header:
   teaser: /assets/images/masaki_adachi.jpg
 ---
