@@ -22,11 +22,32 @@ $$
 
 where $\sigma(\cdot)$ is the Sigmoid function.
 
-We plot the magnitude of the noise per example in the Moon dataset, to understand the noise better. When the prediction is uncertain, i.e., sigmoid value of the posterior $q$ mean is around 0.5, the noise is stronger. These points are around the boundary, where the model is uncertain.
+We plot the magnitude of the noise per example in the Moon dataset to understand the noise. When the prediction is uncertain, i.e., sigmoid value of the posterior $q$ mean is around 0.5, the noise is stronger. As shown in the figure, these points are around the boundary where the model is uncertain.
 
 **TODO: explain the plot and the corresponding meaning**
 
+
+For Neural Networks, since weight perturbation results in other kinds of noise in Jacobian and Hessian. We can derive the approximate noise: 
+
+$$
+\epsilon = \sigma'(f(x))\nabla f(x) \mathbf{\Sigma^{1/2} e},
+$$
+
+where $\mathbf{e}$ is a standard normal distribution. The noise is adjusted according to the example $x$ and the learned posterior covariance $\mathbf{\Sigma}$.
+
+
 ## Empirical Results
-Emperiment results show that variational learning's adaptive label smoothing is better than the constant noise from original label smoothing. 
+Emperiment results show that variational learning's adaptive label smoothing is better than the constant noise of the original label smoothing. We use a variational learning algorithm called IVON, and we analyze the label smoothing of it.
+
+We show that IVON's smoothed label is similar to a previous adaptive label smoothing called [Online Label Smoothing (OLS)](https://arxiv.org/abs/2011.12562). 
+
+<div style="text-align: center; padding-bottom: 15px">
+<img src="/assets/images/lsblog/olscompare.png" alt="Smoothed label comparison with OLS" style="width:100%;max-width:900px">
+</div>
+
+When the data has labeling errors, experiment results show that IVON consistently outperforms traditional label smoothing, and comparable with [Sharpness Aware Minimization (SAM)](https://arxiv.org/abs/2010.01412).
 
 
+<div style="text-align: center; padding-bottom: 15px">
+<img src="/assets/images/lsblog/mislabel.png" alt="Comparison in labeling error scenario" style="width:100%;max-width:500px">
+</div>
