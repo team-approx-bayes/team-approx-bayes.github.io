@@ -22,9 +22,17 @@ $$
 
 where $\sigma(\cdot)$ is the Sigmoid function.
 
-We plot the magnitude of the noise per example in the Moon dataset to understand the noise. When the prediction is uncertain, i.e., sigmoid value of the posterior $q$ mean is around 0.5, the noise is stronger. As shown in the figure, these points are around the boundary where the model is uncertain.
+We plot the magnitude of the noise per example in the Moon dataset to understand the noise. When the prediction is uncertain, i.e., sigmoid value of the posterior $q$ mean is around 0.5, the noise is stronger. As shown in the figure, these points are around the boundary where the model is uncertain. The size and visibility of each point reflects the magnitude of noise on each points.
 
-**TODO: explain the plot and the corresponding meaning**
+**Select** your desired point and highlight with one of the colors to inspect where the point lands on the sigmoid and its placement on the Noise Magnitude distribution.
+
+<div style="width: 100%; max-width: 100%; overflow: hidden; height: 800px;">
+  <div style="transform: scale(0.8); transform-origin: top left; width: calc(100% / 0.8); height: 900px; overflow: hidden;">
+    <iframe src="/assets/visual/sigmoid_projection.html" width="100%" height="1000" style="border: none;"></iframe>
+  </div>
+</div>
+
+[//]: <> **TODO: explain the plot and the corresponding meaning**
 
 
 For Neural Networks, since weight perturbation results in other kinds of noise in Jacobian and Hessian. We can derive the approximate noise: 
@@ -50,4 +58,13 @@ When the data has labeling errors, experiment results show that IVON consistentl
 
 <div style="text-align: center; padding-bottom: 15px">
 <img src="/assets/images/lsblog/mislabel.png" alt="Comparison in labeling error scenario" style="width:100%;max-width:500px">
+</div>
+
+[//]: <> **TODO: Maybe show the MNIST plot here?**
+Below we demonstrate how the assignment of Label-Noise changes over training iteration on MNIST. From top to bottom, the MNIST images are ordered from high to low Label-Noise for each segment. Sampling group of **High Label-Noise** and **Low Label-Noise**, as training goes on per iteration, it is visible that the update being done to Low Label-Noise groups is lessening compared to the rapid changing of High Label-Noise updates.
+
+<div style="width: 100%; max-width: 100%; overflow: hidden; padding-bottom: 15px; height: 800px; display: flex; justify-content: center; align-items: flex-start;">
+  <div style="transform: scale(0.75); transform-origin: top center; width: calc(100% / 0.75); height: 1000px; overflow: hidden;">
+    <iframe src="/assets/visual/mnist_50_samples_100_mc.html" width="100%" height="1000" style="border: none;"></iframe>
+  </div>
 </div>
