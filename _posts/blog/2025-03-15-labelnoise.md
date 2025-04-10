@@ -62,17 +62,17 @@ To visualize how adaptive label smoothing assign label-noise over training itera
 
 As training progresses, it's evident that samples in the High label-noise group are being updated more fequently than those in the Low label-noise group. This behavior demonstrates that IVON's adaptive label smoothing dynamically focuses the model's learning onto datapoints that are more uncertain, i.e. cases of labeling errors, distribution shift or calibration issues. This means that well understood samples remain stable, preserving generalization, preventing overconfidence. 
 
-Below we demonstrate that IVON's smoothed label is similar to a previous adaptive label smoothing called [Online Label Smoothing (OLS)](https://arxiv.org/abs/2011.12562) without needing any additional effort to design or estimate the adaptive label noise. 
+Below we demonstrate that IVON's smoothed label is similar to a existing adaptive label smoothing technique called [Online Label Smoothing (OLS)](https://arxiv.org/abs/2011.12562) without needing any additional effort to design or estimate the adaptive label noise. 
 
 <div style="text-align: center; padding-bottom: 15px">
 <img src="/assets/images/lsblog/olscompare.png" alt="Smoothed label comparison with OLS" style="width:100%;max-width:900px">
 </div>
 
-When the data has labeling errors, experiment results show that IVON consistently outperforms traditional label smoothing, and comparable with [Sharpness Aware Minimization (SAM)](https://arxiv.org/abs/2010.01412).
+When data has labeling errors, experiment results show that IVON consistently outperforms traditional label smoothing, and comparable with [Sharpness Aware Minimization (SAM)](https://arxiv.org/abs/2010.01412).
 
 To demonstrate how IVON performs against traditional Label Smoothing and SAM, below shows an experiment with data-dependent labeling errors on CIFAR-10. Each class are assigned a different level of label noise, with the correct label trained with certain probability, varrying among different classes. For each class, the correct label has a probability of $1 - (k + \beta i), i\in [1,K]$ where $k$ is the starting noise label and $\beta$ is the increasing factor. The remaining probability was then spread evenly across all the wrong labels of that class. Plotted result shows the best result selected from, LS with smoothing rate of {0, 0.1, 0.3, 0.5, 0.7, 0.9}, SAM with $\rho$ of {0, 0.05, 0.1, 0.15, 0.2, 0.5}. $\beta$ is kept at $0.05$ for this experiment.
 <div style="text-align: center; padding-bottom: 15px">
 <img src="/assets/images/lsblog/mislabel.png" alt="Comparison in labeling error scenario" style="width:100%;max-width:500px">
 </div>
 
-From the presented emperical result, we've successfully demonstrated the claim that adaptive label noise induced by variational learning is more effective than traditional label smoothing. IVON not only proves to be adaptive against varying label noise, but it also provides means of utilizing adaptive label smoothing without additional effort. We believe that variational learnign algorithms, such as IVON, provide a flexible framework to further add noise to handle both the abnormalities and typicalities in the data.
+From the presented emperical result, we've successfully demonstrated the claim that adaptive label noise induced by variational learning is more effective than traditional label smoothing. IVON not only proves to be adaptive against varying label noise, but it also provides means of utilizing adaptive label smoothing without additional effort. We believe that variational learning algorithms, such as IVON, provide a flexible framework to further add noise to handle both the abnormalities and typicalities in the data.
