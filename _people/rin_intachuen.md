@@ -1,6 +1,6 @@
 ---
 title: Rin Intachuen
-type: member
+type: alumni
 affliation: Mahidol University
 excerpt: Intern // *Mahidol University*
 link: https://www.linkedin.com/in/burin-intachuen-75a91910b/
