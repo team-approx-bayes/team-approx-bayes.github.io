@@ -118,6 +118,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
 </table>
 
 <section>
+<br>
 <h1>Group Photos</h1>
 
 <h2> Thomas's Promotion Party, March 2025 </h2>
