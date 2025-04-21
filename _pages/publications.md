@@ -14,30 +14,9 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
 
-   <li>
-   <span class="title"> Compact Memory for K-prior Based Continual Learning</span>, <br>
-   <span class="conf">(AABI 2025)</span>
-   <span class="author">Y. Jung<sup>*</sup>, H. Lee<sup>*</sup>, W. Chen<sup>*</sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
-   [<a href="https://openreview.net/login?redirect=%2Fforum%3Fid%3Dvx0USHUYgL" target="_blank">OpenReview</a>]
-   </li>
-
-
-
-   <li>
-   <span class="title"> Learning Graph Structure for GNNs via Marginal Likelihood</span>, <br>
-   <span class="conf">(AABI 2025)</span>
-   <span class="author">A. Yang, T. Möllenhoff, K. Kawarabayashi, M. E. Khan </span>
-   [<a href="https://openreview.net/forum?id=W6uGcapisc" target="_blank">OpenReview</a>]
-   </li>
 
 
    
-   <li>
-   <span class="title"> Variational Learning Induces Adaptive Label Smoothing</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">S.-H. Yang, Z. Liu, G. M. Marconi, M. E. Khan </span>
-   [<a href="https://arxiv.org/abs/2502.07273" target="_blank">arXiv</a>]
-   </li>
 
    <li>
    <span class="title"> Natural Variational Annealing for Multimodal Optimization</span>, <br>
@@ -78,6 +57,43 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
   <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
+
+
+
+
+   <li>
+   <span class="title"> Estimating the Data-Influence of Latent Variable Models using Variational Bayes</span>, <br>
+   <span class="conf">(To appear at  AABI 2025)</span>
+   <span class="author">D. Tailor,  M. E. Khan, E. Nalisnick </span>
+   [<a href="https://openreview.net/login?redirect=%2Fforum%3Fid%3Dvx0USHUYgL" target="_blank">OpenReview</a>]	   
+   </li>
+
+
+   <li>
+   <span class="title"> Variational Learning Induces Adaptive Label Smoothing</span>, <br>
+   <span class="conf">(To appear at  AABI 2025)</span>
+   <span class="author">S.-H. Yang, Z. Liu, G. M. Marconi, M. E. Khan </span>
+   [<a href="https://arxiv.org/abs/2502.07273" target="_blank">arXiv</a>]
+   </li>
+
+
+   <li>
+   <span class="title"> Compact Memory for K-prior Based Continual Learning</span>, <br>
+   <span class="conf">(To appear at  AABI 2025)</span>
+   <span class="author">Y. Jung<sup>*</sup>, H. Lee<sup>*</sup>, W. Chen<sup>*</sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
+   [<a href="https://openreview.net/login?redirect=%2Fforum%3Fid%3Dvx0USHUYgL" target="_blank">OpenReview</a>]
+   </li>
+
+
+
+   <li>
+   <span class="title"> Learning Graph Structure for GNNs via Marginal Likelihood</span>, <br>
+   <span class="conf">(To appear at AABI 2025)</span>
+   <span class="author">A. Yang, T. Möllenhoff, K. Kawarabayashi, M. E. Khan </span>
+   [<a href="https://openreview.net/forum?id=W6uGcapisc" target="_blank">OpenReview</a>]
+   </li>
+
+
 
    <li>
    <span class="title"> Connecting Federated ADMM to Bayes</span>, <br>
