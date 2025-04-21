@@ -14,6 +14,15 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
    <li>
+   <span class="title"> Learning Graph Structure for GNNs via Marginal Likelihood </span>, <br>
+   <span class="conf">(Preprint)</span>
+   <span class="author">A. Yang, T. Möllenhoff, K. Kawarabayashi, M. E. Khan </span>
+   [<a href="https://openreview.net/forum?id=W6uGcapisc" target="_blank">arXiv</a>]
+   </li>
+
+
+   
+   <li>
    <span class="title"> Variational Learning Induces Adaptive Label Smoothing</span>, <br>
    <span class="conf">(Preprint)</span>
    <span class="author">S.-H. Yang, Z. Liu, G. M. Marconi, M. E. Khan </span>
