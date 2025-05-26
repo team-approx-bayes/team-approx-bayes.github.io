@@ -2,12 +2,11 @@
 title: Wu Lin
 type: alumni
 affliation: UBC
-excerpt: PhD Student // *University of British Columbia*
+excerpt: Research Assistant
 link: https://yorkerlin.github.io
-rank: 7
-date: 2018-01-01 00:00:00
-date_leave: 2023-07-31 00:00:00
-wentto: Postdoc at Vector Institute
+rank: 5
+date: 2017-01-01 00:00:00
+date_leave: 2017-12-31 00:00:00
 header:
   teaser: /assets/images/wu_lin.png
 ---
