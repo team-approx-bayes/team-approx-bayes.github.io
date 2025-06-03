@@ -15,14 +15,11 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
 
 
-
-   
-
-   <li>
-   <span class="title"> Natural Variational Annealing for Multimodal Optimization</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">T. L. Minh, J. Arbel, T. Möllenhoff, M.E. Khan , F. Forbes</span>
-   [<a href="https://arxiv.org/abs/2501.04667" target="_blank">arXiv</a>]
+    <li>
+     <span class="title"> Variational Visual Question Answering</span>, <br>
+     <span class="conf">(Preprint)</span>
+     <span class="author">T.J. Wieczorek, N. Daun, M.E. Khan, M. Rohrbach</span>
+   [<a href="https://arxiv.org/abs/2505.09591" target="_blank">arXiv</a>]
    </li>
 
    <li>
