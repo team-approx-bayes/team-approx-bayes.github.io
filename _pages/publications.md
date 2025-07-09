@@ -15,14 +15,11 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
 
 
-
-   
-
-   <li>
-   <span class="title"> Natural Variational Annealing for Multimodal Optimization</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">T. L. Minh, J. Arbel, T. Möllenhoff, M.E. Khan , F. Forbes</span>
-   [<a href="https://arxiv.org/abs/2501.04667" target="_blank">arXiv</a>]
+    <li>
+     <span class="title"> Variational Visual Question Answering</span>, <br>
+     <span class="conf">(Preprint)</span>
+     <span class="author">T.J. Wieczorek, N. Daun, M.E. Khan, M. Rohrbach</span>
+   [<a href="https://arxiv.org/abs/2505.09591" target="_blank">arXiv</a>]
    </li>
 
    <li>
@@ -39,14 +36,6 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    [<a href="https://arxiv.org/abs/2402.10506" target="_blank">arXiv</a>]
    </li>
 
-   <li>
-   <span class="title"> Variance-Aware Estimation of Kernel Mean Embedding</span>, <br>
-   <span class="conf">(Preprint)</span>
-   <span class="author">G. Wolfer, P. Alquier</span>
-   [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]
-   </li>
-
-
    </ul>
 
   <!-- <h2 class="w3-container w3-padding">In press / to appear </h2>
@@ -58,8 +47,13 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
   <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
 
-
-
+   <li>
+   <span class="title"> Variance-Aware Estimation of Kernel Mean Embedding</span>, <br>
+   <span class="conf">(<a href="https://jmlr.org/">JMLR</a>)</span>
+   <span class="author">G. Wolfer, P. Alquier</span>
+   [ <a href="https://www.jmlr.org/papers/v26/23-0161.html" target="_blank">Published version</a> ]
+   [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]
+   </li>
 
    <li>
    <span class="title"> Estimating the Data-Influence of Latent Variable Models using Variational Bayes</span>, <br>
