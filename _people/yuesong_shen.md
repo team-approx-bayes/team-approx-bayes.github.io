@@ -1,7 +1,7 @@
 ---
 title: Yuesong Shen
 type: alumni
-affliation: TU Munich
+affiliation: TU Munich
 excerpt: Intern // *Technical University of Munich*
 link: https://cvg.cit.tum.de/members/sheny
 rank: 7

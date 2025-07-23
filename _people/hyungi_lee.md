@@ -1,7 +1,7 @@
 ---
 title: Hyungi Lee
 type: alumni
-affliation: KAIST AI
+affiliation: KAIST AI
 excerpt: Intern // *KAIST AI*
 link: https://hyungi-lee.github.io/
 rank: 7

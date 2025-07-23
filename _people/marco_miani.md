@@ -1,7 +1,7 @@
 ---
 title: Marco Miani
 type: alumni
-affliation: Technical University of Denmark 
+affiliation: Technical University of Denmark 
 excerpt: Intern // *Technical University of Denmark*
 link: https://ilmiofrizzantinoamabile.github.io/about_me/
 rank: 7

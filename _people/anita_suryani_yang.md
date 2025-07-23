@@ -1,7 +1,7 @@
 ---
 title: Anita Yang
 type: member
-affliation: The University of Tokyo
+affiliation: The University of Tokyo
 excerpt: Part-Time Student // *The University of Tokyo*
 link: https://kklab.nii.ac.jp/members
 rank: 6

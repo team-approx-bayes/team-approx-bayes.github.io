@@ -1,7 +1,7 @@
 ---
 title: Adrian R. Minut
 type: alumni
-affliation: Sapienza, University of Rome
+affiliation: Sapienza, University of Rome
 excerpt: Intern // *Sapienza, University of Rome*
 link: https://gladia.di.uniroma1.it/authors/minut/
 rank: 7

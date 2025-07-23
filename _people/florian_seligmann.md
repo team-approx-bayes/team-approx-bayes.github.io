@@ -1,7 +1,7 @@
 ---
 title: Florian Seligmann
 type: alumni
-affliation: Karlsruhe Institute of Technology
+affiliation: Karlsruhe Institute of Technology
 excerpt: Intern // *Karlsruhe Institute of Technology*
 link: https://github.com/Feuermagier
 rank: 7

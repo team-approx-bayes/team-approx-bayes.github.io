@@ -1,7 +1,7 @@
 ---
 title: Masaki Adachi
 type: alumni
-affliation: University of Oxford
+affiliation: University of Oxford
 excerpt: Intern // *University of Oxford*
 link: https://www.masaki-adachi.com/
 rank: 7
