@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Team ApproxBayes
+title: Adaptive Bayesian Intelligence
 logo: assets/images/riken-transparent.png
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -24,7 +24,7 @@ github_username:
 search: false
 author_profile: true
 future: true #show future posts
-url: "https://team-approx-bayes.github.io"
+url: "https://adaptive-bayesian.ai"
 repository: "team-approx-bayes/team-approx-bayes.github.io"
 
 # Build settings
@@ -61,15 +61,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Approximate Bayesian Inference Team"
+  name   : "Adaptive Bayesian Intelligence Team"
   #avatar : "/assets/images/Riken_Logo.png"
   bio    : "
-  This is the webpage of the Approximate Bayesian Inference Team @ [AIP RIKEN](https://www.riken.jp/en/research/labs/aip/).
+  This is the webpage of the Adaptive Bayesian Intelligence Team @ [AIP RIKEN](https://www.riken.jp/en/research/labs/aip/).
   <br><br>
   The team goal is to develop algorithms that allow machines to autonomously learn, perceive and interact with the environment.
   <br><br>
   Our works focus on a diverse set of machine learning areas: approximate inference, online learning, deep learning, continual learning, active learning.
-  We develop novel bulding on top of a wide array of fields such as optimization, PAC-Bayesiaan statistics, information geometry and more.
+  We develop novel bulding on top of a wide array of fields such as optimization, PAC-Bayesian statistics, information geometry and more.
   <br><br>
   If you are interested in joining us, please check the news and the people page.
   <br>
@@ -78,7 +78,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/emtiyazkhan"
-    - label: "GitHub"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/team-approx-bayes"
 
@@ -87,7 +87,7 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/team-approx-bayes"
     - label: "Twitter"

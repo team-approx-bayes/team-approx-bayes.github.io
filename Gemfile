@@ -19,3 +19,5 @@ end
 
 gem "webrick", "~> 1.7"
 gem 'faraday-retry', '~> 2.2'
+
+gem "mutex_m", "~> 0.3.0"
