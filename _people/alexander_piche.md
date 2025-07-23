@@ -1,7 +1,7 @@
 ---
 title: Alexandre Piché
 type: alumni
-affliation: MILA
+affiliation: MILA
 excerpt: Remote Collaborator // *MILA*
 link: https://mila.quebec/en/person/alexandre-piche/
 rank: 7

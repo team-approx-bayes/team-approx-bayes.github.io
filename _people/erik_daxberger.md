@@ -1,7 +1,7 @@
 ---
 title: Erik Daxberger
 type: alumni
-affliation: University of Cambridge
+affiliation: University of Cambridge
 excerpt: Remote Collaborator // *University of Cambridge*
 link: https://edaxberger.github.io/
 rank: 7

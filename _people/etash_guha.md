@@ -1,7 +1,7 @@
 ---
 title: Etash Guha
 type: alumni
-affliation: Georgia Tech
+affiliation: Georgia Tech
 excerpt: Intern // *Georgia Tech*
 link: https://etash.me/
 rank: 7

@@ -1,7 +1,7 @@
 ---
 title: Paul Chang
 type: alumni
-affliation: Aalto University
+affiliation: Aalto University
 excerpt: Remote Collaborator // *Aalto University*
 link: https://edchangy11.github.io
 rank: 7

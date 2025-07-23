@@ -1,7 +1,7 @@
 ---
 title: Alexander Timans
 type: alumni
-affliation: University of Amsterdam
+affiliation: University of Amsterdam
 excerpt: Intern // *University of Amsterdam*
 link: https://alextimans.github.io
 rank: 7

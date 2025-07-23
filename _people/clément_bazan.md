@@ -1,7 +1,7 @@
 ---
 title: Clément Bazan
 type: alumni
-affliation: Tokyo Institute of Technology
+affiliation: Tokyo Institute of Technology
 excerpt: Intern // *Tokyo Institute of Technology*
 link: https://www.rio.gsic.titech.ac.jp/jp/member/index.html
 rank: 7

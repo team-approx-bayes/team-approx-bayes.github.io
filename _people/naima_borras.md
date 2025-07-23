@@ -1,7 +1,7 @@
 ---
 title: Naima Elosegui Borras
 type: alumni
-affliation: ETH Zürich
+affiliation: ETH Zürich
 excerpt: Intern // *ETH Zürich*
 link: https://www.linkedin.com/in/naima-elosegui-borras-a19aa019a/
 rank: 7

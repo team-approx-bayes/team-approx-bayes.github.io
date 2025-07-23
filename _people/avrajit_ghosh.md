@@ -1,7 +1,7 @@
 ---
 title: Avrajit Ghosh
 type: alumni
-affliation: Michigan State University 
+affiliation: Michigan State University 
 excerpt: Intern // *Michigan State University*
 link: https://sites.google.com/view/avrajitghosh
 rank: 7

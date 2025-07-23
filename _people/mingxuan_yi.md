@@ -1,7 +1,7 @@
 ---
 title: Mingxuan Yi
 type: alumni
-affliation: University of Bristol
+affiliation: University of Bristol
 excerpt: Intern // *University of Bristol*
 link: https://mingxuan-yi.github.io/
 rank: 7

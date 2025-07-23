@@ -1,7 +1,7 @@
 ---
 title: Wu Lin
 type: alumni
-affliation: UBC
+affiliation: UBC
 excerpt: PhD Student // *University of British Columbia*
 link: https://yorkerlin.github.io
 rank: 7

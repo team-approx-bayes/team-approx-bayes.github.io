@@ -1,7 +1,7 @@
 ---
 title: Wenlong Chen
 type: alumni
-affliation: Imperial College London
+affiliation: Imperial College London
 excerpt: Intern // *Imperial College London*
 link: https://chenw20.github.io/wenlongchen.github.io/
 rank: 7

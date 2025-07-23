@@ -1,7 +1,7 @@
 ---
 title: Peter Nickl
 type: alumni
-affliation: TU Darmstadt
+affiliation: TU Darmstadt
 excerpt: Remote Collaborator // *TU Darmstadt*
 rank: 7
 date: 2020-09-01 00:00:00
