@@ -13,7 +13,42 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
 
+   <li>
+   <span class="title">Knowledge Adaptation as Posterior Correction</span>, <br>
+   <span class="author">M.E. Khan</span>
+   [ <a href="https://arxiv.org/abs/2506.14262" target="_blank">ArXiv</a> ] <br>
+   </li>
 
+   <li>
+   <span class="title">Log-Normal Multiplicative Dynamics for Stable Low-Precision Training of Large Networks
+   </span>, <br>
+   <span class="author">K. Nishida, E. M. Kıral, K. Bannai</span>, <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff
+   [ <a href="https://arxiv.org/abs/2506.17768" target="_blank">ArXiv</a> ] <br>
+   </span></li>
+
+   <li>
+   <span class="title">Improving LoRA with Variational Learning</span>, <br>
+   <span class="author">B. Cong, N. Daheim, Y. Shen, R. Yokota</span>, <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff
+   [ <a href="https://arxiv.org/abs/2506.14280" target="_blank">ArXiv</a> ] <br>
+   </span></li>
+
+   <li>
+   <span class="title">Federated ADMM from Bayesian Duality</span>, <br>
+   <span class="author">T. Möllenhoff, S. Swaroop, F. Doshi-Velez, </span> <span class="author">M.E. Khan</span>,
+   [ <a href="https://arxiv.org/abs/2506.13150" target="_blank">ArXiv</a> ] <br>
+   </li>
+
+   <li>
+   <span class="title">Variational Learning Finds Flatter Solutions at the Edge of Stability</span>, <br>
+   <span class="author"> A. Ghosh, B. Cong, R. Yokota, S. Ravishankar, R. Wang, M. Tao, </span> <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff</span>
+   [ <a href="https://arxiv.org/abs/2506.12903" target="_blank">ArXiv</a> ] <br>
+   </li>
+
+   <li>
+   <span class="title">Natural Variational Annealing for Multimodal Optimization</span>, <br>
+   <span class="author"> T. L. Minh, J. Arbel, T. Möllenhoff,</span> <span class="author">M.E. Khan</span>  <span class="author">, F. Forbes</span>
+   [ <a href="https://arxiv.org/abs/2501.04667" target="_blank">ArXiv</a> ] <br>
+   </li>
 
     <li>
      <span class="title"> Variational Visual Question Answering</span>, <br>
@@ -48,6 +83,13 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
    <li>
+   <span class="title">Optimization Guarantees for Square-Root Natural-Gradient Variational Inference</span>, <br>
+   <span class="conf">(<a href="https://openreview.net/forum?id=OMOFmb6ve7" target="_blank">TMLR 2025</a>)</span>
+   <span class="author">N. Kumar, T. Moellenhoff</span>, <span class="author">M.E. Khan</span>, <span class="author">A. Lucchi</span>
+   [ <a href="https://openreview.net/forum?id=OMOFmb6ve7" target="_blank">OpenReview</a> ]<br>
+   </li>
+
+   <li>
    <span class="title"> Variance-Aware Estimation of Kernel Mean Embedding</span>, <br>
    <span class="conf">(<a href="https://jmlr.org/">JMLR</a>)</span>
    <span class="author">G. Wolfer, P. Alquier</span>
@@ -59,7 +101,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="title"> Estimating the Data-Influence of Latent Variable Models using Variational Bayes</span>, <br>
    <span class="conf">(To appear at  AABI 2025)</span>
    <span class="author">D. Tailor,  M. E. Khan, E. Nalisnick </span>
-   [<a href="https://openreview.net/pdf?id=Un841I3S29" target="_blank">OpenReview</a>]	   
+   [<a href="https://openreview.net/pdf?id=Un841I3S29" target="_blank">OpenReview</a>]
    </li>
 
 
@@ -95,7 +137,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="author">S. Swaroop, M.E. Khan, F. Doshi-Velez</span>
    [<a href="https://openreview.net/forum?id=ipQrjRsl11" target="_blank">OpenReview</a>]
    </li>
-   
+
    <li>
    <span class="title"> Uncertainty-Aware Decoding with Minimum Bayes’ Risk</span>, <br>
    <span class="conf">(<a href="https://www.iclr.cc/Conferences/2025" target="_blank">ICLR 2025</a>)</span>
@@ -110,14 +152,14 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <li>
       <span class="title">Variational Low-Rank Adaptation Using IVON</span>, <br>
        <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a> at NeurIPS 2024)</span>
-      <span class="author"> B. Cong, N. Daheim, Y. Shen, D. Cremers, R. Yokota, M.E. Khan, T. Möllenhoff</span> 
+      <span class="author"> B. Cong, N. Daheim, Y. Shen, D. Cremers, R. Yokota, M.E. Khan, T. Möllenhoff</span>
       [<a href="https://openreview.net/forum?id=nRD5uZa2fe" target="_blank">OpenReview</a>]
       [<a href="https://github.com/team-approx-bayes/ivon-lora" target="_blank">Code</a>]<br>
    </li>
 
    <li>
    <span class="title"> Geometric Aspects of Data-Processing of Markov Chains</span>, <br>
-   <span class="conf">(<a href="https://academic.oup.com/imatrm" target="_blank">Transactions of Mathematics and Its Applications</a>)</span> 
+   <span class="conf">(<a href="https://academic.oup.com/imatrm" target="_blank">Transactions of Mathematics and Its Applications</a>)</span>
    <span class="author">G. Wolfer, S. Watanabe</span>
     [<a href="https://academic.oup.com/imatrm/article/8/1/tnae001/7676444" target="_blank">Published version</a>]
    [<a href="https://arxiv.org/abs/2203.04575" target="_blank">arXiv</a>]
@@ -148,7 +190,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <li>
          <span class="title">Model Merging by Uncertainty-Based Gradient Matching</span>, <br>
 		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
-         <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych, M.E. Khan</span>    
+         <span class="author"> N. Daheim, T. Möllenhoff, E. M. Ponti, I. Gurevych, M.E. Khan</span>
          [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
 	      [<a href="https://github.com/UKPLab/iclr2024-model-merging" target="_blank">Code</a>]
 	   <br>
@@ -157,7 +199,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <li>
       <span class="title">Conformal Prediction via Regression-as-Classification</span>,   <br>
          <span class="conf">(<a href="https://iclr.cc/Conferences/2024" target="_blank">ICLR 2024</a>)</span>
-         <span class="author"> E. K. Guha, S. Natarajan, T. Möllenhoff, M.E. Khan, E. Ndiaye</span> 
+         <span class="author"> E. K. Guha, S. Natarajan, T. Möllenhoff, M.E. Khan, E. Ndiaye</span>
       [<a href="https://openreview.net/forum?id=rulxyXjf46" target="_blank">OpenReview</a>] [<a href="https://arxiv.org/abs/2404.08168" target="_blank">ArXiv</a>] [<a href="https://github.com/EtashGuha/R2CCP" target="_blank">Code</a>]  [<a href="https://pypi.org/project/R2CCP/" target="_blank">Package</a>]<br>
    </li>
    </ul>
@@ -169,7 +211,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
         <span class="title">Improving Continual Learning by Accurate Gradient Reconstructions of the Past</span>, <br>
         <span class="conf">(<a href="https://jmlr.org/tmlr/">TMLR</a>)</span>
         <span class="author"> E. Daxberger, S. Swaroop, K. Osawa,
-        R. Yokota, R. turner, J. M. Hernández-Lobato, M.E. Khan</span>    
+        R. Yokota, R. turner, J. M. Hernández-Lobato, M.E. Khan</span>
         [ <a href="https://openreview.net/forum?id=b1fpfCjja1" target="_blank">OpenReview</a> ] [ <a href="https://github.com/team-approx-bayes/ewc-fr-replay" target="_blank">Code</a> ]<br>
      </li>
 
@@ -185,10 +227,10 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
         <span class="title">The Memory Perturbation Equation: Understanding Model’s Sensitivity to Data</span>, <br>
         <span class="conf">(<a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2023</a>)</span>
         <span class="author"> P. Nickl, L. Xu, D. Tailor,
-        T. Möllenhoff, M.E. Khan</span>    
-        [ <a href="https://arxiv.org/abs/2310.19273" target="_blank">arXiv</a> ] 
+        T. Möllenhoff, M.E. Khan</span>
+        [ <a href="https://arxiv.org/abs/2310.19273" target="_blank">arXiv</a> ]
         [ <a href="https://recorder-v3.slideslive.com/#/share?share=86527&s=19810919-a1df-47e2-b7b9-5ea739824099" target="_blank">SlidesLive Video</a> ]
-        [ <a href="https://pnickl.github.io/docs/mpe_neurips23.pdf" target="_blank">Poster</a>] 
+        [ <a href="https://pnickl.github.io/docs/mpe_neurips23.pdf" target="_blank">Poster</a>]
 	    [<a href="https://github.com/team-approx-bayes/memory-perturbation" target="_blank">Code</a>]
      </li>
 
@@ -196,14 +238,14 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
          <span class="title">Bridging the Gap Between Target Networks and Functional Regularization</span>, <br>
          <span class="conf">(<a href="https://jmlr.org/tmlr/">TMLR</a>)</span>
          <span class="author"> A. Piché, V. Thomas, R. Pardinas,
-         J. Marino, G. M. Marconi, C. Pal, M.E. Khan</span>    
+         J. Marino, G. M. Marconi, C. Pal, M.E. Khan</span>
          [ <a href="https://openreview.net/forum?id=BFvoemrmqX" target="_blank">Openreview</a> ]
       </li>
 
       <li>
          <span class="title">Variational Bayes Made Easy</span>, <br>
          <span class="conf">(<a href="http://approximateinference.org/" target="_blank">AABI 2023</a>)</span>
-         <span class="author">M.E. Khan</span>   
+         <span class="author">M.E. Khan</span>
          [<a href="https://arxiv.org/abs/2304.14251" target="_blank">arXiv</a>]<br>
       </li>
 
@@ -236,7 +278,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
       <span class="author">G. Wolfer, A. Kontorovich</span>
       [<a href="https://doi.org/10.1016/bs.host.2023.06.005" target="_blank">Journal version</a>]
    </li>
-   
+
    <li>
    <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
       <span class="conf">(<a href="https://www.auai.org/uai2023/" target="_blank">UAI 2023</a>)</span>
@@ -282,7 +324,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <li>
    <span class="title">Memory-Based Dual Gaussian Processes for Sequential Learning</span>, <br>
    <span class="conf">(<a href="https://icml.cc/Conferences/2023" target="_blank">ICML 2023</a>)</span>
-   <span class="author"></span>P. E. Chang, P. Verma, S. T. John, A. Solin, M.E. Khan</span>  
+   <span class="author"></span>P. E. Chang, P. Verma, S. T. John, A. Solin, M.E. Khan</span>
    <!--[ <a href="https://arxiv.org/abs/2302.09738" target="_blank">ArXiv</a> ]<br>-->
    </li>
 
@@ -307,7 +349,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <span class="title"> SAM as an Optimal Relaxation of Bayes</span>, <br>
    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2023</a>)</span>
    <span class="author">T. Möllenhoff, M. E. Khan</span>
-   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>] 
+   [<a href="https://arxiv.org/abs/2210.01620" target="_blank">arXiv</a>]
    [<a href="https://github.com/team-approx-bayes/bayesian-sam" target="_blank">Code</a>] <br>
    <b>Notable top-5% of all accepted papers.</b> <br>
    </li>
@@ -320,7 +362,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <li>
    <span class="title">Sequential Learning in GPs with Memory and Bayesian Leverage Score</span>, <br>
    <span class="conf">(<a href="https://continual-lifelong-learners.github.io/" target="_blank">Continual Lifelong Workshop</a> at ACML 2022)</span>
-   <span class="author">P. Verma, P. E. Chang, A. Solin</span>, <span class="author">M.E. Khan</span>   
+   <span class="author">P. Verma, P. E. Chang, A. Solin</span>, <span class="author">M.E. Khan</span>
    [ <a href="https://openreview.net/forum?id=_RvQKPW8ZCp" target="_blank">OpenReview</a> ]<br>
    </li>
 
@@ -336,7 +378,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <li>
    <span class="title">Practical Structured Riemannian Optimization with Momentum by using Generalized Normal Coordinates</span>, <br>
    <span class="conf">(<a href="https://www.neurreps.org/" target="_blank">NeuReps Workshop</a> at NeurIPS 2022)</span>
-   <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan</span>, <span class="author">M. Schmidt</span>   
+   <span class="author">W. Lin, V. Duruisseaux, M. Leok, F. Nielsen, M.E. Khan</span>, <span class="author">M. Schmidt</span>
    [ <a href="https://openreview.net/forum?id=1aybhSfabqh" target="_blank">OpenReview</a> ]<br>
    </li>
 
@@ -350,7 +392,7 @@ Sec. Statistical and Computational Physics</a>)</span>
    <li>
    <span class="title">Exploiting Inferential Structure in Neural Processes</span>, <br>
    <span class="conf">(<a href="https://tractable-probabilistic-modeling.github.io/tpm2022/" target="_blank">Workshop on Tractable Probabilistic Modeling</a> at UAI 2022 )</span>
-   <span class="author">D. Tailor, M.E. Khan, E. Nalisnick</span>   
+   <span class="author">D. Tailor, M.E. Khan, E. Nalisnick</span>
    [ <a href="https://openreview.net/forum?id=LTo3tkIPvSh" target="_blank">OpenReview</a> ] [<a href="https://www.youtube.com/watch?v=jKEf_R-fCQ8&feature=youtu.be" target="_blank">Video</a>] [<a href="https://dvtailor.github.io/docs/tpm_poster.pdf" target="_blank">Poster</a>]<br>
    </li>
 
@@ -390,7 +432,7 @@ Sec. Statistical and Computational Physics</a>)</span>
        <span class="conf">(<a href="http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal" target="_blank">Bernoulli</a>)</span>
        <span class="author">B.E. Chérief-Abdellatif, P. Alquier</span>
        [<a href="https://doi.org/10.3150/21-BEJ1338" target="_blank">Published version</a>]
-       [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>] 
+       [<a href="https://arxiv.org/abs/1912.05737" target="_blank">arXiv</a>]
   </li>
 
    </ul>
@@ -414,7 +456,7 @@ Sec. Statistical and Computational Physics</a>)</span>
          <span class="author">P. Chang, V. Adam, M.E. Khan, A. Solin</span>
          [<a href="https://proceedings.neurips.cc/paper/2021/hash/5fcc629edc0cfa360016263112fe8058-Abstract.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/2111.03412" target="_blank">arXiv</a>]
-         [<a href="https://github.com/AaltoML/t-SVGP" target="_blank&quot;">Code</a>]    
+         [<a href="https://github.com/AaltoML/t-SVGP" target="_blank&quot;">Code</a>]
       </li>
 
 
@@ -429,10 +471,10 @@ Sec. Statistical and Computational Physics</a>)</span>
    <li>
          <span class="title">Subset-of-Data Variational Inference for Deep Gaussian-Process Regression</span>, <br>
          <span class="conf">(<a href="https://auai.org/uai2021/accepted_papers" target="_blank">UAI 2021</a>)</span>
-         <span class="author"> A. Jain, P.K. Srijith, </span><span class="author">M.E. Khan</span>, 
+         <span class="author"> A. Jain, P.K. Srijith, </span><span class="author">M.E. Khan</span>,
 	  [<a href="https://proceedings.mlr.press/v161/jain21a.html" target="_blank">Published version</a>]
           [<a href="https://arxiv.org/abs/2107.08265" target="_blank">arXiv</a>]
-          [<a href="https://github.com/brain-iith/SOD_DGP" target="_blank&quot;">Code</a>]  
+          [<a href="https://github.com/brain-iith/SOD_DGP" target="_blank&quot;">Code</a>]
    </li>
 
    <li>
@@ -443,7 +485,7 @@ Sec. Statistical and Computational Physics</a>)</span>
      [<a href="https://arxiv.org/abs/2104.04975" target="_blank">arXiv</a>]
      [<a href="https://github.com/AlexImmer/marglik" target="_blank&quot;">Code</a>]
    </li>
-   
+
      <li>
        <span class="title"> Tractable Structured Natural Gradient Descent Using Local Parameterizations</span>, <br>
        <span class="conf">(<a href="http://proceedings.mlr.press/v139/" target="_blank">ICML 2021</a>)</span>
@@ -526,7 +568,7 @@ Sec. Statistical and Computational Physics</a>)</span>
       <li>
          <span class="title">High-dimensional VAR with low-rank transition</span>, <br>
          <span class="conf">(<a href="https://link.springer.com/journal/11222/volumes-and-issues/30-4" target="_blank">Statistics and Computing</a>)</span>
-         <span class="author">P. Alquier, K. Bertin, P. Doukhan, R. Garnier</span>   
+         <span class="author">P. Alquier, K. Bertin, P. Doukhan, R. Garnier</span>
          [<a href="https://doi.org/10.1007/s11222-020-09929-7" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/1905.00959" target="_blank">arXiv</a>]
       </li>
@@ -535,7 +577,7 @@ Sec. Statistical and Computational Physics</a>)</span>
          <span class="title">AI for Social Good: Unlocking the Opportunity for Positive Impact</span>, <br>
          <span class="conf">(<a href="https://www.nature.com/ncomms/" target="_blank">Nature Communications</a> 2020)</span>
          <span class="author"> with Nenad Tomašev and many others </span> <br>
-         <!--<span class="author"> Nenad Tomašev, Julien Cornebise, Frank Hutter, Shakir Mohamed, Angela Picciariello, Bec Connelly, Danielle Belgrave, Daphne Ezer, Fanny Cachat van der Haert, Frank Mugisha, Gerald Abila, Hiromi Arai, Hisham Almiraat, Julia Proskurnia, Kyle Snyder, Mihoko Otake-Matsuura, Mustafa Othman, Tobias Glasmachers, Wilfried de Wever, Yee Whye Teh, Mohammad Emtiyaz Khan, Ruben De Winne, Tom Schaul, and Claudia Clopath </span> -->    
+         <!--<span class="author"> Nenad Tomašev, Julien Cornebise, Frank Hutter, Shakir Mohamed, Angela Picciariello, Bec Connelly, Danielle Belgrave, Daphne Ezer, Fanny Cachat van der Haert, Frank Mugisha, Gerald Abila, Hiromi Arai, Hisham Almiraat, Julia Proskurnia, Kyle Snyder, Mihoko Otake-Matsuura, Mustafa Othman, Tobias Glasmachers, Wilfried de Wever, Yee Whye Teh, Mohammad Emtiyaz Khan, Ruben De Winne, Tom Schaul, and Claudia Clopath </span> -->
          [<a href="https://doi.org/10.1038/s41467-020-15871-z" target="_blank">Paper</a>]
          [<a href="https://t.co/Lg6qXxNIBg?amp=1" target="_blank">Declaration on AI2SG</a>]
          [<a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19082" target="_blank">Dagstuhl AI4SG 2019</a>]
@@ -545,7 +587,7 @@ Sec. Statistical and Computational Physics</a>)</span>
          <span class="title">Training Binary Neural Networks using the Bayesian Learning Rule</span>, <br>
          <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
          <span class="author"> X. Meng, R. Bachmann, M.E. Khan</span>
-	 [<a href="http://proceedings.mlr.press/v119/meng20a.html" target="_blank">Published version</a>] 
+	 [<a href="http://proceedings.mlr.press/v119/meng20a.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/2002.10778" target="_blank">arXiv</a>] [<a href="https://github.com/team-approx-bayes/BayesBiNN" target="_blank&quot;">Code</a>]
       </li>
 
@@ -553,7 +595,7 @@ Sec. Statistical and Computational Physics</a>)</span>
          <span class="title">Handling the Positive-Definite Constraint in the Bayesian Learning Rule</span>, <br>
          <span class="conf">(<a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial" target="_blank">ICML 2020</a>)</span>
          <span class="author"> W. Lin, M. Schmidt, M.E. Khan</span>
-	 [<a href="http://proceedings.mlr.press/v119/lin20d.html" target="_blank">Published version</a>] 
+	 [<a href="http://proceedings.mlr.press/v119/lin20d.html" target="_blank">Published version</a>]
          [<a href="https://arxiv.org/abs/2002.10060" target="_blank">arXiv</a>]
          [<a href="https://github.com/yorkerlin/iBayesLRule" target="_blank&quot;">Code</a>]
       </li>
@@ -577,7 +619,7 @@ Sec. Statistical and Computational Physics</a>)</span>
       <li>
         <span class="title">Exact Recovery of Low-rank Tensor Decomposition under Reshuffling</span>, <br>
         <span class="conf">(<a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>)</span>
-        <span class="author">C. Li, M.E. Khan</span>, <span class="author"> Z. Sun, G. Niu, B. Han, S. Xie, Q. Zhao</span>   
+        <span class="author">C. Li, M.E. Khan</span>, <span class="author"> Z. Sun, G. Niu, B. Han, S. Xie, Q. Zhao</span>
         [<a href="https://arxiv.org/abs/1805.08465" target="_blank">arXiv</a>]
       </li>
 
@@ -672,24 +714,24 @@ Sec. Statistical and Computational Physics</a>)</span>
       [<a href="papers/nvcl.pdf" target="_blank">Paper</a>].
       </li>
 
-      <li>  
+      <li>
       <span class="title">Fast yet Simple Natural-Gradient Descent for Variational Inference in Complex Models</span>, <br>
     <span class="conf">(<a href="http://www.isita.ieice.org/2018/home.html" target="_blank">ISITA 2018</a>)</span>
-         <span class="author">M.E. Khan and D. Nielsen</span>,   
+         <span class="author">M.E. Khan and D. Nielsen</span>,
          [<a href="https://arxiv.org/abs/1807.04489" target="_blank">arXiv</a>] [<a href="https://doi.org/10.23919/ISITA.2018.8664326" target="_blank">IEEE explore</a>]  [<a href="papers/isita2018_slides.pdf" target="_blank">Slides</a>]
       </li>
 
-      <li>  
+      <li>
       <span class="title">Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam</span>, <br>
     <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML 2018</a>)</span>
-         <span class="author">M.E. Khan, D. Nielsen, V. Tangkaratt, W. Lin, Y. Gal, and A. Srivastava</span>,   
+         <span class="author">M.E. Khan, D. Nielsen, V. Tangkaratt, W. Lin, Y. Gal, and A. Srivastava</span>,
          [<a href="http://proceedings.mlr.press/v80/khan18a.html" target="_blank"> Published version</a>]
          [<a href="https://arxiv.org/abs/1806.04854" target="_blank">arXiv</a>]
          [<a href="https://github.com/emtiyaz/vadam/" target="_blank">Code</a>]
          [<a href="papers/icml2018_slides.pdf" target="_blank">Slides</a>]
       </li>
 
-      <li>  
+      <li>
       <span class="title">Variational Message Passing with Structured Inference Networks</span>, <br>
     <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2018</a>)</span>
          <span class="author"> W. Lin, N. Hubacher, and M.E. Khan</span>,
@@ -697,7 +739,7 @@ Sec. Statistical and Computational Physics</a>)</span>
          [<a href="http://arxiv.org/abs/1803.05589" target="_blank">arXiv Version</a>]
          [<a href="https://github.com/emtiyaz/vmp-for-svae/" target="_blank">Code</a>]
       </li>
-     <li>  
+     <li>
       <span class="title">Bayesian Nonparametric Poisson-Process Allocation for Time-Sequence Modeling</span>, <br>
     <span class="conf">(<a href="http://www.aistats.org/" target="_blank">AI-Stats 2018</a>)</span>
     <span class="author"> H. Ding, M.E. Khan</span>, <span class="author">I. sato, M. Sugiyama</span>,
