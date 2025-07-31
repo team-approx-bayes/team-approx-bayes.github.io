@@ -8,7 +8,7 @@ rank: 7
 date: 2025-01-06 00:00:00
 date_leave: 2025-04-02 00:00:00
 header:
-  teaser: /assets/images/alexander_timans.jpg
+  teaser: /assets/images/people/alexander_timans.jpg
 ---
 
 Hi my name is Alex.

@@ -8,7 +8,7 @@ date: 2021-11-01 00:00:00
 date_leave: 2023-12-31 00:00:00
 wentto: Postdoc at University of Hong Kong
 header:
-  teaser: /assets/images/Lu_120x120.jpg
+  teaser: /assets/images/people/Lu_120x120.jpg
 ---
 
 Hi my name is Lu Xu.

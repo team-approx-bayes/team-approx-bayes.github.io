@@ -7,7 +7,7 @@ link: https://kklab.nii.ac.jp/members
 rank: 6
 date: 2024-05-07 00:00:00
 header:
-  teaser: /assets/images/anita_200.png
+  teaser: /assets/images/people/anita_200.png
 ---
 
 Hi my name is anita.

@@ -8,7 +8,7 @@ rank: 7
 date: 2024-12-18
 date_leave: 2025-04-14 00:00:00
 header:
-  teaser: /assets/images/rin_intachuen.png
+  teaser: /assets/images/people/rin_intachuen.png
 ---
 
 Hi my name is Rin.
