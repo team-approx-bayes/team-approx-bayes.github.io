@@ -121,6 +121,11 @@ If you are interested in joining us, please [check the news](../news/) for open 
 <br>
 <h1>Group Photos</h1>
 
+<h2> Deep Learning Workshop -- After Prof. Shun-ichi Amari's talk, March 2024 </h2>
+<img src="../assets/images/group/2024-DLWorkshop.jpg" alt="team photo" width="450" height="600">
+
+<br><br>
+
 <h2> Thomas's Promotion Party, March 2025 </h2>
 <img src="../assets/images/group/thomas_promote.jpg" alt="team photo" width="450" height="600">
 
