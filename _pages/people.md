@@ -122,17 +122,23 @@ If you are interested in joining us, please [check the news](../news/) for open 
 <h1>Group Photos</h1>
 
 <h2> Deep Learning Workshop -- After Prof. Shun-ichi Amari's talk, March 2024 </h2>
-<img src="../assets/images/group/2024-DLWorkshop.jpg" alt="team photo" width="450" height="600">
 
+<img src="../assets/images/group/2024-DLWorkshop.jpg" alt="team photo" width="45%">
+<br><br>
+
+<h2> Bayes Duality Workshop in Atami, 2025 </h2>
+
+<img src="../assets/images/group/2025-bayes-duality-atami.jpg" alt="team photo" width="45%">
 <br><br>
 
 <h2> Thomas's Promotion Party, March 2025 </h2>
-<img src="../assets/images/group/thomas_promote.jpg" alt="team photo" width="450" height="600">
 
+<img src="../assets/images/group/thomas_promote.jpg" alt="team photo" width="45%">
 <br><br>
 
-<h2> 2024 AIP Retreat, March 2025 </h2>
+<h2> AIP Retreat, 2024 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="../assets/images/group/2024retreat_1.jpg" alt="team photo" width="450" height="600">
-  <img src="../assets/images/group/2024retreat_2.jpg" alt="team photo" width="450" height="600">
+  <img src="../assets/images/group/2024retreat_1.jpg" alt="team photo" width="45%">
+  <img src="../assets/images/group/2024retreat_2.jpg" alt="team photo" width="45%">
 </div>
+<br><br>
