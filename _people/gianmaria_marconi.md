@@ -8,7 +8,7 @@ date: 2020-08-01 00:00:00
 date_leave: 2023-08-31 00:00:00
 wentto: Woven (Toyota)
 header:
-  teaser: /assets/images/gianma_propic.jpg
+  teaser: /assets/images/people/gianma_propic.jpg
 ---
 
 Hi my name is Gian Maria.

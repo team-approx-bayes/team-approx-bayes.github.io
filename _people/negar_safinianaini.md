@@ -8,6 +8,6 @@ date: 2022-11-01 00:00:00
 date_leave: 2023-05-31 00:00:00
 wentto: Postdoc at Aalto University
 header:
-  teaser: /assets/images/negar.jpeg
+  teaser: /assets/images/people/negar.jpeg
 ---
 

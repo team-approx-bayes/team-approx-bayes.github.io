@@ -8,7 +8,7 @@ rank: 7
 date: 2024-04-22 00:00:00
 date_leave: 2024-07-27 00:00:00
 header:
-  teaser: /assets/images/clément_bazan_200.png
+  teaser: /assets/images/people/clément_bazan_200.png
 ---
 
 Hi my name is Clément.

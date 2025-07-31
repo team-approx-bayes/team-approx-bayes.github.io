@@ -6,7 +6,7 @@ link: http://alab.psych.wisc.edu/
 rank: 8
 date: 2023-09-01 00:00:00
 header:
-  teaser: /assets/images/joe_200.jpg
+  teaser: /assets/images/people/joe_200.jpg
 ---
 
 Hi my name is Pierre.

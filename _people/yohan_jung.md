@@ -6,7 +6,7 @@ link: https://e2ee22.github.io/
 rank: 4
 date: 2024-07-01 00:00:00
 header:
-  teaser: /assets/images/yohan_jung_200.png
+  teaser: /assets/images/people/yohan_jung_200.png
 ---
 
 Hi my name is Yohan.

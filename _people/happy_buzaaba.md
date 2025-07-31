@@ -9,7 +9,7 @@ date: 2020-07-01 00:00:00
 date_leave: 2023-08-31 00:00:00
 wentto: Postdoc at Princeton University
 header:
-  teaser: /assets/images/happy_buzaaba.jpg
+  teaser: /assets/images/people/happy_buzaaba.jpg
 ---
 
 Hi my name is Happy.

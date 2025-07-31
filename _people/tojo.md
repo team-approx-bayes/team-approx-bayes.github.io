@@ -7,5 +7,5 @@ rank: 7
 date: 2022-02-31 00:00:00
 date_leave: 2022-06-01 00:00:00
 header:
-  teaser: /assets/images/Tojo.png
+  teaser: /assets/images/people/Tojo.png
 ---
