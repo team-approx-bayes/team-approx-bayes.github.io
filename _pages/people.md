@@ -96,6 +96,28 @@ If you are interested in joining us, please [check the news](../news/) for open 
 </table>
 <br>
 <!--  -->
+<h2> Part-Time Students </h2>
+<table class="responsive-table table" font-size="1em">
+  <tr>
+    <th>Name</th>
+    <th>Dates</th>
+    <th>Affiliation</th>
+    <th>Next Destination</th>
+  </tr>
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
+  {% for post in alumni %}
+    {% if post.rank == 6 %}
+      <tr>
+        <td>{{ post.title }}</td>
+        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
+        <td>{{post.affiliation}}</td>
+        <td>{{post.wentto}}</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+</table>
+<br>
+<!--  -->
 <h2>Interns / Trainees / Remote Collaborators / Rotation Students </h2>
 <table class="responsive-table table" font-size="1em">
   <tr>
