@@ -68,39 +68,30 @@ are written with a general audience in mind and aim to provide an accessible int
   {% endif %}
 {% endfor %}
 
-# Talks
-
-## Talks by our Team Members
+# Videos
 
 <div class="w3-container">
 <ul class="w3-ul">
+     <li>
+	    [June 27th, 2025]
+        <span class="title">The 3rd Bayes-Duality Workshop 2025: Day 3</span>
+        [<a href="https://www.youtube.com/watch?v=wwR8O38jGH4" target="_blank">Video</a>]
+     </li>
+     <li>
+	    [June 26th, 2025]
+        <span class="title">The 3rd Bayes-Duality Workshop 2025: Day 2</span>
+        [<a href="https://www.youtube.com/watch?v=WMZImIQ14Lk" target="_blank">Video</a>]
+     </li>
+     <li>
+	    [June 25th, 2025]
+        <span class="title">The 3rd Bayes-Duality Workshop 2025: Day 1</span>
+        [<a href="https://www.youtube.com/watch?v=Ly5fPJQY5zM" target="_blank">Video</a>]
+     </li>
      <li>
         [July 30th, 2024] <a href="https://emtiyaz.github.io/" target="_blank">Emtiyaz Khan</a>:
         <span class="title">Keynote at the <a href="https://lifelong-ml.cc/" target="_blank">3rd Conference on Lifelong Learning Agents (CoLLAs) 2024</a></span>,
         [<a href="https://emtiyaz.github.io/papers/July30_2024_CoLLAs.pdf" target="_blank">Slides</a>]
 	    [<a href="https://youtu.be/_49ydwCrhVk?feature=shared" target="_blank">Video</a>]
-     </li>
-</ul>
-</div>
-
-## The 3rd Bayes-Duality Workshop 2025: Invited Talks at RIKEN AIP Nihonbashi
-
-<div class="w3-container">
-<ul class="w3-ul">
-     <li>
-	    [June 25th, 2025]
-        <span class="title">Part I</span>
-        [<a href="https://www.youtube.com/watch?v=Ly5fPJQY5zM" target="_blank">Video</a>]
-     </li>
-     <li>
-	    [June 26th, 2025]
-        <span class="title">Part II</span>
-        [<a href="https://www.youtube.com/watch?v=WMZImIQ14Lk" target="_blank">Video</a>]
-     </li>
-     <li>
-	    [June 27th, 2025]
-        <span class="title">Part III</span>
-        [<a href="https://www.youtube.com/watch?v=wwR8O38jGH4" target="_blank">Video</a>]
      </li>
 </ul>
 </div>
