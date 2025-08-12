@@ -96,6 +96,23 @@ are written with a general audience in mind and aim to provide an accessible int
 </ul>
 </div>
 
+{% assign talks = site.talks | where: "category", "member" | sort: "date" %}
+
+<div class="w3-container">
+<ul class="w3-ul">
+{% for talk in talks %}
+ <li>
+   [{{ talk.date | date: "%b %d, %y" }}]
+ <a href="{{talk.speaker.url}}" target="_blank">{{talk.speaker.name}}</a>:
+    <span class="title">{{talk.title}} at <a href="{{talk.location.url}}" target="_blank">{{talk.location.name}}</a>
+    [<a href="{{talk.slides}}" target="_blank">Slides</a>]
+    [<a href="{{talk.video.url}}" target="_blank">Video</a>]
+ </li>
+{% endfor %}
+
+</ul>
+</div>
+
 # Code
 Here we list research code that has been open-sourced to accompany recent publications. Our team's github homepage: [https://github.com/team-approx-bayes](https://github.com/team-approx-bayes).
 
