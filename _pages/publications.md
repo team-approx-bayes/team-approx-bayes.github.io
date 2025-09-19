@@ -38,11 +38,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    [ <a href="https://arxiv.org/abs/2506.13150" target="_blank">ArXiv</a> ] <br>
    </li>
 
-   <li>
-   <span class="title">Variational Learning Finds Flatter Solutions at the Edge of Stability</span>, <br>
-   <span class="author"> A. Ghosh, B. Cong, R. Yokota, S. Ravishankar, R. Wang, M. Tao, </span> <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff</span>
-   [ <a href="https://arxiv.org/abs/2506.12903" target="_blank">ArXiv</a> ] <br>
-   </li>
+
 
    <li>
    <span class="title">Natural Variational Annealing for Multimodal Optimization</span>, <br>
@@ -81,6 +77,21 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
   <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
+
+  <li>
+   <span class="title">Variational Learning Finds Flatter Solutions at the Edge of Stability</span>, <br>
+      <span class="conf">(NeurIPS 2025)</span>
+   <span class="author"> A. Ghosh, B. Cong, R. Yokota, S. Ravishankar, R. Wang, M. Tao, </span> <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff</span> <br>
+   [ <a href="https://arxiv.org/abs/2506.12903" target="_blank">ArXiv version</a> ] 
+   <b>Spotlight presentation (top 688 out of 21575 submissions)</b> <br>
+   </li>
+
+ <li>
+   <span class="title"> Compact Memory for K-prior Based Continual Learning</span>, <br>
+   <span class="conf">(NeurIPS 2025)</span>
+   <span class="author">Y. Jung<sup>*</sup>, H. Lee<sup>*</sup>, W. Chen<sup>*</sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
+   [<a href="https://openreview.net/pdf?id=vx0USHUYgL" target="_blank">AABI2025 version</a>]
+   </li>
 
    <li>
    <span class="title">Optimization Guarantees for Square-Root Natural-Gradient Variational Inference</span>, <br>
