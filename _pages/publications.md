@@ -77,7 +77,11 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
   <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
-
+   <li>
+   <span class="title">Information Geometry of Variational Bayes</span>, <br>
+   <span class="conf">(<a href="https://link.springer.com/journal/41884" target="_blank">Information Geometry</a>)</span> <span class="me">M.E. Khan</span>
+   [ <a href="https://arxiv.org/pdf/2509.15641" target="_blank">arXiv</a> ] <br>
+   </li>
   <li>
    <span class="title">Variational Learning Finds Flatter Solutions at the Edge of Stability</span>, <br>
       <span class="conf">(NeurIPS 2025)</span>
