@@ -94,7 +94,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="title"> Compact Memory for Continual Logistic Regression</span>, <br>
    <span class="conf">(NeurIPS 2025)</span>
    <span class="author">Y. Jung<sup></sup>, H. Lee<sup></sup>, W. Chen<sup></sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
-   [<a href="https://openreview.net/pdf?id=vx0USHUYgL" target="_blank">AABI2025 version</a>]
+   [ <a href="https://arxiv.org/pdf/2511.09167" target="_blank">ArXiv version</a> ] 
    </li>
 
    <li>
