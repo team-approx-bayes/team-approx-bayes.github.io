@@ -86,7 +86,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="title">Variational Learning Finds Flatter Solutions at the Edge of Stability</span>, <br>
       <span class="conf">(NeurIPS 2025)</span>
    <span class="author"> A. Ghosh, B. Cong, R. Yokota, S. Ravishankar, R. Wang, M. Tao, </span> <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff</span> <br>
-   [ <a href="https://arxiv.org/abs/2506.12903" target="_blank">ArXiv version</a> ] 
+   [<a href="https://arxiv.org/abs/2506.12903" target="_blank">ArXiv version</a>] 
    <b>Spotlight presentation (top 688 out of 21575 submissions)</b> <br>
    </li>
 
@@ -94,14 +94,14 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="title"> Compact Memory for Continual Logistic Regression</span>, <br>
    <span class="conf">(NeurIPS 2025)</span>
    <span class="author">Y. Jung<sup></sup>, H. Lee<sup></sup>, W. Chen<sup></sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
-   [ <a href="https://arxiv.org/pdf/2511.09167" target="_blank">ArXiv version</a> ] 
+   [<a href="https://arxiv.org/pdf/2511.09167" target="_blank">arXiv</a>] 
    </li>
 
    <li>
    <span class="title">Optimization Guarantees for Square-Root Natural-Gradient Variational Inference</span>, <br>
    <span class="conf">(<a href="https://openreview.net/forum?id=OMOFmb6ve7" target="_blank">TMLR 2025</a>)</span>
    <span class="author">N. Kumar, T. Moellenhoff</span>, <span class="author">M.E. Khan</span>, <span class="author">A. Lucchi</span>
-   [ <a href="https://openreview.net/forum?id=OMOFmb6ve7" target="_blank">OpenReview</a> ]<br>
+   [<a href="https://openreview.net/forum?id=OMOFmb6ve7" target="_blank">OpenReview</a>]<br>
    </li>
 
    <li>
