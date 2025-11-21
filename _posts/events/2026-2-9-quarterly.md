@@ -4,4 +4,4 @@ logo: fa-comments
 time: 17:00 JST
 ---
 
-*Discussion.* Internal group discussion (quarterly meeting).
+*Discussion.* Internal group discussion (triannual meeting).
