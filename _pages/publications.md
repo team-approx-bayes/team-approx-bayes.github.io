@@ -12,6 +12,12 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
+    
+   <li>
+   <span class="title">SVRG and Beyond via Posterior Correction</span>, <br>
+   <span class="author">N. Daheim, T. Möllenhoff, M. L. Ang, M.E. Khan</span>
+   [ <a href="https://arxiv.org/abs/2512.01930" target="_blank">ArXiv</a> ] <br>
+   </li>
 
    <li>
    <span class="title">Knowledge Adaptation as Posterior Correction</span>, <br>
@@ -38,7 +44,11 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    [ <a href="https://arxiv.org/abs/2506.13150" target="_blank">ArXiv</a> ] <br>
    </li>
 
-
+   <li>
+   <span class="title">Variational Learning Induces Adaptive Label Smoothing</span>, <br>
+   <span class="author">S.H Yang, Z. Liu, G.M. Marconi,</span> <span class="author">M.E. Khan</span>,
+   [ <a href="http://arxiv.org/abs/2502.07273" target="_blank">ArXiv</a> ] <br>
+   </li>
 
    <li>
    <span class="title">Natural Variational Annealing for Multimodal Optimization</span>, <br>
@@ -47,7 +57,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    </li>
 
     <li>
-     <span class="title"> Variational Visual Question Answering</span>, <br>
+     <span class="title"> Variational Visual Question Answering for Uncertainty-Aware Selective Prediction</span>, <br>
      <span class="conf">(Preprint)</span>
      <span class="author">T.J. Wieczorek, N. Daun, M.E. Khan, M. Rohrbach</span>
    [<a href="https://arxiv.org/abs/2505.09591" target="_blank">arXiv</a>]
