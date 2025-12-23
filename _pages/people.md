@@ -143,6 +143,16 @@ If you are interested in joining us, please [check the news](../news/) for open 
 <br>
 <h1>Group Photos</h1>
 
+<h2> Year-End Gathering, December 22, 2025 </h2>
+
+<img src="../assets/images/group/2025-year-end.jpg" alt="Team Photo" width="45%">
+<br><br>
+<h2> ABI Alumni at EurIPS 2025, December 3, 2025 </h2>
+
+<img src="../assets/images/group/2025-keynote-eurips.jpg" alt="Emti at the Keynote" width="45%">
+<img src="../assets/images/group/2025-alumni-eurips.jpg" alt="ABI Alumni Photo" width="45%">
+<br><br>
+
 <h2> Bayes Duality Workshop in Atami, July 4, 2025 </h2>
 
 <img src="../assets/images/group/2025-bayes-duality-atami.jpg" alt="team photo" width="45%">
