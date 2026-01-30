@@ -12,7 +12,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
-    
+
    <li>
    <span class="title">SVRG and Beyond via Posterior Correction</span>, <br>
    <span class="author">N. Daheim, T. Möllenhoff, M. L. Ang, M.E. Khan</span>
@@ -37,12 +37,6 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="author">B. Cong, N. Daheim, Y. Shen, R. Yokota</span>, <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff
    [ <a href="https://arxiv.org/abs/2506.14280" target="_blank">ArXiv</a> ] <br>
    </span></li>
-
-   <li>
-   <span class="title">Federated ADMM from Bayesian Duality</span>, <br>
-   <span class="author">T. Möllenhoff, S. Swaroop, F. Doshi-Velez, </span> <span class="author">M.E. Khan</span>,
-   [ <a href="https://arxiv.org/abs/2506.13150" target="_blank">ArXiv</a> ] <br>
-   </li>
 
    <li>
    <span class="title">Variational Learning Induces Adaptive Label Smoothing</span>, <br>
@@ -84,6 +78,17 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
 
    </ul> -->
+  <h2 class="w3-container w3-padding">2026</h2>
+   <ul class="w3-ul">
+
+   <li>
+   <span class="title">Federated ADMM from Bayesian Duality</span>, <br>
+   <span class="conf">(<a href="https://www.iclr.cc/Conferences/2026" target="_blank">ICLR 2026</a>)</span>
+   <span class="author">T. Möllenhoff<sup>*</sup>, S. Swaroop<sup>*</sup>, F. Doshi-Velez, M. E. Khan.</span>
+   [<a href="https://openreview.net/forum?id=J7uFlyDHoI" target="_blank">OpenReview</a>]
+   </li>
+
+   </ul>
 
   <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
@@ -170,7 +175,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    [<a href="https://openreview.net/forum?id=hPpyUv1XyQ" target="_blank">OpenReview</a>]
    </li>
 
-   </ul>
+</ul>
 
   <h2 class="w3-container w3-padding">2024</h2>
    <ul class="w3-ul">
