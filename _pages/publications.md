@@ -109,7 +109,9 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="title"> Compact Memory for Continual Logistic Regression</span>, <br>
    <span class="conf">(NeurIPS 2025)</span>
    <span class="author">Y. Jung<sup></sup>, H. Lee<sup></sup>, W. Chen<sup></sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
-   [<a href="https://arxiv.org/pdf/2511.09167" target="_blank">arXiv</a>] 
+   [<a href="https://arxiv.org/pdf/2511.09167" target="_blank">arXiv</a>] <br>
+   Also appeared at <span class="conf"><a href="http://approximateinference.org/" target="_blank">AABI 2025</a></span>
+   [<a href="https://openreview.net/pdf?id=vx0USHUYgL" target="_blank">OpenReview</a>]
    </li>
 
    <li>
@@ -124,7 +126,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="conf">(<a href="https://jmlr.org/">JMLR</a>)</span>
    <span class="author">G. Wolfer, P. Alquier</span>
    [ <a href="https://www.jmlr.org/papers/v26/23-0161.html" target="_blank">Published version</a> ]
-   [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]
+   [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]<br>
    </li>
 
    <li>
@@ -141,24 +143,6 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="author">S.-H. Yang, Z. Liu, G. M. Marconi, M. E. Khan </span>
    [<a href="https://arxiv.org/abs/2502.07273" target="_blank">arXiv</a>]
    </li>
-
-
-   <li>
-   <span class="title"> Compact Memory for K-prior Based Continual Learning</span>, <br>
-   <span class="conf">(AABI 2025)</span>
-   <span class="author">Y. Jung<sup>*</sup>, H. Lee<sup>*</sup>, W. Chen<sup>*</sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
-   [<a href="https://openreview.net/pdf?id=vx0USHUYgL" target="_blank">OpenReview</a>]
-   </li>
-
-
-
-   <li>
-   <span class="title"> Learning Graph Structure for GNNs via Marginal Likelihood</span>, <br>
-   <span class="conf">(AABI 2025)</span>
-   <span class="author">A. Yang, T. Möllenhoff, K. Kawarabayashi, M. E. Khan </span>
-   [<a href="https://openreview.net/pdf?id=W6uGcapisc" target="_blank">OpenReview</a>]
-   </li>
-
 
 
    <li>
