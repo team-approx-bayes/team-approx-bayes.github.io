@@ -12,7 +12,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
   <h2 class="w3-container w3-padding" style="font-weight: bold"> Early Drafts/Preprints</h2>
    <ul class="w3-ul">
-    
+
    <li>
    <span class="title">SVRG and Beyond via Posterior Correction</span>, <br>
    <span class="author">N. Daheim, T. Möllenhoff, M. L. Ang, M.E. Khan</span>
@@ -37,12 +37,6 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="author">B. Cong, N. Daheim, Y. Shen, R. Yokota</span>, <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff
    [ <a href="https://arxiv.org/abs/2506.14280" target="_blank">ArXiv</a> ] <br>
    </span></li>
-
-   <li>
-   <span class="title">Federated ADMM from Bayesian Duality</span>, <br>
-   <span class="author">T. Möllenhoff, S. Swaroop, F. Doshi-Velez, </span> <span class="author">M.E. Khan</span>,
-   [ <a href="https://arxiv.org/abs/2506.13150" target="_blank">ArXiv</a> ] <br>
-   </li>
 
    <li>
    <span class="title">Variational Learning Induces Adaptive Label Smoothing</span>, <br>
@@ -84,6 +78,17 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
 
    </ul> -->
+  <h2 class="w3-container w3-padding">2026</h2>
+   <ul class="w3-ul">
+
+   <li>
+   <span class="title">Federated ADMM from Bayesian Duality</span>, <br>
+   <span class="conf">(<a href="https://www.iclr.cc/Conferences/2026" target="_blank">ICLR 2026</a>)</span>
+   <span class="author">T. Möllenhoff<sup>*</sup>, S. Swaroop<sup>*</sup>, F. Doshi-Velez, M. E. Khan.</span>
+   [<a href="https://openreview.net/forum?id=J7uFlyDHoI" target="_blank">OpenReview</a>]
+   </li>
+
+   </ul>
 
   <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
@@ -104,7 +109,9 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="title"> Compact Memory for Continual Logistic Regression</span>, <br>
    <span class="conf">(NeurIPS 2025)</span>
    <span class="author">Y. Jung<sup></sup>, H. Lee<sup></sup>, W. Chen<sup></sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
-   [<a href="https://arxiv.org/pdf/2511.09167" target="_blank">arXiv</a>] 
+   [<a href="https://arxiv.org/pdf/2511.09167" target="_blank">arXiv</a>] <br>
+   Also appeared at <span class="conf"><a href="http://approximateinference.org/" target="_blank">AABI 2025</a></span>
+   [<a href="https://openreview.net/pdf?id=vx0USHUYgL" target="_blank">OpenReview</a>]
    </li>
 
    <li>
@@ -119,7 +126,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="conf">(<a href="https://jmlr.org/">JMLR</a>)</span>
    <span class="author">G. Wolfer, P. Alquier</span>
    [ <a href="https://www.jmlr.org/papers/v26/23-0161.html" target="_blank">Published version</a> ]
-   [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]
+   [<a href="https://arxiv.org/abs/2210.06672" target="_blank">arXiv</a>]<br>
    </li>
 
    <li>
@@ -139,24 +146,6 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
 
 
    <li>
-   <span class="title"> Compact Memory for K-prior Based Continual Learning</span>, <br>
-   <span class="conf">(AABI 2025)</span>
-   <span class="author">Y. Jung<sup>*</sup>, H. Lee<sup>*</sup>, W. Chen<sup>*</sup>, T. Möllenhoff, Y. Li , J. Lee , M. E. Khan </span>
-   [<a href="https://openreview.net/pdf?id=vx0USHUYgL" target="_blank">OpenReview</a>]
-   </li>
-
-
-
-   <li>
-   <span class="title"> Learning Graph Structure for GNNs via Marginal Likelihood</span>, <br>
-   <span class="conf">(AABI 2025)</span>
-   <span class="author">A. Yang, T. Möllenhoff, K. Kawarabayashi, M. E. Khan </span>
-   [<a href="https://openreview.net/pdf?id=W6uGcapisc" target="_blank">OpenReview</a>]
-   </li>
-
-
-
-   <li>
    <span class="title"> Connecting Federated ADMM to Bayes</span>, <br>
    <span class="conf">(<a href="https://www.iclr.cc/Conferences/2025" target="_blank">ICLR 2025</a>)</span>
    <span class="author">S. Swaroop, M.E. Khan, F. Doshi-Velez</span>
@@ -170,7 +159,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    [<a href="https://openreview.net/forum?id=hPpyUv1XyQ" target="_blank">OpenReview</a>]
    </li>
 
-   </ul>
+</ul>
 
   <h2 class="w3-container w3-padding">2024</h2>
    <ul class="w3-ul">
