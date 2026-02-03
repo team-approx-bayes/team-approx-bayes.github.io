@@ -109,14 +109,26 @@ We are machine learning researchers with an expertise in areas such as approxima
 We work on a variety of learning problems, especially those involving supervised, continual, active, federated, online, and reinforcement learning. Please check out
 <a href="../research/">research</a> and <a href="../publications">publications</a> pages for a more exhaustive overview.
 <br><br>
-If you are interested in joining us, see the <a href="../people">people</a> page and the news below for current opportunities.
+If you are interested in joining us, see the <a href="../people">people</a> page and the vacancies below for current opportunities.
+
 <br><br>
 
 
 
 <div>
 
-<h1>News</h1>
+<h2>Vacancies</h2>
+
+{% for post in site.posts %}
+{% if post.categories contains 'vacancies' -%}
+<b class="news-title" style="display: inline"> <i class="fa fa-clipboard-list"></i> {{ post.title -}}:</b> {{ post.content }}
+{%- endif %}
+{% endfor %}
+
+<i>For all positions, send inquiries to jobs-abi [at] googlegroups.com</i>.
+<br><br>
+
+<h2>News</h2>
 
 {% for post in site.posts %}
   {% if post.categories contains 'pinned-news' %}
