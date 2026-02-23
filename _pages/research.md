@@ -105,7 +105,7 @@ Here we list research code that has been open-sourced to accompany recent public
       <span class="conf">(<a href="https://neurips.cc/" target="_blank">NeurIPS 2025</a>)</span>
       <span class="title">Compact Memory for Continual Logistic Regression</span>,
       [<a href="https://arxiv.org/pdf/2511.09167" target="_blank">arXiv</a>]
-	    [<a href=https://github.com/team-approx-bayes/compact_memory_code" target="_blank">Code</a>]
+	    [<a href="https://github.com/team-approx-bayes/compact_memory_code" target="_blank">Code</a>]
     </li>	
     <li>
       <span class="conf">(<a href="https://sites.google.com/view/neurips2024-ftw/home" target="_blank">Fine-Tuning in Modern ML (FITML)</a>)</span>
