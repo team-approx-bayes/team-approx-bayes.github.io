@@ -114,23 +114,21 @@ Here we list research code that has been open-sourced to accompany recent public
 	    [<a href="https://github.com/team-approx-bayes/ivon-lora" target="_blank">Code</a>]
     </li>
     <li>
-		   <span class="conf">(<a href="https://icml.cc/" target="_blank">ICML 2024</a>)</span>
-        <span class="title">Variational Learning is Effective for
-		Large Deep Networks</span>,
+		<span class="conf">(<a href="https://icml.cc/" target="_blank">ICML 2024</a>)</span>
+        <span class="title">Variational Learning is Effective for Large Deep Networks</span>,
         [<a href="https://arxiv.org/abs/2402.17641" target="_blank">arXiv</a>]
 	    [<a href="https://github.com/team-approx-bayes/ivon" target="_blank">Code</a>]
     </li>
 
      <li>
-		   <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
-        <span class="title">Model Merging by Uncertainty-Based
-		Gradient Matching</span>,
+		<span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
+        <span class="title">Model Merging by Uncertainty-Based Gradient Matching</span>,
         [<a href="https://arxiv.org/abs/2310.12808" target="_blank">arXiv</a>]
 	    [<a href="https://github.com/UKPLab/iclr2024-model-merging" target="_blank">Code</a>]
      </li>
      <li>
  	    <span class="conf">(<a href="https://iclr.cc/" target="_blank">ICLR 2024</a>)</span>
- <span class="title">Conformal Prediction via Regression-as-Classification</span>,
+ 	    <span class="title">Conformal Prediction via Regression-as-Classification</span>,
         [<a href="https://etash.me/papers/Bayesian_Conformal_Prediction_through_Memory_Adaptation.pdf" target="_blank">preprint</a>]
 	    [<a href="https://github.com/EtashGuha/R2CCP" target="_blank">Code</a>]
      </li>
