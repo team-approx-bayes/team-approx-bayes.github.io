@@ -143,6 +143,23 @@ If you are interested in joining us, please [check the news](../news/) for open 
 <br>
 <h1>Group Photos</h1>
 
+<h2> Farewell Lunch with Yohan, February 20, 2025 </h2>
+
+<img src="../assets/images/group/2026-yohan-lunch.jpg" alt="Team Photo" width="45%">
+<img src="../assets/images/group/2026-yohan-lunch2.jpg" alt="Team Photo" width="45%">
+
+<br><br>
+<h2> Mt. Takao, February, 2025 </h2>
+
+<img src="../assets/images/group/2026-02-takao1.jpg" alt="Team Photo" width="45%">
+<img src="../assets/images/group/2026-02-takao2.jpg" alt="Team Photo" width="45%">
+
+<br><br>
+<h2> AIP New Year's Party, February 13, 2025 </h2>
+
+<img src="../assets/images/group/2026-aip-new-year.jpg" alt="Team Photo" width="45%">
+
+<br><br>
 <h2> Year-End Gathering, December 22, 2025 </h2>
 
 <img src="../assets/images/group/2025-year-end.jpg" alt="Team Photo" width="45%">
