@@ -14,6 +14,12 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
    <li>
+   <span class="title">Position: Agentic AI Systems should be making Bayes-Consistent Decisions</span>, <br>
+   <!--<span class="conf">(<a href="https://icml.cc/Conferences/2024" target="_blank">ICML 2024</a>)</span>-->
+   <span class="author"> With many authors</span> [ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6143772" target="_blank">SSRN</a> ]
+   </li>
+
+   <li>
    <span class="title">SVRG and Beyond via Posterior Correction</span>, <br>
    <span class="author">N. Daheim, T. Möllenhoff, M. L. Ang, M.E. Khan</span>
    [ <a href="https://arxiv.org/abs/2512.01930" target="_blank">ArXiv</a> ] <br>
