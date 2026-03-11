@@ -51,12 +51,6 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    </li>
 
    <li>
-   <span class="title">Natural Variational Annealing for Multimodal Optimization</span>, <br>
-   <span class="author"> T. L. Minh, J. Arbel, T. Möllenhoff,</span> <span class="author">M.E. Khan</span>  <span class="author">, F. Forbes</span>
-   [ <a href="https://arxiv.org/abs/2501.04667" target="_blank">ArXiv</a> ] <br>
-   </li>
-
-    <li>
      <span class="title"> Variational Visual Question Answering for Uncertainty-Aware Selective Prediction</span>, <br>
      <span class="conf">(Preprint)</span>
      <span class="author">T.J. Wieczorek, N. Daun, M.E. Khan, M. Rohrbach</span>
@@ -94,13 +88,27 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    [<a href="https://openreview.net/forum?id=J7uFlyDHoI" target="_blank">OpenReview</a>]
    </li>
 
+   <li>
+   <span class="title">A Stein identity for q-Gaussians with bounded support</span>, <br>
+   <span class="conf">(<a href="https://cpal.cc/" target="_blank">CPAL 2026</a>)</span>
+   <span class="author"> S. Sklaviadis, T. Möllenhoff, M. A. T. Figueiredo, A. Martins, M.E. Khan</span>   
+   [ <a href="https://arxiv.org/abs/2603.03673" target="_blank">ArXiv</a> ] <br>
+   </li>
+
+   <li>
+   <span class="title">Natural Variational Annealing for Multimodal Optimization</span>, <br>
+   <span class="conf">(<a href="https://academic.oup.com/imaiai" target="_blank">Information and Inference</a>)</span>
+   <span class="author"> T. L. Minh, J. Arbel, T. Möllenhoff, M.E. Khan, F. Forbes</span>  
+   [ <a href="https://arxiv.org/abs/2501.04667" target="_blank">ArXiv</a> ] <br>
+   </li>
+
    </ul>
 
   <h2 class="w3-container w3-padding">2025</h2>
    <ul class="w3-ul">
    <li>
    <span class="title">Information Geometry of Variational Bayes</span>, <br>
-   <span class="conf">(<a href="https://link.springer.com/journal/41884" target="_blank">Information Geometry</a>)</span> <span class="me">M.E. Khan</span>
+   <span class="conf">(<a href="https://link.springer.com/journal/41884" target="_blank">Information Geometry</a>)</span> <span class="author">M.E. Khan</span>
    [ <a href="https://arxiv.org/pdf/2509.15641" target="_blank">arXiv</a> ] <br>
    </li>
   <li>
