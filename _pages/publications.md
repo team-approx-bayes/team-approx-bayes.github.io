@@ -82,6 +82,13 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
    <li>
+   <span class="title">Variational Visual Question Answering</span>, <br>
+   <span class="conf">(TMLR 2026)</span> <span class="author"> T.J. Wieczorek, N. Daun,</span> <span class="author">M.E. Khan</span>, <span class="author">M. Rohrbach</span>
+   [ <a href="https://arxiv.org/abs/2505.09591" target="_blank">ArXiv</a> ] <br>
+   Also presented at <span class="conf">(<a href="https://safemmai.github.io/" target="_blank">SaFeMM-AI at ICCV2025</a>)</span> <br>
+   </li>
+
+   <li>
    <span class="title">Federated ADMM from Bayesian Duality</span>, <br>
    <span class="conf">(<a href="https://www.iclr.cc/Conferences/2026" target="_blank">ICLR 2026</a>)</span>
    <span class="author">T. Möllenhoff<sup>*</sup>, S. Swaroop<sup>*</sup>, F. Doshi-Velez, M. E. Khan.</span>

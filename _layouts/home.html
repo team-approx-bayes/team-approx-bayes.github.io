@@ -120,7 +120,7 @@ If you are interested in joining us, see the <a href="../people">people</a> page
 <h2>Vacancies</h2>
 
 {% for post in site.posts %}
-{% if post.categories contains 'vacancies' -%}
+{% if post.categories contains 'vacancies' and post.inactive != true -%}
 <b class="news-title" style="display: inline"> <i class="fa fa-clipboard-list"></i> {{ post.title -}}:</b> {{ post.content }}
 {%- endif %}
 {% endfor %}
