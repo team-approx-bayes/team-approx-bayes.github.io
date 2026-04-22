@@ -26,11 +26,12 @@ For more information, see our current [publications](../publications/) and the f
 
 We are also thankful to receive the following external funding (funding amount is approximate),
 <ul class="w3-ul">
-  <li> (2023-2026, USD 32,000) KAKENHI Grant-in-Aid for Early-Career Scientists, [<a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13024/" target="_blank">23K13024</a>] </li>
-  <li> (2021-2026, USD 2.23 Million) JST-CREST and French-ANR's grant, <a href="https://bayesduality.github.io" target="_blank">The Bayes-Duality Project</a></li>
-  <li> (2020-2023, USD 167,000) KAKENHI Grant-in-Aid for scientific Research (B), Life-Long Deep Learning using Bayesian Principles </li>
-  <li> (2019-2022, USD 237,000) External funding through companies for several Bayes related projects</li> 
-</ul>	
+  <li> (2023-2026, JPY 4.4M) KAKENHI Grant-in-Aid for Early-Career Scientists, [<a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13024/" target="_blank">23K13024</a>] </li>
+  <li> (2021-2026, JPY 240M) JST-CREST and French-ANR's grant, <a href="https://bayesduality.github.io" target="_blank">The Bayes-Duality Project</a></li>
+  <li> (2020-2023, JPY 18.2M) KAKENHI Grant-in-Aid for scientific Research (B), <a href="https://bayesduality.github.io/" target="_blank">Life-Long Deep Learning using Bayesian Principles</a></li>
+  <li> (2020-2023, USD 11,000) KAKENHI Grant-in-Aid for Challenging Research (Pioneering), <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K20624/" target="_blank">Application of unconventional linear algebra techniques to continuous learning in supergiant neural networks</a>, PI: Rio Yokota, Total Budget: JPY 19,710,000</li>
+  <li> (2019-2022, USD 237,000) External funding through companies for several Bayes related projects</li>
+</ul>
 
 # Blog
 This blog provides a medium for our researchers to present their recent research findings, insights and updates. The posts in the blog
