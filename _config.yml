@@ -107,6 +107,9 @@ collections:
   people:
     output: false
     permalink: /:collection/:path/
+  talks:
+    output: false
+    sort_by: date
 
 defaults:
   # _posts
