@@ -1,7 +1,7 @@
 ---
 title: Emtiyaz Khan
 type: member
-excerpt: Team Leader
+excerpt: Team Director
 link: https://emtiyaz.github.io/
 rank: 1
 date: 2016-10-01 00:00:00

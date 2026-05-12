@@ -1,7 +1,7 @@
 ---
 title: Thomas Möllenhoff
 type: member
-excerpt: Senior Research Scientist
+excerpt: Deputy Team Director
 link: https://www.thomasmoellenhoff.net/
 rank: 2
 date: 2020-08-01 00:00:00

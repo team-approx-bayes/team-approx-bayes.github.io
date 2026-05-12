@@ -41,7 +41,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
     <th>Dates</th>
 	<th>Next Destination</th>
   </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 2 %}
       <tr>
@@ -54,7 +54,26 @@ If you are interested in joining us, please [check the news](../news/) for open 
 </table>
 <br>
 <!--  -->
-
+<h2>Visiting Scientists</h2>
+<table class="responsive-table table" font-size="1em">
+  <tr>
+    <th>Name</th>
+    <th>Dates</th>
+    <th>Affiliation</th>
+  </tr>
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
+  {% for post in alumni %}
+    {% if post.rank == 8 %}
+      <tr>
+        <td>{{ post.title }}</td>
+        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
+        <td>{{post.affiliation}}</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+</table>
+<br>
+<!--  -->
 <h2>Postdoctoral Researcher</h2>
 <table class="responsive-table table">
   <tr>
@@ -62,7 +81,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
     <th>Dates</th>
 	<th>Next Destination</th>
   </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 3 %}
       <tr>
@@ -83,7 +102,7 @@ If you are interested in joining us, please [check the news](../news/) for open 
     <th>Dates</th>
 	<th>Next Destination</th>
   </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date' | reverse %}
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
   {% for post in alumni %}
     {% if post.rank == 5 %}
       <tr>
@@ -138,30 +157,17 @@ If you are interested in joining us, please [check the news](../news/) for open 
     {% endif %}
   {% endfor %}
 </table>
-<br>
-<!--  -->
-<h2>Visiting Scientists</h2>
-<table class="responsive-table table" font-size="1em">
-  <tr>
-    <th>Name</th>
-    <th>Dates</th>
-    <th>Affiliation</th>
-  </tr>
-  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
-  {% for post in alumni %}
-    {% if post.rank == 8 %}
-      <tr>
-        <td>{{ post.title }}</td>
-        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
-        <td>{{post.affiliation}}</td>
-      </tr>
-    {% endif %}
-  {% endfor %}
-</table>
 
 <section>
 <br>
 <h1>Group Photos</h1>
+
+<h2> Visit by Sin-Han, March 4, 2026 </h2>
+
+<img src="../assets/images/group/2026-03-04-sinhan-visit.jpg" alt="Team Photo" width="45%">
+<img src="../assets/images/group/2026-03-04-sinhan-visit2.jpg" alt="Team Photo" width="45%">
+
+<br><br>
 
 <h2> Farewell Lunch with Yohan, February 20, 2026 </h2>
 

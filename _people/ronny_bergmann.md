@@ -2,7 +2,7 @@
 title: Ronny Bergmann
 type: alumni
 excerpt: Visiting Scientist // *Norges teknisk-naturvitenskapelige universitet*
-affiliation: Norges teknisk-naturvitenskapelige universitet
+affiliation: NTNU, Trondheim, Norway
 link: https://ronnybergmann.net
 rank: 8
 date: 2026-02-26 00:00:00
