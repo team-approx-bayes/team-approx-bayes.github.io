@@ -82,6 +82,34 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
    <li>
+   <span class="title">SVRG and Beyond via Posterior Correction</span>, <br>
+   <span class="conf">(<a href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</a>)</span>
+   <span class="author">N. Daheim, T. Möllenhoff, M. L. Ang,</span> <span class="author">M.E. Khan</span>
+   [ <a href="https://arxiv.org/abs/2512.01930" target="_blank">ArXiv</a> ] <br>
+   <b>Accepted as spotlight</b>, top 2.2\% of all submissions (536 our of 23,918 submissions)<br>
+   </li>
+
+   <li>
+   <span class="title">Log-Normal Multiplicative Dynamics for Stable Low-Precision Training of Large Networks
+   </span>, <br>
+   <span class="conf">(<a href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</a>)</span>
+   <span class="author">K. Nishida, E. M. Kıral, K. Bannai</span>, <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff </span>
+   [ <a href="https://arxiv.org/abs/2506.17768" target="_blank">ArXiv</a> ] <br>
+   </li>
+
+   <li>
+   <span class="title">Joint Model and Data Sparsification via the Marginal Likelihood</span>, <br>
+   <span class="conf">(<a href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</a>)</span>
+   <span class="author">A. Timans, T. Möllenhoff, C. A. Naesseth,</span>, <span class="author">M.E. Khan</span>, <span class="author">E. Nalisnick</span>
+   </li>
+
+   <li>
+   <span class="title">Position: Agentic AI Systems should be making Bayes-Consistent Decisions</span>, <br>
+   <span class="conf">(<a href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</a>)</span>
+   <span class="author"> With many authors</span> [ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6143772" target="_blank">SSRN</a> ]
+   </li>
+
+   <li>
    <span class="title">Variational Visual Question Answering</span>, <br>
    <span class="conf">(TMLR 2026)</span> <span class="author"> T.J. Wieczorek, N. Daun,</span> <span class="author">M.E. Khan</span>, <span class="author">M. Rohrbach</span>
    [ <a href="https://arxiv.org/abs/2505.09591" target="_blank">ArXiv</a> ] <br>
