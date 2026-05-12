@@ -1,10 +1,12 @@
 ---
 title: Ronny Bergmann
-type: member
+type: alumni
 excerpt: Visiting Scientist // *Norges teknisk-naturvitenskapelige universitet*
+affiliation: Norges teknisk-naturvitenskapelige universitet
 link: https://ronnybergmann.net
 rank: 8
-date: 2026-02-02 00:00:00
+date: 2026-02-26 00:00:00
+date_leave: 2026-04-26 00:00:00
 header:
   teaser: /assets/images/people/ronny_bergmann.jpg
 ---

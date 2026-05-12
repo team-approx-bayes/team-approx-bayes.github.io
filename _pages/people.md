@@ -138,6 +138,26 @@ If you are interested in joining us, please [check the news](../news/) for open 
     {% endif %}
   {% endfor %}
 </table>
+<br>
+<!--  -->
+<h2>Visiting Scientists</h2>
+<table class="responsive-table table" font-size="1em">
+  <tr>
+    <th>Name</th>
+    <th>Dates</th>
+    <th>Affiliation</th>
+  </tr>
+  {% assign alumni = site.people | where: 'type', 'alumni' | sort: 'date_leave' | reverse %}
+  {% for post in alumni %}
+    {% if post.rank == 8 %}
+      <tr>
+        <td>{{ post.title }}</td>
+        <td>{{ post.date | date: '%m/%y' }}-{{ post.date_leave | date: '%m/%y' }}</td>
+        <td>{{post.affiliation}}</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+</table>
 
 <section>
 <br>
