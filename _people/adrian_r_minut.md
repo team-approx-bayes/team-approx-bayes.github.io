@@ -9,7 +9,7 @@ rank: 7
 #date_leave: 2025-07-11 00:00:00
 date: 2026-04-15 00:00:00
 header:
-  teaser: /assets/images/people/adrian_r_minut.jpg
+  teaser: /assets/images/people/adrian_r_minut.png
 ---
 
 Hi my name is Adrian.
