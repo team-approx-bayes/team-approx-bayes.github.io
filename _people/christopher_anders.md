@@ -1,5 +1,5 @@
 ---
-title: Christopher Johannes Anders
+title: Christopher J. Anders
 type: member
 excerpt: Postdoctoral Researcher
 link: https://cjanders.de
