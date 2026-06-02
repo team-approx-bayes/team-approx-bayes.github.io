@@ -14,29 +14,10 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <ul class="w3-ul">
 
    <li>
-   <span class="title">Position: Agentic AI Systems should be making Bayes-Consistent Decisions</span>, <br>
-   <!--<span class="conf">(<a href="https://icml.cc/Conferences/2024" target="_blank">ICML 2024</a>)</span>-->
-   <span class="author"> With many authors</span> [ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6143772" target="_blank">SSRN</a> ]
-   </li>
-
-   <li>
-   <span class="title">SVRG and Beyond via Posterior Correction</span>, <br>
-   <span class="author">N. Daheim, T. Möllenhoff, M. L. Ang, M.E. Khan</span>
-   [ <a href="https://arxiv.org/abs/2512.01930" target="_blank">ArXiv</a> ] <br>
-   </li>
-
-   <li>
    <span class="title">Knowledge Adaptation as Posterior Correction</span>, <br>
    <span class="author">M.E. Khan</span>
    [ <a href="https://arxiv.org/abs/2506.14262" target="_blank">ArXiv</a> ] <br>
    </li>
-
-   <li>
-   <span class="title">Log-Normal Multiplicative Dynamics for Stable Low-Precision Training of Large Networks
-   </span>, <br>
-   <span class="author">K. Nishida, E. M. Kıral, K. Bannai</span>, <span class="author">M.E. Khan</span>, <span class="author">T. Möllenhoff
-   [ <a href="https://arxiv.org/abs/2506.17768" target="_blank">ArXiv</a> ] <br>
-   </span></li>
 
    <li>
    <span class="title">Improving LoRA with Variational Learning</span>, <br>
@@ -48,13 +29,6 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="title">Variational Learning Induces Adaptive Label Smoothing</span>, <br>
    <span class="author">S.H Yang, Z. Liu, G.M. Marconi,</span> <span class="author">M.E. Khan</span>,
    [ <a href="http://arxiv.org/abs/2502.07273" target="_blank">ArXiv</a> ] <br>
-   </li>
-
-   <li>
-     <span class="title"> Variational Visual Question Answering for Uncertainty-Aware Selective Prediction</span>, <br>
-     <span class="conf">(Preprint)</span>
-     <span class="author">T.J. Wieczorek, N. Daun, M.E. Khan, M. Rohrbach</span>
-   [<a href="https://arxiv.org/abs/2505.09591" target="_blank">arXiv</a>]
    </li>
 
    <li>
@@ -86,7 +60,7 @@ For our code releases, please see our <a href="https://team-approx-bayes.github.
    <span class="conf">(<a href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</a>)</span>
    <span class="author">N. Daheim, T. Möllenhoff, M. L. Ang,</span> <span class="author">M.E. Khan</span>
    [ <a href="https://arxiv.org/abs/2512.01930" target="_blank">ArXiv</a> ] <br>
-   <b>Accepted as spotlight</b>, top 2.2\% of all submissions (536 our of 23,918 submissions)<br>
+   <b>Accepted as oral</b>, top 0.7% of all 23,918 submissions<br>
    </li>
 
    <li>
