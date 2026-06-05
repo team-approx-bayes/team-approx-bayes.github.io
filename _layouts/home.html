@@ -17,26 +17,6 @@ author_profile: false
     padding-bottom: 15px;
   }
 
-  /* Custom styled scrollbar for desktop visibility */
-  .carousel::-webkit-scrollbar {
-    height: 8px; /* Height of horizontal scrollbar */
-  }
-
-  .carousel::-webkit-scrollbar-track {
-    background: #f1f1f1;
-    border-radius: 10px;
-  }
-
-  .carousel::-webkit-scrollbar-thumb {
-    background: #c1c1c1;
-    border-radius: 10px;
-  }
-
-  .carousel::-webkit-scrollbar-thumb:hover {
-    background: #a8a8a8;
-  }
-
-  /* 2. The Slides */
   .slide {
     flex: 0 0 calc(30% - 14px);
     scroll-snap-align: start;
@@ -90,7 +70,7 @@ author_profile: false
   .slide-content:hover::after {
     background-color: rgba(0, 0, 0, 0.2);
     color: rgba(255, 255, 255, 1);
-    font-size: 52px; /* Slightly grows the icon size on hover */
+    font-size: 52px;
   }
 
   .slide-caption {
@@ -118,7 +98,7 @@ Welcome to the webpage of the {{ site.author.name }} @ <a href="https://www.rike
       </a>
     </div>
     <div class="slide-caption">
-      Talk: <i>Adaptive Bayesian Intelligence</i> at the <a href="https://lifelong-ml.cc/" target="_blank">RIKEN AIP - IIT Hyderabad Joint Workshop 2026</a>
+      Talk: <i>Adaptive Bayesian Intelligence</i> at the RIKEN AIP - IIT Hyderabad Joint Workshop 2026
     </div>
   </div>
 
