@@ -3,154 +3,308 @@ layout: single
 author_profile: false
 ---
 
+<style>
+  .carousel {
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: auto;
+    scrollbar-color: #c1c1c1 #f1f1f1;
+    gap: 20px;
+    padding-bottom: 15px;
+  }
+
+  /* Custom styled scrollbar for desktop visibility */
+  .carousel::-webkit-scrollbar {
+    height: 8px; /* Height of horizontal scrollbar */
+  }
+
+  .carousel::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+  }
+
+  .carousel::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 10px;
+  }
+
+  .carousel::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+  }
+
+  /* 2. The Slides */
+  .slide {
+    flex: 0 0 calc(30% - 14px);
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .slide-content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 300px;
+    height: 150px;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px #bbb;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    background: #333;
+    transition-duration: 0.4s;
+  }
+  .slide-content:hover {
+    box-shadow: 5px 5px 5px #99b;
+    cursor: pointer;
+  }
+
+  .slide-content::after {
+    content: "\25B6";
+    /* content: "\1F517"; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.0);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 48px;
+    transition: all 0.3s ease;
+    pointer-events: none;
+  }
+
+  .slide-content:hover::after {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: rgba(255, 255, 255, 1);
+    font-size: 52px; /* Slightly grows the icon size on hover */
+  }
+
+  .slide-caption {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-left: 5px;
+    padding-right: 0px;
+    hyphens: auto;
+  }
+  iframe video img {
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
 Welcome to the webpage of the {{ site.author.name }} @ <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>.
-<br>
-<br>
+<br />
+<br />
 
-<div class="highlights">
-
-  <div class="slick-slide">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_49ydwCrhVk?si=6E6O4kPijCMW-FyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
-      Keynote at the <a href="https://lifelong-ml.cc/" target="_blank">3rd Conference on Lifelong Learning Agents (CoLLAs) 2024</a> [ <a href="https://emtiyaz.github.io/papers/July30_2024_CoLLAs.pdf" target="_blank">Slides</a> ]
+<div class="carousel" id="carousel">
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=wpD5t34xfQ8" target="_blank">
+        <img class="video-content" src="https://img.youtube.com/vi/wpD5t34xfQ8/0.jpg" />
+      </a>
     </div>
-
-  <div class="slick-slide">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/SynayJaFIrI?start=3426" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
-      <a
-      href="https://arxiv.org/abs/2402.17641">ICML 2024: Variational Learning is Effective for Large Deep Networks</a>
+    <div class="slide-caption">
+      Talk: <i>Adaptive Bayesian Intelligence</i> at the <a href="https://lifelong-ml.cc/" target="_blank">RIKEN AIP - IIT Hyderabad Joint Workshop 2026</a>
     </div>
+  </div>
 
-<div class="slick-slide">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4T_E5IO3aBI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
-  <a
-  href="https://arxiv.org/abs/2210.01620">ICLR 2023: SAM as an Optimal Relaxation of Bayes</a>
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=_49ydwCrhVk" target="_blank">
+        <img src="https://img.youtube.com/vi/_49ydwCrhVk/0.jpg" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Keynote: <i>How to make machines that adapt quickly</i> at the
+      <a href="https://lifelong-ml.cc/" target="_blank">3rd Conference on Lifelong Learning Agents (CoLLAs) 2024</a> [<a
+        href="https://emtiyaz.github.io/papers/July30_2024_CoLLAs.pdf"
+        target="_blank"
+        >Slides</a
+      >]
+    </div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=SynayJaFIrI?start=3426" target="_blank">
+        <img src="https://img.youtube.com/vi/SynayJaFIrI/0.jpg" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Talk: <i>Variational Learning is Effective for Large Deep Networks</i> at RIKEN-IIT Joint Workshop 2024 [<a href="https://arxiv.org/abs/2402.17641"
+        >ICML 2024 Paper</a
+      >]
+    </div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=4T_E5IO3aBI" target="_blank">
+        <img src="https://img.youtube.com/vi/4T_E5IO3aBI/0.jpg" />
+      </a>
+    </div>
+    <div class="slide-caption">Talk: <i>SAM as an Optimal Relaxation of Bayes</i> [<a href="https://arxiv.org/abs/2210.01620">ICLR 2023 Paper</a>]</div>
+  </div>
+
+  <!--
+  <div class="slide">
+    <div class="slide-content">
+      <video controls>
+        <source src="https://download.dsf.tuhh.de/ig4ds22/videos/IG4DS-GeoffreyWolfer_Information_Geometry.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div class="slide-caption">
+      Talk: <i>Information Geometry of Reversible Markov Chains</i> at <a href="https://www.dsf.tuhh.de/index.php/ig4ds/" target="_blank">IG4DS</a> [<a
+        href="https://download.dsf.tuhh.de/ig4ds22/slides/IG4DS-GeoffreyWolfer-Information.pdf"
+        target="_blank"
+        >Slides</a
+      >]
+    </div>
+  </div>
+  -->
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://slideslive.com/38959794/kpriors-a-general-principle-of-adaptation?ref=speaker-17205-latest" target="_blank">
+        <img src="assets/images/kpriors.png" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Talk:
+      <i>K-priors: A General Principle of Adaptation</i>
+      [<a href="https://arxiv.org/abs/2106.08769" target="_blank">NeurIPS 2021 Paper</a>]
+    </div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=XvTFW0MqtZE" target="_blank">
+        <img src="https://img.youtube.com/vi/XvTFW0MqtZE/0.jpg" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Talk: <i>Approximate Bayesian Inference Team</i> at RIKEN AIP Open Seminar 2021
+      [<a href="https://aip.riken.jp/video/aip-open-seminar-16/" target="_blank">Details</a>]
+    </div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://arxiv.org/abs/2107.04562" target="_blank">
+        <img src="assets/images/bayesian.png" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Paper: <i>The Bayesian Learning Rule</i>
+      [<a href="https://arxiv.org/abs/2107.04562">JMLR Paper</a>]
+    </div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=2DqFApSP2xQ" target="_blank">
+        <img src="https://img.youtube.com/vi/2DqFApSP2xQ/0.jpg" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Tutorial: <i>Learning with Bayesian Principles</i> at SMILES 2020
+      [<a href="https://emtiyaz.github.io/papers/learning_from_bayes.pdf">Slides</a>]
+    </div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=xp_UCGVMPIM" target="_blank">
+        <img src="https://img.youtube.com/vi/xp_UCGVMPIM/0.jpg" />
+      </a>
+    </div>
+    <div class="slide-caption">Tutorial: <i>Sequential Prediction Problems</i> at SMILES 2020</div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://emtiyaz.github.io/papers/symposium_2019.pdf">
+        <img src="assets/images/research2019.png" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Poster: <i>Summary of our research work for the year 2019</i>
+      [<a href="https://emtiyaz.github.io/papers/symposium_2019.pdf" target="_blank">pdf</a>]
+    </div>
+  </div>
+
+  <div class="slide">
+    <div class="slide-content">
+      <a href="https://www.youtube.com/watch?v=2wFb46Q8kmA" target="_blank">
+        <img src="https://img.youtube.com/vi/2wFb46Q8kmA/0.jpg" />
+      </a>
+    </div>
+    <div class="slide-caption">
+      Tutorial: <i>Deep Learning with Bayesian Principles</i> at
+      <a href="https://nips.cc/Conferences/2019/Schedule?showEvent=13205" target="_blank">NeurIPS 2019</a>
+      [<a href="papers/neurips_tutorial.pdf" target="_blank">Slides</a>]
+      [<a href="https://slideslive.com/38921489/deep-learning-with-bayesian-principles" target="_blank">SlidesLive</a>]
+    </div>
+  </div>
 </div>
-  
-<div class="slick-slide">
-  <video controls style="width: 100%; height: 100%;">
-    <source src="https://download.dsf.tuhh.de/ig4ds22/videos/IG4DS-GeoffreyWolfer_Information_Geometry.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
-  Talk at <a href="https://www.dsf.tuhh.de/index.php/ig4ds/" target="_blank">IG4DS</a> -
-  "Information Geometry of Reversible Markov Chains" [ <a href="https://download.dsf.tuhh.de/ig4ds22/slides/IG4DS-GeoffreyWolfer-Information.pdf" target="_blank">Slides</a> ]
-</div>
 
-<div class="slick-slide">
-  <img src="assets/images/kpriors.png">
-  <a href="https://slideslive.com/38959794/kpriors-a-general-principle-of-adaptation?ref=speaker-17205-latest">
-  K-priors: A General Principle of Adaptation</a>
-</div>
-  
-<div class="slick-slide">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XvTFW0MqtZE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
-    <a href="https://aip.riken.jp/video/aip-open-seminar-16/">RIKEN AIP Open Seminar 2021</a>
-</div>    
-
-<div class="slick-slide">
-  <img src="assets/images/bayesian.png">
-  <a
-  href="https://arxiv.org/abs/2107.04562">The
-  Bayesian Learning Rule</a>
-</div>
-
-<div class="slick-slide">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2DqFApSP2xQ?rel=0" frameborder=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
-  Tutorial at SMILES 2020: <a href="https://emtiyaz.github.io/papers/learning_from_bayes.pdf">Learning with Bayesian Principles.</a>
-</div>
-
-<div class="slick-slide">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xp_UCGVMPIM?rel=0" frameborder=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
-  Tutorial at SMILES 2020: Sequential Prediction Problems.
-</div>
-
-<div class="slick-slide">
-  <img src="assets/images/research2019.png">
-  <a href="https://emtiyaz.github.io/papers/symposium_2019.pdf"> Summary of our research work for the year 2019. </a>
-</div>
-
-<div class="slick-slide">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2wFb46Q8kmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
-  <a href="https://nips.cc/Conferences/2019/Schedule?showEvent=13205" target="_blank">NeurIPS 2019 Tutorial</a>. See <a href="papers/neurips_tutorial.pdf" target="_blank">Slides</a>, <a href="https://slideslive.com/38921489/deep-learning-with-bayesian-principles" target="_blank">on SlidesLive</a> or <a href="https://www.youtube.com/watch?v=2wFb46Q8kmA"
-    target="_blank">YouTube</a>.
-</div>
-
-</div>
-
-<div>
-
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="slick/slick.min.js"></script>
-
-<script type="text/javascript">
-$('.highlights').slick({
-infinite: true,
-slidesToShow: 3,
-slidesToScroll: 1,
-accessibility: true,
-mobileFirst: true,
-arrows: true,
+<script>
+  const carousel = document.getElementById('carousel');
+  carousel.addEventListener('wheel', (e) => {
+    if (e.deltaY !== 0) {
+      e.preventDefault();
+      carousel.scrollLeft += e.deltaY * 3;
+    }
   });
 </script>
 
-</div>
-
-<br>
-Humans, animals, and other living beings have a natural ability to autonomously learn throughout their lives and quickly adapt to their surroundings, but computers lack such abilities.
-Our goal is to bridge such gaps between the learning of living-beings and computers.
-We are machine learning researchers with an expertise in areas such as approximate inference, Bayesian statistics, continuous optimization, information geometry, etc.
-We work on a variety of learning problems, especially those involving supervised, continual, active, federated, online, and reinforcement learning. Please check out
-<a href="../research/">research</a> and <a href="../publications">publications</a> pages for a more exhaustive overview.
-<br><br>
+<br />
+Humans, animals, and other living beings have a natural ability to autonomously learn throughout their lives and quickly adapt to their surroundings, but
+computers lack such abilities. Our goal is to bridge such gaps between the learning of living-beings and computers. We are machine learning researchers with an
+expertise in areas such as approximate inference, Bayesian statistics, continuous optimization, information geometry, etc. We work on a variety of learning
+problems, especially those involving supervised, continual, active, federated, online, and reinforcement learning. Please check out
+<a href="../research/">research</a> and <a href="../publications">publications</a> pages for a more exhaustive overview. <br /><br />
 If you are interested in joining us, see the <a href="../people">people</a> page and the vacancies below for current opportunities.
 
-<br><br>
-
-
+<br /><br />
 
 <div>
+  <h2>Vacancies</h2>
 
-<h2>Vacancies</h2>
+  {% for post in site.posts %} {% if post.categories contains 'vacancies' and post.inactive != true -%}
+  <b class="news-title" style="display: inline"> <i class="fa fa-clipboard-list"></i> {{ post.title -}}:</b> {{ post.content }} {%- endif %} {% endfor %}
 
-{% for post in site.posts %}
-{% if post.categories contains 'vacancies' and post.inactive != true -%}
-<b class="news-title" style="display: inline"> <i class="fa fa-clipboard-list"></i> {{ post.title -}}:</b> {{ post.content }}
-{%- endif %}
-{% endfor %}
+  <i>For all positions, send inquiries to jobs-abi [at] googlegroups.com</i>. <br /><br />
 
-<i>For all positions, send inquiries to jobs-abi [at] googlegroups.com</i>.
-<br><br>
+  <h2>News</h2>
 
-<h2>News</h2>
-
-{% for post in site.posts %}
-  {% if post.categories contains 'pinned-news' %}
-    <div class="news">
-      <b class="news-title"> <i class="fa fa-thumbtack"></i>  <b> {{ post.title }} </b> </b> <br>
-      {{ post.content }}
-      <hr>
-    </div>
-  {% endif %}
-{% endfor %}
-
-{% assign i = 0 %}
-{% for post in site.posts %}
-  {% if post.categories contains 'news' and i < 5 %}
-    <div class="news">
-        <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br>
-      {{ post.content }}
-      <hr>
-    </div>
-    {% assign i = i | plus:1 %}
-  {% endif %}
-{% endfor %}
-<a href="news" class="news"> Show older news... </a>
-
+  {% for post in site.posts %} {% if post.categories contains 'pinned-news' %}
+  <div class="news">
+    <b class="news-title"> <i class="fa fa-thumbtack"></i> <b> {{ post.title }} </b> </b> <br />
+    {{ post.content }}
+    <hr />
+  </div>
+  {% endif %} {% endfor %} {% assign i = 0 %} {% for post in site.posts %} {% if post.categories contains 'news' and i < 5 %}
+  <div class="news">
+    <b class="news-title"> <i class="fa {{post.logo}}"></i> <b> {{ post.date | date: '%B %d, %Y' }} </b> </b> <br />
+    {{ post.content }}
+    <hr />
+  </div>
+  {% assign i = i | plus:1 %} {% endif %} {% endfor %}
+  <a href="news" class="news"> Show older news... </a>
 </div>
