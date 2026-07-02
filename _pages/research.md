@@ -8,14 +8,7 @@ custom_css: research
 [**[Research]**](#research)   [**[Blog]**](#blog)  [**[Talk]**](#talk)  [**[Code]**](#code)
 
 # Research
-Humans, animals, and other living beings have a natural ability to autonomously learn throughout their lives and quickly adapt to their surroundings, but computers lack such abilities.
-Our goal is to bridge such gaps between the learning of living-beings and computers.
-We are machine learning researchers with an expertise in areas such as approximate inference, Bayesian statistics, continuous optimization, information geometry etc.
-We work on a variety of learning problems, especially those involving supervised, continual, active, federated, online, and reinforcement learning.
-
-Currently, we are developing algorithms which enable computers to autonomously learn to perceive, act, and reason throughout their lives.
-Our research often brings together ideas from a variety of theoretical and applied fields, such as, mathematical optimization,
-Bayesian statistics, information geometry, signal processing, and control systems.
+We aim to develop sustainable and transparent Artificial Intelligent (AI) systems. The goal is twofold: one, to break free from heavy dependence on extremely large data sets, computations, and energy sources, and two, to build systems with transparent functionalities. We plan to achieve these goals by developing AI systems that can learn via quick and continual adaptation, similarly to humans and animals. Our research relies on a mix of techniques from a wide variety of fields, such as deep learning, statistics, and optimization, covering both theoretical and practical tools.
 
 For more information, see our current [publications](../publications/) and the following pages:
 
