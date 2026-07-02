@@ -162,6 +162,13 @@ If you are interested in joining us, please [check the news](../news/) for open 
 <br>
 <h1>Group Photos</h1>
 
+<h2> 4th Bayes-Duality Workshop in Gotemba, June 19, 2026 </h2>
+
+<img src="../assets/images/group/2026-06-19-bayes-duality-gotemba.jpeg" alt="Team Photo" width="45%">
+<img src="../assets/images/group/2026-06-19-bayes-duality-gotemba-2.jpeg" alt="Team Photo" width="45%">
+
+<br> <br>
+
 <h2> Visit by Sin-Han, March 4, 2026 </h2>
 
 <img src="../assets/images/group/2026-03-04-sinhan-visit.jpg" alt="Team Photo" width="45%">
