@@ -7,6 +7,7 @@ rank: 2
 date: 2020-08-01 00:00:00
 header:
   teaser: /assets/images/people/thomas_moellenhoff.png
+location: Tokyo
 ---
 
 Hi my name is Thomas.

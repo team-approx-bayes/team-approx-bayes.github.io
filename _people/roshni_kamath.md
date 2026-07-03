@@ -8,6 +8,7 @@ rank: 7
 date: 2025-02-19 01:00:00
 header:
   teaser: /assets/images/people/roshni_kamath.png
+location: Tokyo
 ---
 
 Hi my name is Roshni.

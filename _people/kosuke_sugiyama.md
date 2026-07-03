@@ -7,6 +7,7 @@ rank: 8
 date: 2025-05-01 00:00:00
 header:
   teaser: /assets/images/people/kosuke.jpg
+location: Tokyo
 ---
 
 Hi my name is Kosuke.

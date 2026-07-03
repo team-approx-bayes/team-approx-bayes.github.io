@@ -7,6 +7,7 @@ rank: 8
 date: 2024-08-01 00:00:00
 header:
   teaser: /assets/images/people/geoffrey_wolfer_200.jpg
+location: Tokyo
 ---
 
 Hi my name is Geoffrey.

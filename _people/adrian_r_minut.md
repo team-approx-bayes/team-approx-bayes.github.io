@@ -10,6 +10,7 @@ rank: 7
 date: 2026-04-15 00:00:00
 header:
   teaser: /assets/images/people/adrian_r_minut.png
+location: Tokyo
 ---
 
 Hi my name is Adrian.

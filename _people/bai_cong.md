@@ -8,6 +8,7 @@ rank: 6
 date: 2024-09-02 00:00:00
 header:
   teaser: /assets/images/people/congbai.png
+location: Tokyo
 ---
 
 Hi my name is Bai Cong.

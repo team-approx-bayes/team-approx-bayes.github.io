@@ -7,6 +7,7 @@ rank: 8
 date: 2024-09-18 00:00:00
 header:
   teaser: /assets/images/people/yokota.png
+location: Tokyo
 ---
 
 Hi my name is Rio.

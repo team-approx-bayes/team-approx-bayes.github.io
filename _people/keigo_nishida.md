@@ -7,6 +7,7 @@ rank: 3
 date: 2023-04-01 00:00:00
 header:
   teaser: /assets/images/people/keigo_nishida.png
+location: Tokyo
 ---
 
 Hi my name is Keigo.

@@ -11,21 +11,22 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/Person"> <!-- Change -->
+  <article class="archive__item" itemscope itemtype="http://schema.org/Person">
     {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser-person"> <!-- Change-->
-        <img src="{{ teaser | relative_url }}" alt="">
+      <div class="archive__item-teaser-person">
+        <img src="{{ teaser | relative_url }}" alt="Picture of {{ title }}">
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
-        <!-- <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> -->
       {% else %}
-        {{ title}}
-        <!-- <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a> -->
+        {{ title }}
       {% endif %}
     </h2>
+    {% if post.location %}
+      <i>Location: {{ post.location }}</i>
+    {% endif %}
     {% include page__meta.html type=include.type %}
       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | replace: "//", "<br>" | remove: "<p>" | remove: "</p>" | truncate: 160 }}</p>{% endif %}
   </article>

@@ -7,6 +7,7 @@ rank: 4
 date: 2024-07-01 00:00:00
 header:
   teaser: /assets/images/people/christopher_anders_200.png
+location: Tokyo
 ---
 
 Hi my name is Christopher.

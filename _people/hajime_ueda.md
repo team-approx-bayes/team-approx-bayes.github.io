@@ -8,6 +8,7 @@ rank: 6
 date: 2024-04-01 00:00:00
 header:
   teaser: /assets/images/people/hajime_ueda.jpg
+location: Tokyo
 ---
 
 Hi my name is Hajime.

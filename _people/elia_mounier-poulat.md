@@ -8,5 +8,6 @@ rank: 7
 date: 2026-03-05
 header:
   teaser: /assets/images/people/elia_mounier-poulat.png
+location: Tokyo
 ---
 Hi my name is Elia.
