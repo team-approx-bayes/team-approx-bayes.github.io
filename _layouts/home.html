@@ -257,12 +257,12 @@ Welcome to the webpage of the {{ site.author.name }} @ <a href="https://www.rike
 We aim to develop sustainable and transparent Artificial Intelligent (AI) systems. The goal is twofold: one, to break free from heavy dependence on extremely large data sets, computations, and energy sources, and two, to build systems with transparent functionalities. We plan to achieve these goals by developing AI systems that can learn via quick and continual adaptation, similarly to humans and animals. Our research relies on a mix of techniques from a wide variety of fields, such as deep learning, statistics, and optimization, covering both theoretical and practical tools.
 Please check out
 <a href="../research/">research</a> and <a href="../publications">publications</a> pages for a more exhaustive overview. <br /><br />
-If you are interested in joining us, see the <a href="../people">people</a> page and the vacancies below for current opportunities.
+If you are interested in joining us, see the vacancies below for current opportunities and <a href="../people">people</a> to get to know our team.
 
 <br /><br />
 
 <div>
-  <h2>Vacancies</h2>
+  <h2 id="vacancies">Vacancies</h2>
 
   {% for post in site.posts %} {% if post.categories contains 'vacancies' and post.inactive != true -%}
   <b class="news-title" style="display: inline"> <i class="fa fa-clipboard-list"></i> {{ post.title -}}:</b> {{ post.content }} {%- endif %} {% endfor %}
