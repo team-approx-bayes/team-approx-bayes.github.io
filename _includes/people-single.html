@@ -25,7 +25,9 @@
       {% endif %}
     </h2>
     {% if post.location %}
-      <i>Location: {{ post.location }}</i>
+      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0">
+        ({{ post.location }})
+      </p>
     {% endif %}
     {% include page__meta.html type=include.type %}
       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | replace: "//", "<br>" | remove: "<p>" | remove: "</p>" | truncate: 160 }}</p>{% endif %}
