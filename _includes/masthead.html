@@ -9,7 +9,7 @@
           <a class="site-logo" href="https://www.riken.jp/en/research/labs/aip/generic_tech/approx_bayes_infer/index.html"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
         {% unless logo2_path == empty %}
-          <a class="site-logo" href="https://www.informatik.tu-darmstadt.de/fb20/professuren_und_gruppenleitungen/index.en.jsp"><img src="{{ logo2_path | relative_url }}" alt=""></a>
+          <a class="site-logo" href="https://www.informatik.tu-darmstadt.de/fb20/professuren_und_gruppenleitungen/index.en.jsp"><img style="width: 6.5rem" src="{{ logo2_path | relative_url }}" alt=""></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
