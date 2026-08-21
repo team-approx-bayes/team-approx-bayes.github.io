@@ -1,11 +1,12 @@
 ---
 title: Roshni Kamath
-type: member
-affiliation: Intern
+type: alumni
+affiliation: TU Darmstadt
 excerpt: Intern // *TU Darmstadt*
 link: https://ml-research.github.io/people/rkamath/index.html
 rank: 7
 date: 2025-02-19 01:00:00
+date_leave: 2026-07-27 01:00:00
 header:
   teaser: /assets/images/people/roshni_kamath.png
 location: Tokyo
