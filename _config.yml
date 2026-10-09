@@ -108,6 +108,9 @@ collections:
   people:
     output: false
     permalink: /:collection/:path/
+  publications:
+    output: false
+    permalink: /:collection/:path/
 
 defaults:
   # _posts

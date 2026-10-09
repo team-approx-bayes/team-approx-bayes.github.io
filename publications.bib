@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /publications/abi.bib
+---
+{% assign publications = site.publications | sort: "date" | reverse %}
+{% for pub in publications %}{% if pub.bib %}{{ pub.bib | strip }}
+
+{% endif %}{% endfor %}

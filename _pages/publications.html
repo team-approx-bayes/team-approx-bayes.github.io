@@ -6,70 +6,75 @@ author_profile: false
 custom_css: pub
 ---
 
+
+<style>
+  .copy-text {
+    color: #0066cc;
+    cursor: pointer;
+    font-weight: 500;
+    text-decoration: underline;
+    user-select: none;
+    transition: color 0.2s ease;
+  }
+
+  .copy-text:hover {
+    color: #004080;
+  }
+
+  .copy-text.copied {
+    color: #28a745;
+    text-decoration: none;
+  }
+</style>
+
+<script>
+  function copyBibtex(element, targetId) {
+    const textToCopy = document.getElementById(targetId).innerText;
+    const labelSpan = element.querySelector('.copy-label');
+
+    navigator.clipboard.writeText(textToCopy).then(() => {
+      const originalText = labelSpan.innerText;
+      labelSpan.innerText = "Copied!";
+      element.classList.add("copied");
+
+      setTimeout(() => {
+        labelSpan.innerText = originalText;
+        element.classList.remove("copied");
+      }, 2000);
+    });
+  }
+</script>
+
 For our code releases, please see our
-<a href="https://team-approx-bayes.github.io/research/#code">code lists</a>.
+<a href="https://team-approx-bayes.github.io/research/#code">code lists</a>. <br/ >
+
+<a href="{{ '/publications/abi.bib' | relative_url }}">Download bibtex for all publications.</a>
+
+{% assign publications = site.publications | sort: "date" | reverse %}
+{% assign preprints = publications | where_exp: "item", "item.path contains 'preprint'" %}
 
 <div class="w3-container" style="margin-top: 1em">
+
   <h2 class="w3-container w3-padding" style="font-weight: bold">Early Drafts/Preprints</h2>
   <ul class="w3-ul">
-    <li>
-      <span class="title">A Generalization of Amari's Bayesian Duality</span>, <br />
-      <span class="author">M.E. Khan, T. Möllenhoff </span> [
-      <a href="https://arxiv.org/abs/2609.09126v1" target="_blank">arXiv</a> ] <br />
-    </li>
 
+  {% for pub in preprints %}
+    {% assign code_id = "bibtex-" | append: forloop.index %}
     <li>
-      <span class="title">Fast and Slow Variational Continual Learning</span>, <br />
-      <span class="author">S. Paul, Y. Jung, M.E. Khan, S. Swaroop, T. Möllenhoff, M. Mundt</span> [
-      <a href="https://arxiv.org/abs/2606.24007" target="_blank">arXiv</a> ] <br />
+      {{ pub.content }}
+      {% if pub.bib %}
+      [ <span class="copy-text" onclick="copyBibtex(this, '{{ code_id }}')">
+          <i class="fa-regular fa-copy"></i>
+          <span class="copy-label">bibtex</span>
+        </span> ]
+      <pre style="display: none;"><code id="{{ code_id }}">{{ pub.bib }}</code></pre>
+      {% endif %}
     </li>
-
-    <li>
-      <span class="title">Quantifying the Agreement Between Data-Influence and Data-Similarity to Understand LLM Behavior</span>, <br />
-      <span class="author">C. J. Anders, H. Da Silva Gameiro, N. Daheim, M.E. Khan</span> [
-      <a href="https://arxiv.org/abs/2606.23591" target="_blank">arXiv</a> ] <br />
-    </li>
-
-    <li>
-      <span class="title">Knowledge Adaptation as Posterior Correction</span>,
-      <br />
-      <span class="author">M.E. Khan</span>
-      [ <a href="https://arxiv.org/abs/2506.14262" target="_blank">arXiv</a> ]
-    </li>
-
-    <li>
-      <span class="title">Improving LoRA with Variational Learning</span>,
-      <br />
-      <span class="author">B. Cong, N. Daheim, Y. Shen, R. Yokota, M.E. Khan, T. Möllenhoff </span>
-      [ <a href="https://arxiv.org/abs/2506.14280" target="_blank">arXiv</a> ]
-    </li>
-
-    <li>
-      <span class="title">Variational Learning Induces Adaptive Label Smoothing</span>,
-      <br />
-      <span class="author">S.H Yang, Z. Liu, G.M. Marconi, M.E. Khan</span>, [ <a href="http://arxiv.org/abs/2502.07273" target="_blank">arXiv</a> ]
-    </li>
-
-    <li>
-      <span class="title"> How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging</span>,
-      <br />
-      <span class="conf">(Preprint)</span>
-      <span class="author">H. Monzón Maldonado, T. Möllenhoff, N. Daheim, I. Gurevych, M.E. Khan</span>
-      [<a href="https://arxiv.org/abs/2412.08147" target="_blank">arXiv</a>]
-    </li>
-
-    <li>
-      <span class="title"> Optimistic Estimation of Convergence in Markov Chains with the Average-Mixing Time</span>,
-      <br />
-      <span class="conf">(Preprint)</span>
-      <span class="author">G. Wolfer, P. Alquier</span>
-      [<a href="https://arxiv.org/abs/2402.10506" target="_blank">arXiv</a>]
-    </li>
+    {% endfor %}
   </ul>
 
   <!-- <h2 class="w3-container w3-padding">In press / to appear </h2>
    <ul class="w3-ul">
-
 
    </ul> -->
   <h2 class="w3-container w3-padding">2026</h2>
