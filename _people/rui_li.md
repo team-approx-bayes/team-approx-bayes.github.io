@@ -1,6 +1,6 @@
 ---
 title: Rui Li
-type: member
+type: alumni
 affiliation: Aalto University
 excerpt: Intern // *Aalto University*
 link: https://ruili-pml.github.io/

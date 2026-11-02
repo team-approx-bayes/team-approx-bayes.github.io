@@ -1,6 +1,6 @@
 ---
 title: Elia Mounier-Poulat
-type: member
+type: alumni
 affiliation: EPFL, Switzerland
 excerpt: Intern // *EPFL, Switzerland*
 link: https://people.epfl.ch/elia.mounier-poulat
