@@ -153,7 +153,6 @@ author_profile: false
 
   const dateFormat = new Intl.DateTimeFormat("en-US", {
     timeZone: "Asia/Tokyo",
-    weekday: "long",
     month: "long",
     day: "2-digit",
     year: "numeric"
