@@ -1,9 +1,9 @@
 ---
 title: Christopher J. Anders
 type: member
-excerpt: Postdoctoral Researcher
+excerpt: Research Scientist
 link: https://cjanders.de
-rank: 4
+rank: 2
 date: 2024-07-01 00:00:00
 header:
   teaser: /assets/images/people/christopher_anders_200.png
