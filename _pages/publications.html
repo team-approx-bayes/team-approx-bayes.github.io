@@ -46,7 +46,7 @@ custom_css: pub
 </script>
 
 For our code releases, please see our
-<a href="https://team-approx-bayes.github.io/research/#code">code lists</a>. <br/ >
+<a href="{{ '/research/#code' | relative_url }}">code lists</a>. <br/ >
 
 <a href="{{ '/publications/abi.bib' | relative_url }}">Download bibtex for all publications.</a>
 
@@ -79,12 +79,20 @@ For our code releases, please see our
    </ul> -->
   <h2 class="w3-container w3-padding">2026</h2>
   <ul class="w3-ul">
+    {% assign pubs2026 = publications | where_exp: "item", "item.path contains '_publications/2026/'" %}
+    {% for pub in pubs2026 %}
+    {% assign code_id = "bibtex-2026-" | append: forloop.index %}
     <li>
-      <span class="title">SOAP-Bubbles: Structured Weight Uncertainty for Neural Networks</span>, <br />
-      <span class="conf">(<a href="https://neurips.cc/Conferences/2026" target="_blank">NeurIPS 2026</a>)</span>
-      <span class="author">A. R. Minut, N. Daheim, M. Miani, M.E. Khan, W. Lin, T. Möllenhoff</span> [
-      <a href="https://arxiv.org/abs/2606.23357" target="_blank">arXiv</a> ] <br />
+      {{ pub.content }}
+      {% if pub.bib %}
+      [ <span class="copy-text" onclick="copyBibtex(this, '{{ code_id }}')">
+          <i class="fa-regular fa-copy"></i>
+          <span class="copy-label">bibtex</span>
+        </span> ]
+      <pre style="display: none;"><code id="{{ code_id }}">{{ pub.bib }}</code></pre>
+      {% endif %}
     </li>
+    {% endfor %}
 
     <li>
       <span class="title">Incorporating Neural Network Structure in the Bayesian Learning Rule</span>, <br />
